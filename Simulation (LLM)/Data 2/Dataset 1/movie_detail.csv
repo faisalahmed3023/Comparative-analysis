@@ -1,0 +1,2925 @@
+item_id,title,genre,rating
+0,Who Framed Roger Rabbit?,Adventure|Animation|Film-Noir,3.6680080482897384
+1,Touch of Evil,Crime|Film-Noir|Thriller,3.861111111111111
+2,Alien³,Action|Horror|Sci-Fi|Thriller,3.0895140664961636
+3,"American Werewolf in London, An",Horror,3.532934131736527
+4,Footloose,Drama,3.296875
+5,Ever After: A Cinderella Story,Drama|Romance,3.515679442508711
+6,Licence to Kill,Action,3.3463035019455254
+7,X-Men,Action|Sci-Fi,3.479695431472081
+8,"Honey, I Shrunk the Kids",Adventure|Children's|Comedy|Fantasy|Sci-Fi,2.9661016949152543
+9,Chinatown,Film-Noir|Mystery|Thriller,4.073643410852713
+10,Thunderball,Action,3.5958188153310107
+11,Duck Soup,Comedy|War,4.023316062176166
+12,Stand by Me,Adventure|Comedy|Drama,3.9622641509433962
+13,"Sex, Lies, and Videotape",Drama,3.576923076923077
+14,Aladdin,Animation|Children's|Comedy|Musical,3.657957244655582
+15,Toy Story,Animation|Children's|Comedy,3.903640256959315
+16,Jumanji,Adventure|Children's|Fantasy,3.2452316076294276
+17,Lifeboat,Drama|Thriller|War,3.7777777777777777
+18,Shadow of a Doubt,Film-Noir|Thriller,4.086614173228346
+19,Shane,Drama|Western,3.807580174927114
+20,Suspicion,Mystery|Thriller,3.9671532846715327
+21,Charlotte's Web,Animation|Children's,3.9146757679180886
+22,Tie Me Up! Tie Me Down!,Drama,3.589108910891089
+23,Out of the Past,Film-Noir,4.027472527472527
+24,She's the One,Comedy|Romance,2.8577777777777778
+25,One Flew Over the Cuckoo's Nest,Drama,4.017681728880157
+26,Arsenic and Old Lace,Comedy|Mystery|Thriller,4.045356371490281
+27,Star Wars: Episode V - The Empire Strikes Back,Action|Adventure|Drama|Sci-Fi|War,3.933333333333333
+28,Raiders of the Lost Ark,Action|Adventure,4.104508196721311
+29,Brazil,Sci-Fi,3.9354005167958657
+30,Batman,Action|Adventure|Crime|Drama,3.5359477124183005
+31,Snow White and the Seven Dwarfs,Animation|Children's|Musical,3.8389423076923075
+32,Beauty and the Beast,Animation|Children's|Musical,3.7002457002457003
+33,Pinocchio,Animation|Children's,3.925531914893617
+34,Pretty Woman,Comedy|Romance,3.5831381733021077
+35,Bride of Frankenstein,Horror,3.8484848484848486
+36,Legend,Adventure|Fantasy|Romance,3.3369565217391304
+37,Tender Mercies,Drama,3.805157593123209
+38,Sixteen Candles,Comedy,3.6408839779005526
+39,Pretty in Pink,Comedy|Drama|Romance,3.4304123711340204
+40,Evita,Drama|Musical,3.369774919614148
+41,Cape Fear,Thriller,3.7336448598130842
+42,Cape Fear,Film-Noir|Thriller,3.7336448598130842
+43,Carrie,Horror,3.67621776504298
+44,Patton,Drama|War,4.104838709677419
+45,Highlander,Action|Adventure,3.5282485875706215
+46,Young Frankenstein,Comedy|Horror,4.048997772828508
+47,Lady and the Tramp,Animation|Children's|Comedy|Musical|Romance,3.7958715596330275
+48,Breaking the Waves,Drama,3.7299703264094957
+49,Fantasia,Animation|Children's|Musical,3.8380743982494527
+50,Almost Famous,Comedy|Drama,4.142857142857143
+51,101 Dalmatians,Children's|Comedy,3.57985257985258
+52,101 Dalmatians,Animation|Children's,3.57985257985258
+53,High Noon,Western,4.123123123123123
+54,Shine,Drama|Romance,3.7786069651741294
+55,Somewhere in Time,Drama|Romance,3.6013745704467355
+56,This Is Spinal Tap,Comedy|Drama|Musical,3.8545454545454545
+57,Jagged Edge,Thriller,3.568702290076336
+58,History of the World: Part I,Comedy,3.5209125475285172
+59,Nashville,Drama|Musical,3.891304347826087
+60,Rosemary's Baby,Horror|Thriller,3.7831632653061225
+61,Funny Face,Comedy|Musical,3.5643939393939394
+62,Breakfast at Tiffany's,Drama|Romance,3.852112676056338
+63,Vertigo,Mystery|Thriller,4.125
+64,Rear Window,Mystery|Thriller,4.143776824034335
+65,Being There,Comedy,4.0
+66,It Happened One Night,Comedy,4.223796033994335
+67,Gandhi,Drama,4.096412556053812
+68,Sleeping Beauty,Animation|Children's|Musical,3.7270194986072425
+69,M*A*S*H,Comedy|War,3.9726315789473685
+70,North by Northwest,Drama|Thriller,3.9915433403805496
+71,Pink Floyd - The Wall,Drama|Musical|War,3.315985130111524
+72,Places in the Heart,Drama,3.8675496688741724
+73,Children of a Lesser God,Drama,3.9005681818181817
+74,Broadcast News,Comedy|Drama|Romance,3.8548387096774195
+75,Working Girl,Comedy|Drama,3.54089709762533
+76,Star Trek: The Motion Picture,Action|Adventure|Sci-Fi,3.17032967032967
+77,Charade,Comedy|Mystery|Romance|Thriller,4.168224299065421
+78,Beetlejuice,Comedy|Fantasy,3.759219088937093
+79,Casablanca,Drama|Romance|War,4.111111111111111
+80,Say Anything...,Comedy|Drama|Romance,4.008021390374331
+81,Star Trek V: The Final Frontier,Action|Adventure|Sci-Fi,2.960674157303371
+82,Star Trek: The Wrath of Khan,Action|Adventure|Sci-Fi,3.8744588744588744
+83,My Fair Lady,Musical|Romance,4.087378640776699
+84,Family Plot,Comedy|Thriller,3.172185430463576
+85,Star Trek III: The Search for Spock,Action|Adventure|Sci-Fi,3.563131313131313
+86,Sabrina,Comedy|Romance,3.6903553299492384
+87,Sabrina,Comedy|Romance,3.6903553299492384
+88,Frenzy,Thriller,3.786206896551724
+89,Roman Holiday,Comedy|Romance,3.929618768328446
+90,Meet Me in St. Louis,Musical,3.6792452830188678
+91,Trainspotting,Drama,3.600558659217877
+92,Pokémon: The First Movie,Animation|Children's,1.654867256637168
+93,Marnie,Thriller,3.5943396226415096
+94,Grease,Comedy|Musical|Romance,3.5487179487179485
+95,Gone with the Wind,Drama|Romance|War,3.9073684210526314
+96,Citizen Kane,Drama,4.040816326530612
+97,Independence Day (ID4),Action|Sci-Fi|War,3.335616438356164
+98,All About Eve,Drama,3.9797979797979797
+99,Rebecca,Romance|Thriller,4.024324324324325
+100,First Blood,Action,3.3563218390804597
+101,Holiday Inn,Comedy|Musical,3.9037267080745344
+102,Romancing the Stone,Action|Adventure|Comedy|Romance,3.827956989247312
+103,About Last Night...,Comedy|Drama|Romance,3.1453287197231834
+104,Notorious,Film-Noir|Romance|Thriller,4.085308056872038
+105,Willow,Action|Adventure|Fantasy,3.5714285714285716
+106,Spellbound,Mystery|Romance|Thriller,3.756183745583039
+107,"Affair to Remember, An",Romance,3.636
+108,Donnie Brasco,Crime|Drama,3.7085714285714286
+109,Jerry Maguire,Drama|Romance,3.684326710816777
+110,To Catch a Thief,Comedy|Romance|Thriller,4.033653846153846
+111,Raising Arizona,Comedy,3.7316561844863734
+112,Gigi,Musical,3.347266881028939
+113,Bound,Crime|Drama|Romance|Thriller,3.8914285714285715
+114,Clue,Comedy|Mystery,3.0552147239263805
+115,Moonstruck,Comedy,3.8343815513626835
+116,One True Thing,Drama,3.522875816993464
+117,L.A. Confidential,Crime|Film-Noir|Mystery|Thriller,3.9117082533589254
+118,Laura,Crime|Film-Noir|Mystery,4.148760330578512
+119,Top Hat,Comedy|Musical|Romance,3.769470404984424
+120,Giant,Drama,3.9595141700404857
+121,East of Eden,Drama,3.861290322580645
+122,You've Got Mail,Comedy|Romance,3.43979057591623
+123,Stuart Little,Children's|Comedy,3.123529411764706
+124,Mighty Joe Young,Adventure|Children's|Drama,2.971830985915493
+125,Mighty Joe Young,Adventure|Children's|Drama,2.971830985915493
+126,Fantasia 2000,Animation|Children's|Musical,3.6675675675675676
+127,Harvey,Comedy,3.903485254691689
+128,His Girl Friday,Comedy,4.149484536082475
+129,Them!,Sci-Fi|Thriller|War,3.262589928057554
+130,It's a Wonderful Life,Drama,4.084951456310679
+131,Mr. Smith Goes to Washington,Drama,4.107361963190184
+132,Bringing Up Baby,Comedy,4.0476190476190474
+133,Stardust Memories,Comedy|Drama,3.327354260089686
+134,Edward Scissorhands,Drama|Romance,3.6527472527472526
+135,King Kong,Action|Adventure|Horror,3.5723830734966593
+136,King Kong,Action|Adventure|Horror,3.5723830734966593
+137,Chasing Amy,Drama|Romance,3.6814814814814816
+138,Hercules,Adventure|Animation|Children's|Comedy|Musical,3.2768166089965396
+139,Desperately Seeking Susan,Comedy|Romance,3.1185682326621924
+140,Shampoo,Comedy|Romance,3.198250728862974
+141,My Best Friend's Wedding,Comedy|Romance,3.3467336683417086
+142,Singin' in the Rain,Musical|Romance,4.075757575757576
+143,Wonder Boys,Comedy|Drama,3.981132075471698
+144,Face/Off,Action|Sci-Fi|Thriller,3.2729411764705882
+145,Police Academy,Comedy,2.932806324110672
+146,Cat on a Hot Tin Roof,Drama,4.052770448548813
+147,Meet John Doe,Drama,3.8550724637681157
+148,"Blue Angel, The (Blaue Engel, Der)",Drama,3.7552083333333335
+149,Agnes of God,Drama|Mystery,3.2613981762917934
+150,Titanic,Drama|Romance,3.3680981595092025
+151,Titanic,Action|Drama,3.3680981595092025
+152,Tomorrow Never Dies,Action|Romance|Thriller,3.4814814814814814
+153,Gattaca,Drama|Sci-Fi|Thriller,3.6133004926108376
+154,Taxi Driver,Drama|Thriller,4.013129102844639
+155,Contact,Drama|Sci-Fi,3.706013363028953
+156,"Night to Remember, A",Action|Drama,3.792207792207792
+157,Key Largo,Crime|Drama|Film-Noir|Thriller,3.965260545905707
+158,Entrapment,Crime|Thriller,3.065625
+159,Erin Brockovich,Drama,3.84796573875803
+160,Stripes,Comedy,3.679144385026738
+161,Star Trek: Insurrection,Action|Sci-Fi,3.5277777777777777
+162,Stalag 17,Drama|War,3.9183673469387754
+163,Jumpin' Jack Flash,Action|Comedy|Romance|Thriller,2.8776223776223775
+164,Peggy Sue Got Married,Comedy|Romance,3.4582210242587603
+165,Shakespeare in Love,Comedy|Romance,3.922661870503597
+166,Miracle on 34th Street,Drama,3.71571072319202
+167,Miracle on 34th Street,Drama,3.71571072319202
+168,Conspiracy Theory,Action|Mystery|Romance|Thriller,3.5994550408719346
+169,Mildred Pierce,Drama,4.021645021645021
+170,Birdy,Drama|War,3.935222672064777
+171,Thelma & Louise,Action|Drama,3.8426501035196687
+172,Crocodile Dundee,Adventure|Comedy,3.562929061784897
+173,Witness,Drama|Romance|Thriller,3.954732510288066
+174,Dark City,Film-Noir|Sci-Fi|Thriller,3.7979274611398965
+175,...And Justice for All,Drama|Thriller,3.8898678414096914
+176,Animal House,Comedy,3.7986725663716814
+177,Do the Right Thing,Comedy|Drama,3.9127358490566038
+178,Star Wars: Episode I - The Phantom Menace,Action|Adventure|Fantasy|Sci-Fi,3.2358674463937622
+179,Breaking Away,Drama,4.02088772845953
+180,Murphy's Romance,Comedy|Romance,3.364912280701754
+181,Network,Comedy|Drama,3.97799511002445
+182,Bull Durham,Comedy,3.7623126338329764
+183,Double Indemnity,Crime|Film-Noir,3.995515695067265
+184,Dog Day Afternoon,Comedy|Crime|Drama,3.8641975308641974
+185,American Graffiti,Comedy|Drama,4.008849557522124
+186,Mulan,Animation|Children's,3.4539877300613497
+187,Mommie Dearest,Drama,3.1298701298701297
+188,Blast from the Past,Comedy|Romance,3.567857142857143
+189,Don Juan DeMarco,Comedy|Drama|Romance,3.5063694267515926
+190,Frequency,Drama|Thriller,3.455919395465995
+191,Return to Me,Drama|Romance,3.5685714285714285
+192,Superman,Action|Adventure|Sci-Fi,3.618483412322275
+193,"Bell, Book and Candle",Comedy|Romance,3.7753623188405796
+194,Superman II,Action|Adventure|Sci-Fi,3.058679706601467
+195,Out of Sight,Action|Crime|Romance,3.7726027397260276
+196,Bound for Glory,Drama,3.8333333333333335
+197,Ghostbusters,Comedy|Horror,3.8502994011976046
+198,"Walk on the Moon, A",Drama|Romance,3.6222222222222222
+199,Dracula,Horror,3.528368794326241
+200,Dracula,Horror,3.528368794326241
+201,"Good Morning, Vietnam",Comedy|Drama|War,3.5845824411134903
+202,Frankenstein,Horror,3.9337539432176656
+203,Eat Drink Man Woman,Comedy|Drama,4.142487046632124
+204,Ed Wood,Comedy|Drama,3.4123006833712983
+205,Arthur,Comedy|Romance,3.5341614906832297
+206,Go,Crime,3.8849840255591053
+207,Plan 9 from Outer Space,Horror|Sci-Fi,2.6353383458646618
+208,Oscar and Lucinda (a.k.a. Oscar & Lucinda),Drama|Romance,3.25
+209,Gypsy,Musical,3.8106796116504853
+210,On the Town,Musical,3.9078947368421053
+211,Modern Times,Comedy,4.201166180758017
+212,Invasion of the Body Snatchers,Horror|Sci-Fi,3.6424870466321244
+213,Crimes of the Heart,Comedy|Drama,3.4971098265895955
+214,Going My Way,Comedy,3.603305785123967
+215,Close Encounters of the Third Kind,Drama|Sci-Fi,3.970276008492569
+216,Cabaret,Musical|War,3.7865429234338746
+217,Notting Hill,Comedy|Romance,3.7275
+218,Three Days of the Condor,Thriller,4.014134275618375
+219,Little Shop of Horrors,Comedy|Horror|Musical,3.536130536130536
+220,Guys and Dolls,Musical,3.707692307692308
+221,On the Waterfront,Crime|Drama,4.072261072261072
+222,Marty,Drama|Romance,3.855828220858896
+223,West Side Story,Musical|Romance,4.036319612590799
+224,Ladyhawke,Adventure|Fantasy|Romance,3.6814404432132966
+225,GoldenEye,Action|Adventure|Thriller,3.3139841688654355
+226,Star Wars: Episode IV - A New Hope,Action|Adventure|Fantasy|Sci-Fi,3.996268656716418
+227,What's Eating Gilbert Grape,Drama,3.837905236907731
+228,Like Water for Chocolate (Como agua para chocolate),Drama|Romance,3.8620689655172415
+229,While You Were Sleeping,Comedy|Romance,3.5760869565217392
+230,Sense and Sensibility,Drama|Romance,3.9911894273127753
+231,Marathon Man,Thriller,3.883116883116883
+232,Caddyshack,Comedy,3.5037406483790523
+233,Lucas,Drama,3.588888888888889
+234,High Fidelity,Comedy,3.873873873873874
+235,Rocky,Action|Drama,3.792771084337349
+236,Chariots of Fire,Drama,3.9034482758620688
+237,Muriel's Wedding,Comedy|Romance,3.831978319783198
+238,Out of Africa,Drama|Romance,3.669833729216152
+239,Leaving Las Vegas,Drama|Romance,3.482300884955752
+240,Angel Heart,Film-Noir|Mystery|Thriller,3.228169014084507
+241,Nine 1/2 Weeks,Drama,2.685823754789272
+242,Cinderella,Animation|Children's|Musical,3.830188679245283
+243,Moonraker,Action|Romance|Sci-Fi,3.3045977011494254
+244,Rain Man,Drama,3.9405286343612334
+245,Driving Miss Daisy,Drama,4.0341151385927505
+246,Run Lola Run (Lola rennt),Action|Crime|Romance,3.9411764705882355
+247,Repo Man,Comedy|Sci-Fi,3.6502463054187193
+248,Mary Poppins,Children's|Comedy|Musical,3.792710706150342
+249,Dumbo,Animation|Children's|Musical,3.6956521739130435
+250,Forrest Gump,Comedy|Romance|War,3.8220183486238533
+251,Babe,Children's|Comedy|Drama,3.8560311284046693
+252,Four Weddings and a Funeral,Comedy|Romance,3.8004201680672267
+253,Risky Business,Comedy,3.7180156657963446
+254,Rebel Without a Cause,Drama,3.8689320388349513
+255,Bedknobs and Broomsticks,Adventure|Children's|Musical,3.623015873015873
+256,Body Heat,Crime|Thriller,4.083333333333333
+257,Alice in Wonderland,Animation|Children's|Musical,3.774774774774775
+258,Ferris Bueller's Day Off,Comedy,3.912065439672802
+259,Better Than Chocolate,Comedy|Romance,3.344
+260,Gladiator,Action|Drama,3.9251559251559254
+261,Once Were Warriors,Crime|Drama,3.9699570815450644
+262,"Professional, The (a.k.a. Leon: The Professional)",Crime|Drama|Romance|Thriller,3.9012987012987015
+263,Pocahontas,Animation|Children's|Musical|Romance,3.0381944444444446
+264,Children of Paradise (Les enfants du paradis),Drama|Romance,4.067873303167421
+265,Yellow Submarine,Animation|Musical,3.7295081967213113
+266,American Beauty,Comedy|Drama,3.7065972222222223
+267,And Now for Something Completely Different,Comedy,4.111821086261981
+268,Serpico,Crime|Drama,4.0
+269,Caligula,Drama,2.458100558659218
+270,Sullivan's Travels,Comedy,3.901140684410646
+271,"Hard Day's Night, A",Comedy|Musical,3.8236775818639797
+272,On Golden Pond,Drama,3.7338709677419355
+273,Airplane!,Comedy,3.703252032520325
+274,Everyone Says I Love You,Comedy|Musical|Romance,3.667820069204152
+275,Anchors Aweigh,Comedy|Musical,3.553763440860215
+276,Big,Comedy|Fantasy,3.9008097165991904
+277,William Shakespeare's Romeo and Juliet,Drama|Romance,3.485342019543974
+278,Big Trouble in Little China,Action|Comedy,3.2349397590361444
+279,Love and Death,Comedy,3.854609929078014
+280,Aliens,Action|Sci-Fi|Thriller|War,3.8089171974522293
+281,Gilda,Film-Noir,3.761904761904762
+282,South Pacific,Musical|Romance|War,3.5615615615615615
+283,Blazing Saddles,Comedy|Western,3.9269311064718164
+284,Flashdance,Drama|Romance,3.1962025316455698
+285,Deliverance,Adventure|Thriller,3.8270142180094786
+286,Excalibur,Action|Drama|Fantasy|Romance,3.727034120734908
+287,"Clockwork Orange, A",Sci-Fi,3.825263157894737
+288,Goldfinger,Action,3.9070904645476774
+289,Private Benjamin,Comedy,3.050314465408805
+290,From Russia with Love,Action,3.917705735660848
+291,Monty Python and the Holy Grail,Comedy,4.008264462809917
+292,Dr. No,Action,3.922872340425532
+293,Aladdin and the King of Thieves,Animation|Children's|Comedy,2.9414893617021276
+294,Go Fish,Drama|Romance,3.262857142857143
+295,Fargo,Crime|Drama|Thriller,3.9347408829174664
+296,Sleepless in Seattle,Comedy|Romance,3.796728971962617
+297,Chicken Run,Animation|Children's|Comedy,3.8591836734693876
+298,Star Wars: Episode VI - Return of the Jedi,Action|Adventure|Romance|Sci-Fi|War,3.757798165137615
+299,Alien,Action|Horror|Sci-Fi|Thriller,3.9207708779443253
+300,Blood Simple,Drama|Film-Noir,4.0411899313501145
+301,Bambi,Animation|Children's,3.7939698492462313
+302,Prizzi's Honor,Comedy|Drama|Romance,3.566326530612245
+303,Willy Wonka and the Chocolate Factory,Adventure|Children's|Comedy|Fantasy,3.8191721132897603
+304,Blade Runner,Film-Noir|Sci-Fi,3.9741550695825048
+305,Sleeper,Comedy|Sci-Fi,3.908235294117647
+306,Bananas,Comedy|War,3.8454258675078865
+307,"Fish Called Wanda, A",Comedy,4.077083333333333
+308,Angels and Insects,Drama|Romance,3.443298969072165
+309,Dangerous Liaisons,Drama|Romance,3.697247706422018
+310,Bronco Billy,Adventure|Drama|Romance,2.641860465116279
+311,F/X,Action|Crime|Thriller,3.574074074074074
+312,Amadeus,Drama,4.127572016460905
+313,Monty Python's Life of Brian,Comedy,3.9568527918781724
+314,Victor/Victoria,Comedy|Musical,3.6971279373368144
+315,Raging Bull,Drama,3.9808612440191387
+316,Starman,Adventure|Drama|Romance|Sci-Fi,3.5407925407925407
+317,Dial M for Murder,Mystery|Thriller,4.010810810810811
+318,Jurassic Park,Action|Adventure|Sci-Fi,3.6449136276391556
+319,Dirty Dancing,Musical|Romance,3.4058679706601467
+320,Splash,Comedy|Fantasy|Romance,3.5086206896551726
+321,Forbidden Planet,Sci-Fi,3.527687296416938
+322,Field of Dreams,Drama,3.7445255474452557
+323,Annie Hall,Comedy|Romance,3.9198473282442747
+324,All That Jazz,Musical,3.788732394366197
+325,When Harry Met Sally...,Comedy|Romance,3.989406779661017
+326,Harold and Maude,Comedy,4.132558139534884
+327,"Seventh Seal, The (Sjunde inseglet, Det)",Drama,4.033333333333333
+328,E.T. the Extra-Terrestrial,Children's|Drama|Fantasy|Sci-Fi,3.852125693160813
+329,"Christmas Carol, A",Drama,3.9215686274509802
+330,Dead Men Don't Wear Plaid,Comedy|Crime|Thriller,3.2758620689655173
+331,Indiana Jones and the Temple of Doom,Action|Adventure,3.7410926365795723
+332,"Affair of Love, An (Une Liaison Pornographique)",Drama|Romance,3.7160493827160495
+333,Manhattan,Comedy|Drama|Romance,4.052380952380952
+334,Miller's Crossing,Drama,3.8863636363636362
+335,Dead Poets Society,Drama,3.947494033412888
+336,Strictly Ballroom,Comedy|Romance,3.9552941176470586
+337,Adventures in Babysitting,Adventure|Comedy,3.450980392156863
+338,Groundhog Day,Comedy|Romance,3.75968992248062
+339,Backdraft,Action|Drama,3.4392265193370166
+340,Some Kind of Wonderful,Drama|Romance,3.6272727272727274
+341,Austin Powers: International Man of Mystery,Comedy,3.532981530343008
+342,Life Is Beautiful (La Vita è bella),Comedy|Drama,3.939524838012959
+343,Tin Cup,Comedy|Romance,3.1598837209302326
+344,Against All Odds,Romance,3.284090909090909
+345,Elizabeth,Drama,3.884453781512605
+346,Air Force One,Action|Thriller,3.5877862595419847
+347,Good Will Hunting,Drama,4.006122448979592
+348,Ulee's Gold,Drama,3.5809859154929575
+349,"Mrs. Brown (Her Majesty, Mrs. Brown)",Drama|Romance,3.889937106918239
+350,Airport,Drama,3.254385964912281
+351,Anne Frank Remembered,Documentary,4.417582417582418
+352,"Cool Dry Place, A",Drama,3.7
+353,Big Night,Drama,4.178841309823677
+354,Sliding Doors,Drama|Romance,3.8575581395348837
+355,American Pie,Comedy,3.107329842931937
+356,As Good As It Gets,Comedy|Drama,3.9617706237424546
+357,Austin Powers: The Spy Who Shagged Me,Comedy,3.1105882352941174
+358,Ace Ventura: Pet Detective,Comedy,2.811989100817439
+359,Beverly Hills Cop III,Action|Comedy,2.5652173913043477
+360,"Idiots, The (Idioterne)",Comedy|Drama,2.967741935483871
+361,Big Daddy,Comedy,2.8507462686567164
+362,Clueless,Comedy|Romance,3.708154506437768
+363,Dave,Comedy|Romance,3.7890995260663507
+364,Speed,Action|Romance|Thriller,3.4227642276422765
+365,"Postino, Il (The Postman)",Drama|Romance,4.080684596577017
+366,Indochine,Drama|Romance,3.6823104693140793
+367,Best in Show,Comedy,4.079069767441861
+368,Air America,Action|Comedy,2.78125
+369,Croupier,Crime|Drama,4.210702341137123
+370,Cinema Paradiso,Comedy|Drama|Romance,4.068396226415095
+371,Nikita (La Femme Nikita),Thriller,3.8329113924050633
+372,Being John Malkovich,Comedy,3.8903846153846153
+373,Home Alone,Children's|Comedy,3.0808383233532934
+374,Ghost,Comedy|Romance|Thriller,3.782608695652174
+375,Scream,Horror|Thriller,3.332409972299169
+376,Michael,Comedy|Romance,3.0993377483443707
+377,Doctor Zhivago,Drama|Romance|War,3.8834498834498836
+378,Twister,Action|Adventure|Romance|Thriller,3.1173333333333333
+379,Re-Animator,Horror,3.336283185840708
+380,Blue Velvet,Drama|Mystery,3.6520681265206814
+381,Cool Hand Luke,Comedy|Drama,4.007009345794392
+382,"Room with a View, A",Drama|Romance,4.00498753117207
+383,Dead Again,Mystery|Romance|Thriller,3.8579234972677594
+384,Fools Rush In,Comedy|Romance,3.2535211267605635
+385,Dead Calm,Thriller,3.6986301369863015
+386,Mortal Thoughts,Mystery|Thriller,2.7586206896551726
+387,Father of the Bride,Comedy,3.6320754716981134
+388,Pacific Heights,Thriller,3.2857142857142856
+389,Sleepy Hollow,Horror|Romance,3.542134831460674
+390,Eye of the Beholder,Thriller,2.243801652892562
+391,What Dreams May Come,Drama|Romance,3.013745704467354
+392,Howard the Duck,Adventure|Children's|Sci-Fi,1.9874213836477987
+393,Howards End,Drama,3.8723897911832945
+394,Final Destination,Drama|Thriller,3.1140684410646386
+395,Leatherface: Texas Chainsaw Massacre III,Horror,1.5977011494252873
+396,Boogie Nights,Drama,3.678185745140389
+397,She's Gotta Have It,Comedy|Romance,3.4361702127659575
+398,This Is My Father,Drama|Romance,3.5849056603773586
+399,Anastasia,Animation|Children's|Musical,3.6376146788990824
+400,Circle of Friends,Drama|Romance,3.6860068259385668
+401,Clerks,Comedy,3.6379310344827585
+402,Eyes of Laura Mars,Mystery|Thriller,3.271551724137931
+403,"Christmas Story, A",Comedy|Drama,4.015801354401806
+404,Pee-wee's Big Adventure,Comedy,3.3959390862944163
+405,I.Q.,Comedy|Romance,3.216867469879518
+406,Interview with the Vampire,Drama|Horror,3.278236914600551
+407,Honeymoon in Vegas,Comedy|Romance,3.369565217391304
+408,Jacob's Ladder,Horror|Mystery|Thriller,3.376770538243626
+409,"Little Princess, A",Children's|Drama,3.8372093023255816
+410,Legends of the Fall,Drama|Romance|War|Western,3.362116991643454
+411,Mission: Impossible 2,Action|Thriller,3.2194513715710724
+412,Shanghai Noon,Action,3.664819944598338
+413,"Perfect Murder, A",Mystery|Thriller,3.2533333333333334
+414,Misery,Horror,3.7944162436548226
+415,Stigmata,Thriller,2.727272727272727
+416,Top Gun,Action|Romance,3.5965346534653464
+417,Pulp Fiction,Crime|Drama,3.7300613496932513
+418,Eraserhead,Drama|Horror,3.4603174603174605
+419,Double Jeopardy,Action|Thriller,3.1218274111675126
+420,"Mystery, Alaska",Comedy,3.3609958506224067
+421,In the Name of the Father,Drama,3.770967741935484
+422,Butch Cassidy and the Sundance Kid,Action|Comedy|Western,3.9705263157894737
+423,L.A. Story,Comedy|Romance,3.9039408866995076
+424,Mission: Impossible,Action|Adventure|Mystery,3.3871733966745845
+425,Who's Afraid of Virginia Woolf?,Drama,4.091383812010444
+426,Phenomenon,Drama|Romance,3.446043165467626
+427,Bram Stoker's Dracula,Horror|Romance,3.216292134831461
+428,James and the Giant Peach,Animation|Children's|Musical,3.5294117647058822
+429,St. Elmo's Fire,Drama|Romance,3.138888888888889
+430,"Nightmare on Elm Street, A",Horror,3.2720306513409962
+431,Nurse Betty,Comedy|Thriller,3.660759493670886
+432,"River Runs Through It, A",Drama,3.7738095238095237
+433,Grosse Pointe Blank,Comedy|Crime,3.787951807228916
+434,Mrs. Winterbourne,Comedy|Romance,3.3257142857142856
+435,True Crime,Mystery|Thriller,3.149779735682819
+436,True Crime,Crime|Thriller,3.149779735682819
+437,Feeling Minnesota,Drama|Romance,2.1904761904761907
+438,End of Days,Action|Thriller,2.5141843971631204
+439,Flawless,Drama,3.252808988764045
+440,Breakdown,Action|Thriller,3.44106463878327
+441,Batman Returns,Action|Adventure|Comedy|Crime,2.9110512129380055
+442,Jaws,Action|Horror,3.8484848484848486
+443,Jaws 2,Action|Horror,2.3003663003663
+444,Jaws 3-D,Action|Horror,1.6685714285714286
+445,Gods and Monsters,Drama,3.9130434782608696
+446,Supercop,Action|Thriller,3.442379182156134
+447,Brassed Off,Comedy|Drama|Romance,3.6470588235294117
+448,Sid and Nancy,Drama,3.4313099041533546
+449,Pitch Black,Action|Sci-Fi,3.197986577181208
+450,Magnolia,Drama,3.6223175965665235
+451,200 Cigarettes,Comedy|Drama,3.0738636363636362
+452,Batman & Robin,Action|Adventure|Crime,2.437869822485207
+453,Midnight in the Garden of Good and Evil,Comedy|Crime|Drama|Mystery,3.3131868131868134
+454,Mouse Hunt,Children's|Comedy,2.8839285714285716
+455,Christine,Horror,3.218604651162791
+456,Galaxy Quest,Adventure|Comedy|Sci-Fi,3.923076923076923
+457,Angela's Ashes,Drama,3.375
+458,Logan's Run,Action|Adventure|Sci-Fi,3.5549450549450547
+459,Home Fries,Comedy|Romance,2.7362637362637363
+460,"Simple Plan, A",Crime|Thriller,3.7822349570200573
+461,Event Horizon,Action|Mystery|Sci-Fi|Thriller,2.3529411764705883
+462,Rushmore,Comedy,3.4699074074074074
+463,Born Yesterday,Comedy,3.9464285714285716
+464,"Lock, Stock & Two Smoking Barrels",Comedy|Crime|Thriller,3.6739811912225706
+465,Wild Wild West,Action|Sci-Fi|Western,2.327127659574468
+466,Arlington Road,Thriller,3.5335195530726256
+467,Rob Roy,Drama|Romance|War,3.6448863636363638
+468,Batman Forever,Action|Adventure|Comedy|Crime,2.6594427244582044
+469,Desperado,Action|Romance|Thriller,3.3311475409836064
+470,Devil in a Blue Dress,Crime|Film-Noir|Mystery|Thriller,3.592991913746631
+471,Inspector Gadget,Action|Adventure|Children's|Comedy,2.2406015037593985
+472,Mystery Men,Action|Adventure|Comedy,2.7255936675461743
+473,Runaway Bride,Comedy|Romance,3.1710526315789473
+474,Pushing Tin,Comedy,2.8835978835978837
+475,Something to Talk About,Comedy|Drama|Romance,2.883495145631068
+476,U-571,Action|Thriller,3.513440860215054
+477,Oliver!,Musical,3.797945205479452
+478,Midnight Cowboy,Drama,4.143507972665148
+479,Frances,Drama,3.9453125
+480,Winnie the Pooh and the Blustery Day,Animation|Children's,3.8663793103448274
+481,Bowfinger,Comedy,3.3666666666666667
+482,Breathless,Action|Drama|Romance|Thriller,2.843220338983051
+483,Halloween,Horror,3.514469453376206
+484,"American Werewolf in Paris, An",Comedy|Horror,2.5675675675675675
+485,Romeo Is Bleeding,Crime|Thriller,3.4207317073170733
+486,Poltergeist,Horror|Thriller,3.6754617414248023
+487,True Lies,Action|Adventure|Comedy|Romance,3.7557603686635943
+488,Schindler's List,Drama|War,4.09469696969697
+489,Freaky Friday,Children's|Comedy,3.1956521739130435
+490,GoodFellas,Crime|Drama,3.853191489361702
+491,Psycho,Horror|Thriller,3.7172557172557172
+492,Psycho,Crime|Horror|Thriller,3.7172557172557172
+493,Fight Club,Drama,3.829977628635347
+494,So I Married an Axe Murderer,Comedy|Romance|Thriller,3.441860465116279
+495,Saving Private Ryan,Action|Drama|War,3.9536290322580645
+496,Time Bandits,Adventure|Fantasy|Sci-Fi,3.704714640198511
+497,Bonnie and Clyde,Crime|Drama,4.067469879518073
+498,Reservoir Dogs,Crime|Thriller,3.707317073170732
+499,Hellraiser,Horror,3.0462962962962963
+500,Bringing Out the Dead,Drama|Horror,3.102272727272727
+501,Basic Instinct,Mystery|Thriller,3.627659574468085
+502,Scary Movie,Comedy|Horror,2.892857142857143
+503,Night of the Living Dead,Horror|Sci-Fi,3.517857142857143
+504,Boiler Room,Drama,3.323529411764706
+505,Exotica,Drama,3.59375
+506,"Red Violin, The (Le Violon rouge)",Drama|Mystery,3.7226277372262775
+507,"Ideal Husband, An",Comedy,3.685792349726776
+508,Cat People,Horror,3.419811320754717
+509,Ride with the Devil,Drama|Romance|War,3.2017543859649122
+510,Romy and Michele's High School Reunion,Comedy,3.2367021276595747
+511,Little Voice,Comedy,3.547872340425532
+512,"South Park: Bigger, Longer and Uncut",Animation|Comedy,3.345744680851064
+513,Eyes Wide Shut,Drama,3.1141439205955335
+514,"Dreamlife of Angels, The (La Vie rêvée des anges)",Drama,4.023255813953488
+515,Twin Falls Idaho,Drama,3.815068493150685
+516,"Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar)",Drama|Romance,3.9072164948453607
+517,Election,Comedy,3.8747346072186835
+518,Diner,Comedy|Drama,3.887912087912088
+519,Boys Don't Cry,Drama,4.031746031746032
+520,Meet the Parents,Comedy,3.4827586206896552
+521,Roger & Me,Comedy|Documentary,3.8907363420427554
+522,"Close Shave, A",Animation|Comedy|Thriller,4.276657060518732
+523,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Sci-Fi|War,4.173228346456693
+524,Some Like It Hot,Comedy|Crime,4.047511312217194
+525,Waiting for Guffman,Comedy,4.083067092651757
+526,That Darn Cat!,Children's|Comedy|Mystery,2.937823834196891
+527,That Darn Cat!,Children's|Comedy|Mystery,2.937823834196891
+528,Kiss the Girls,Crime|Drama|Thriller,3.3786764705882355
+529,Clay Pigeons,Crime,3.251366120218579
+530,"Fast, Cheap & Out of Control",Documentary,3.966666666666667
+531,Wild Things,Crime|Drama|Mystery|Thriller,3.3813559322033897
+532,Sommersby,Drama|Mystery|Romance,3.2743055555555554
+533,Grand Canyon,Crime|Drama,3.5067385444743935
+534,Lone Star,Drama|Mystery,4.026315789473684
+535,Sling Blade,Drama|Thriller,4.008281573498965
+536,Midnight Run,Action|Adventure|Comedy|Crime,3.907730673316708
+537,Jackie Brown,Crime|Drama,3.6808510638297873
+538,Cop Land,Crime|Drama|Mystery,3.4012539184952977
+539,There's Something About Mary,Comedy,3.480093676814988
+540,Hackers,Action|Crime|Thriller,3.0
+541,Lethal Weapon,Action|Comedy|Crime|Drama,3.784782608695652
+542,Lethal Weapon 2,Action|Comedy|Crime|Drama,3.50381679389313
+543,Polish Wedding,Comedy,2.611940298507463
+544,From Dusk Till Dawn,Action|Comedy|Crime|Horror|Thriller,2.982089552238806
+545,Metropolis,Sci-Fi,3.943894389438944
+546,Local Hero,Comedy,3.8850574712643677
+547,Mulholland Falls,Crime|Film-Noir|Thriller,2.993174061433447
+548,Glengarry Glen Ross,Drama,3.8222811671087533
+549,Stranger Than Paradise,Comedy,4.204545454545454
+550,Glory,Action|Drama|War,4.037914691943128
+551,Robocop,Action|Crime|Sci-Fi,3.511737089201878
+552,Robocop 2,Action|Crime|Sci-Fi,2.468013468013468
+553,Drugstore Cowboy,Crime|Drama,3.9418282548476453
+554,Night on Earth,Comedy|Drama,3.8450184501845017
+555,Simon Birch,Drama,3.660377358490566
+556,Kolya,Comedy,4.166666666666667
+557,All About My Mother (Todo Sobre Mi Madre),Comedy|Drama,4.096866096866097
+558,Almost Heroes,Adventure|Comedy,1.7692307692307692
+559,What About Bob?,Comedy,3.4903846153846154
+560,Splendor,Comedy,2.476923076923077
+561,Jean de Florette,Drama,4.179144385026738
+562,Manon of the Spring (Manon des sources),Drama,4.22316384180791
+563,"Return of Martin Guerre, The (Retour de Martin Guerre, Le)",Drama,4.029220779220779
+564,My Life as a Dog (Mitt liv som hund),Drama,4.198895027624309
+565,My Left Foot,Drama,3.99492385786802
+566,Mystery Science Theater 3000: The Movie,Comedy|Sci-Fi,3.576388888888889
+567,Toy Story 2,Animation|Children's|Comedy,3.918410041841004
+568,Pleasantville,Comedy,3.648018648018648
+569,Sweet and Lowdown,Comedy|Drama,3.5750798722044728
+570,Shall We Dance? (Shall We Dansu?),Comedy,4.126760563380282
+571,Braveheart,Action|Drama|War,3.9471698113207547
+572,My Life in Pink (Ma vie en rose),Comedy|Drama,3.700348432055749
+573,Wag the Dog,Comedy|Drama,3.5734939759036144
+574,Smoke Signals,Comedy|Drama,3.6469072164948453
+575,Drop Dead Gorgeous,Comedy,3.3221476510067114
+576,Living in Oblivion,Comedy,3.80168776371308
+577,Love and Death on Long Island,Comedy|Drama,3.4511627906976745
+578,Ordinary People,Drama,3.919191919191919
+579,Get Shorty,Action|Comedy|Drama,3.673611111111111
+580,Bullets Over Broadway,Comedy,3.738095238095238
+581,Year of Living Dangerously,Drama|Romance,3.8
+582,Mighty Aphrodite,Comedy,3.7315634218289087
+583,Searching for Bobby Fischer,Drama,4.017073170731707
+584,"Grand Day Out, A",Animation|Comedy,4.1681957186544345
+585,Sophie's Choice,Drama,3.973474801061008
+586,Get Carter,Action|Drama|Thriller,2.9207317073170733
+587,Get Carter,Thriller,2.9207317073170733
+588,Down by Law,Comedy|Drama,3.927659574468085
+589,Peter Pan,Animation|Children's|Fantasy|Musical,3.80327868852459
+590,Mister Roberts,Comedy|Drama|War,3.997275204359673
+591,Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto),Comedy|Drama,3.7142857142857144
+592,My Favorite Year,Comedy,3.9383753501400562
+593,Sunset Blvd. (a.k.a. Sunset Boulevard),Film-Noir,4.296758104738155
+594,Women on the Verge of a Nervous Breakdown,Comedy|Drama,3.826771653543307
+595,Fast Times at Ridgemont High,Comedy,3.6465753424657534
+596,Wayne's World,Comedy,3.5205128205128204
+597,Dazed and Confused,Comedy,3.527950310559006
+598,Much Ado About Nothing,Comedy|Romance,4.016806722689076
+599,Bob Roberts,Comedy,3.8838526912181304
+600,"American Tail, An",Animation|Children's|Comedy,3.5719178082191783
+601,Strangers on a Train,Film-Noir|Thriller,4.126344086021505
+602,Mona Lisa,Comedy|Thriller,3.592057761732852
+603,Pink Flamingos,Comedy,2.922374429223744
+604,Any Given Sunday,Drama,3.2018072289156625
+605,Happy Gilmore,Comedy,3.1072664359861593
+606,Flirting With Disaster,Comedy,3.7695167286245352
+607,Mystery Train,Comedy|Crime|Drama,3.8118811881188117
+608,Tom Jones,Comedy,3.9884615384615385
+609,Radio Days,Comedy|Drama,3.8944281524926687
+610,Metropolitan,Comedy,3.6470588235294117
+611,Drunken Master (Zui quan),Action|Comedy,3.950920245398773
+612,Hairspray,Comedy|Drama,3.477088948787062
+613,Help!,Comedy|Musical,3.785211267605634
+614,Crimes and Misdemeanors,Comedy,3.916010498687664
+615,Duel in the Sun,Western,3.228395061728395
+616,8 1/2,Drama,4.070769230769231
+617,Raise the Red Lantern,Drama,4.097859327217125
+618,Angel Baby,Drama,3.2476190476190476
+619,Woman in the Dunes (Suna no onna),Drama,3.8082901554404147
+620,"Bicycle Thief, The (Ladri di biciclette)",Drama,4.222950819672131
+621,"Grand Illusion (Grande illusion, La)",Drama|War,4.159533073929961
+622,"Celebration, The (Festen)",Drama,4.191082802547771
+623,When Night Is Falling,Drama|Romance,3.3258426966292136
+624,Secrets & Lies,Drama,4.04215456674473
+625,Lawrence of Arabia,Adventure|War,4.095982142857143
+626,Seven Samurai (The Magnificent Seven) (Shichinin no samurai),Action|Drama,4.339622641509434
+627,Lolita,Drama|Romance,3.5386904761904763
+628,Lolita,Drama,3.5386904761904763
+629,Terminator 2: Judgment Day,Action|Sci-Fi|Thriller,3.778
+630,Back to the Future,Comedy|Sci-Fi,3.7886029411764706
+631,Nighthawks,Action|Drama,3.4008620689655173
+632,Ben-Hur,Action|Adventure|Drama,3.931924882629108
+633,"American in Paris, An",Musical|Romance,3.8176943699731902
+634,Indiana Jones and the Last Crusade,Action|Adventure,4.029166666666667
+635,Kingpin,Comedy,3.282420749279539
+636,Rush Hour,Action|Thriller,3.486111111111111
+637,Selena,Drama|Musical,3.104265402843602
+638,Running Scared,Action|Comedy,3.323651452282158
+639,Tequila Sunrise,Action|Romance|Thriller,3.0517241379310347
+640,Dudley Do-Right,Children's|Comedy,1.7207792207792207
+641,Trekkies,Documentary,3.9783783783783786
+642,Escape from New York,Action|Adventure|Sci-Fi|Thriller,3.1875
+643,White Christmas,Musical,3.6540880503144653
+644,One Fine Day,Drama|Romance,3.2175925925925926
+645,Star Trek: First Contact,Action|Adventure|Sci-Fi,3.8461538461538463
+646,Die Hard 2,Action|Thriller,3.515873015873016
+647,Star Trek VI: The Undiscovered Country,Action|Adventure|Sci-Fi,3.361596009975062
+648,Star Trek IV: The Voyage Home,Action|Adventure|Sci-Fi,3.583143507972665
+649,"Bug's Life, A",Animation|Children's|Comedy,3.7864693446088795
+650,Office Space,Comedy|Romance,3.4422535211267604
+651,Planet of the Apes,Action|Sci-Fi,3.634204275534442
+652,Baby Geniuses,Comedy,1.7377049180327868
+653,Doctor Dolittle,Comedy,3.0777479892761392
+654,Doctor Dolittle,Adventure|Musical,3.0777479892761392
+655,Stargate,Action|Adventure|Sci-Fi,3.488431876606684
+656,Die Hard,Action|Thriller,3.884526558891455
+657,Restoration,Drama,3.4448051948051948
+658,Shall We Dance?,Comedy|Musical|Romance,3.996309963099631
+659,Babes in Toyland,Children's|Fantasy|Musical,2.992156862745098
+660,White Squall,Adventure|Drama,3.47265625
+661,Weekend at Bernie's,Comedy,2.6653846153846152
+662,Wallace & Gromit: The Best of Aardman Animation,Animation,4.243016759776537
+663,Dances with Wolves,Adventure|Drama|Western,3.965863453815261
+664,Gaslight,Mystery|Thriller,4.126353790613718
+665,Toys,Action|Comedy|Fantasy,2.946043165467626
+666,2001: A Space Odyssey,Drama|Mystery|Sci-Fi|Thriller,3.8416030534351147
+667,"Few Good Men, A",Crime|Drama,3.9254498714652954
+668,Fly Away Home,Adventure|Children's,3.5136186770428015
+669,"King of Masks, The (Bian Lian)",Drama,4.076388888888889
+670,Wide Awake,Children's|Comedy|Drama,3.272727272727273
+671,Hoop Dreams,Documentary,4.113456464379947
+672,Heart and Souls,Comedy|Fantasy,3.768939393939394
+673,Buena Vista Social Club,Documentary,4.118012422360248
+674,Hook,Adventure|Fantasy,3.0364145658263304
+675,Tarzan,Animation|Children's,3.7936507936507935
+676,Nobody's Fool,Drama,3.6448275862068966
+677,Microcosmos (Microcosmos: Le peuple de l'herbe),Documentary,4.105263157894737
+678,Romeo and Juliet,Drama|Romance,3.987538940809969
+679,Space Cowboys,Action|Sci-Fi,3.4907975460122698
+680,Ed,Comedy,2.7564102564102564
+681,Three Kings,Drama|War,3.708133971291866
+682,Life with Mikey,Comedy,2.707547169811321
+683,Steamboat Willie,Animation|Children's|Comedy|Musical,3.1884057971014492
+684,Courage Under Fire,Drama|War,3.736842105263158
+685,Mediterraneo,Comedy|War,3.8771929824561404
+686,Bring It On,Comedy,3.3454545454545452
+687,Space Jam,Adventure|Animation|Children's|Comedy|Fantasy,2.618705035971223
+688,Fatal Attraction,Thriller,3.704326923076923
+689,Awakenings,Drama,3.8596491228070176
+690,Citizen Ruth,Comedy|Drama,3.867857142857143
+691,Sneakers,Crime|Drama|Sci-Fi,3.6615776081424936
+692,Central Station (Central do Brasil),Drama,4.117469879518072
+693,Flubber,Children's|Comedy|Fantasy,2.6824817518248176
+694,My Dog Skip,Comedy,3.7083333333333335
+695,Apollo 13,Drama,3.8920086393088553
+696,Quiz Show,Drama,3.9896907216494846
+697,Three Colors: Red,Drama,3.982089552238806
+698,Crimson Tide,Drama|Thriller|War,3.8080229226361033
+699,Crumb,Documentary,3.941798941798942
+700,Small Soldiers,Animation|Children's|Fantasy|War,2.948051948051948
+701,Cookie's Fortune,Mystery,3.7465277777777777
+702,All Quiet on the Western Front,War,4.166666666666667
+703,Keeping the Faith,Comedy|Romance,3.679738562091503
+704,Dead Man Walking,Drama,3.9688796680497926
+705,Coming Home,Drama|War,3.843065693430657
+706,Remember the Titans,Drama,3.7327327327327327
+707,Platoon,Drama|War,3.8758314855875833
+708,Grumpier Old Men,Comedy|Romance,3.0092879256965945
+709,Trading Places,Comedy,3.7622739018087854
+710,Absolute Power,Mystery|Thriller,3.3426791277258565
+711,Rosewood,Drama,3.5283018867924527
+712,Seven Years in Tibet,Drama|War,3.3271604938271606
+713,Smilla's Sense of Snow,Action|Drama|Thriller,3.425531914893617
+714,Sister Act,Comedy|Crime,3.3251231527093594
+715,"League of Their Own, A",Comedy|Drama,3.8466819221967965
+716,Patriot Games,Action|Thriller,3.763358778625954
+717,White Men Can't Jump,Comedy,3.1769911504424777
+718,Paulie,Adventure|Children's|Comedy,2.8636363636363638
+719,Forever Young,Adventure|Romance|Sci-Fi,3.228013029315961
+720,Primary Colors,Drama,3.635593220338983
+721,Addams Family Values,Comedy,2.8833333333333333
+722,Bulworth,Comedy,3.511221945137157
+723,Outbreak,Action|Drama|Thriller,3.2065868263473054
+724,Tampopo,Comedy,3.9145299145299144
+725,Harriet the Spy,Children's|Comedy,3.3095238095238093
+726,My Cousin Vinny,Comedy,3.873362445414847
+727,Volcano,Drama|Thriller,2.7065868263473054
+728,Con Air,Action|Adventure|Thriller,3.256
+729,Waking Ned Devine,Comedy,3.7995283018867925
+730,Men in Black,Action|Adventure|Comedy|Sci-Fi,3.8489065606361827
+731,Earthquake,Action,2.5660377358490565
+732,Defending Your Life,Comedy|Romance,3.6717325227963524
+733,Lethal Weapon 4,Action|Comedy|Crime|Drama,3.039877300613497
+734,Madeline,Children's|Comedy,3.2024539877300615
+735,Die Hard: With a Vengeance,Action|Thriller,3.5294117647058822
+736,Clear and Present Danger,Action|Adventure|Thriller,3.761904761904762
+737,Lethal Weapon 3,Action|Comedy|Crime|Drama,3.434375
+738,Creepshow,Horror,3.006802721088435
+739,Anywhere But Here,Drama,2.8088235294117645
+740,"Civil Action, A",Drama,3.6035353535353534
+741,Mickey Blue Eyes,Comedy|Romance,2.8333333333333335
+742,Dinosaur,Animation|Children's,3.2145328719723185
+743,Arachnophobia,Action|Comedy|Sci-Fi|Thriller,2.8406113537117905
+744,Stir of Echoes,Thriller,3.627986348122867
+745,Priest,Drama,3.7155963302752295
+746,Jakob the Liar,Drama,2.80625
+747,Man on the Moon,Comedy|Drama,3.495049504950495
+748,Lake Placid,Horror|Thriller,2.587188612099644
+749,Deep Blue Sea,Action|Sci-Fi|Thriller,2.8173076923076925
+750,Random Hearts,Drama|Romance,2.1620553359683794
+751,Gone in 60 Seconds,Action|Crime,2.9239130434782608
+752,M,Crime|Film-Noir|Thriller,3.990322580645161
+753,Cyrano de Bergerac,Action|Drama|Romance,3.84180790960452
+754,Little Big Man,Comedy|Drama|Western,3.92797783933518
+755,McCabe & Mrs. Miller,Drama|Western,3.8122605363984676
+756,Maurice,Drama|Romance,3.7438423645320196
+757,"Streetcar Named Desire, A",Drama,4.182022471910113
+758,Breaker Morant,Drama|War,4.0055555555555555
+759,City Lights,Comedy|Drama|Romance,4.351906158357771
+760,Persuasion,Romance,4.025830258302583
+761,Mad Max,Action|Sci-Fi,3.6904761904761907
+762,Take the Money and Run,Comedy,4.0
+763,Twelve Monkeys,Drama|Sci-Fi,3.8118161925601752
+764,One False Move,Thriller,3.6985645933014353
+765,Brief Encounter,Drama|Romance,3.9302325581395348
+766,Badlands,Crime|Drama,3.9328358208955225
+767,Henry V,Drama|War,4.178117048346056
+768,Heat,Action|Crime|Thriller,3.6945169712793735
+769,Pump Up the Volume,Drama,3.370212765957447
+770,"They Shoot Horses, Don't They?",Drama,3.634920634920635
+771,Mother,Comedy,3.6324786324786325
+772,Fried Green Tomatoes,Drama,3.9028871391076114
+773,Maya Lin: A Strong Clear Vision,Documentary,4.0236220472440944
+774,Song of the South,Adventure|Animation|Children's|Musical,3.5733333333333333
+775,My Bodyguard,Drama,3.539325842696629
+776,Married to the Mob,Comedy,3.1196319018404908
+777,Babyfever,Comedy|Drama,2.380952380952381
+778,Dogma,Comedy,3.5707196029776673
+779,Ninotchka,Comedy|Romance,4.032388663967612
+780,"Cry in the Dark, A",Drama,3.68125
+781,42 Up,Documentary,4.296774193548387
+782,Ronin,Action|Crime|Thriller,3.4957746478873237
+783,"Zed & Two Noughts, A",Drama,4.0
+784,Hurlyburly,Drama,2.86875
+785,Malcolm X,Drama,3.781869688385269
+786,Scent of a Woman,Drama,3.634560906515581
+787,Grace of My Heart,Comedy|Drama,3.5073529411764706
+788,eXistenZ,Action|Sci-Fi|Thriller,3.0252707581227436
+789,"Mariachi, El",Action|Thriller,3.544959128065395
+790,Michael Collins,Drama|War,3.515873015873016
+791,2 Days in the Valley,Crime,3.407258064516129
+792,Jungle Fever,Drama|Romance,3.2840466926070038
+793,Before Sunrise,Drama|Romance,4.072115384615385
+794,God Said 'Ha!',Comedy,3.593220338983051
+795,Funny Bones,Comedy,3.525252525252525
+796,Zero Effect,Comedy|Thriller,3.58
+797,Farinelli: il castrato,Drama|Musical,3.6163793103448274
+798,Heavenly Creatures,Drama|Fantasy|Romance|Thriller,3.8106666666666666
+799,Limbo,Drama,4.128342245989304
+800,Madame Sousatzka,Drama,3.138728323699422
+801,Cousin Bette,Comedy,2.969465648854962
+802,High Art,Drama|Romance,3.3636363636363638
+803,Drunks,Drama,3.25
+804,Flesh and Bone,Drama|Mystery|Romance,3.0054054054054054
+805,Widows' Peak,Drama,3.2162162162162162
+806,Porky's,Comedy,2.3440860215053765
+807,In the Line of Fire,Action|Thriller,3.8184281842818426
+808,"Happy, Texas",Comedy,3.7012448132780085
+809,Primal Fear,Drama|Thriller,3.7529761904761907
+810,What Happened Was...,Comedy|Drama|Romance,3.1797752808988764
+811,"Double Life of Veronique, The (La Double Vie de Véronique)",Drama,3.939814814814815
+812,Passion Fish,Drama,3.5865724381625443
+813,Paris Is Burning,Documentary,3.963157894736842
+814,Burnt Offerings,Horror,2.2282608695652173
+815,Henry: Portrait of a Serial Killer,Crime|Horror,3.4107142857142856
+816,Paradise Lost: The Child Murders at Robin Hood Hills,Documentary,4.26775956284153
+817,Emma,Comedy|Drama|Romance,3.7844155844155845
+818,Children of the Revolution,Comedy,3.560747663551402
+819,Flirt,Drama,3.8351648351648353
+820,Daddy Long Legs,Comedy,3.436974789915966
+821,Hands on a Hard Body,Documentary,4.147058823529412
+822,Living Out Loud,Comedy|Romance,3.1755725190839694
+823,Love! Valour! Compassion!,Drama|Romance,3.4424242424242424
+824,October Sky,Drama,4.047872340425532
+825,Breakfast of Champions,Comedy,2.989010989010989
+826,Twelfth Night,Comedy|Drama|Romance,3.9035714285714285
+827,Love Serenade,Comedy,3.3285714285714287
+828,Career Girls,Drama,3.388059701492537
+829,Jupiter's Wife,Documentary,4.048780487804878
+830,North Dallas Forty,Comedy|Drama,3.217877094972067
+831,Hoosiers,Drama,3.989821882951654
+832,Henry Fool,Comedy|Drama,3.4906832298136647
+833,Mr. Jealousy,Comedy|Romance,3.160919540229885
+834,Clockers,Drama,3.2697368421052633
+835,Buffalo 66,Action|Comedy|Drama,3.357142857142857
+836,Pi,Sci-Fi|Thriller,3.6296296296296298
+837,Parenthood,Comedy|Drama,3.8320802005012533
+838,JFK,Drama|Mystery,3.676844783715013
+839,Mallrats,Comedy,3.1979166666666665
+840,Safe,Thriller,3.981012658227848
+841,Casino,Drama|Thriller,3.6827794561933533
+842,Four Rooms,Thriller,3.0476190476190474
+843,Kramer Vs. Kramer,Drama,3.8891752577319587
+844,Dick,Comedy,3.25
+845,Backbeat,Drama|Musical,3.5
+846,Alien Nation,Crime|Drama|Sci-Fi,3.311526479750779
+847,Crooklyn,Comedy,3.398496240601504
+848,Soapdish,Comedy,3.3841463414634148
+849,Total Recall,Action|Adventure|Sci-Fi|Thriller,3.6561844863731654
+850,Philadelphia,Drama,3.874301675977654
+851,"Wonderful, Horrible Life of Leni Riefenstahl, The (Die Macht der Bilder)",Documentary,4.3515625
+852,To Die For,Comedy|Drama,3.491329479768786
+853,Hamlet,Drama,3.688487584650113
+854,Hamlet,Drama,3.688487584650113
+855,Hamlet,Drama,3.688487584650113
+856,Hamlet,Drama,3.688487584650113
+857,Hamlet,Drama,3.688487584650113
+858,Trees Lounge,Drama,3.389261744966443
+859,French Twist (Gazon maudit),Comedy|Romance,3.524137931034483
+860,Six Degrees of Separation,Drama,3.6996587030716723
+861,Thirty-Two Short Films About Glenn Gould,Documentary,3.9053030303030303
+862,Trust,Comedy|Drama,4.13125
+863,"Faraway, So Close (In Weiter Ferne, So Nah!)",Drama|Fantasy,4.35
+864,Rosencrantz and Guildenstern Are Dead,Comedy|Drama,3.9298245614035086
+865,Blowup,Drama|Mystery,3.745614035087719
+866,Dead Man,Western,3.8251366120218577
+867,Hocus Pocus,Children's|Comedy,2.9576719576719577
+868,"Honey, I Blew Up the Kid",Children's|Comedy|Sci-Fi,2.1881188118811883
+869,Live and Let Die,Action,3.5356037151702786
+870,Waiting to Exhale,Comedy|Drama,2.6941747572815533
+871,Father of the Bride Part II,Comedy,2.8493723849372383
+872,Ghosts of Mississippi,Drama,3.4957264957264957
+873,Tom and Huck,Adventure|Children's,2.978723404255319
+874,Bustin' Loose,Comedy,2.6020408163265305
+875,Falling Down,Action|Drama,3.3022388059701493
+876,Popeye,Adventure|Comedy|Musical,2.6588921282798834
+877,Dante's Peak,Action|Thriller,2.6695278969957084
+878,Striptease,Comedy|Crime,2.2509803921568627
+879,Benny & Joon,Comedy|Romance,3.537037037037037
+880,Prancer,Children's|Drama,3.028169014084507
+881,Cocoon,Comedy|Sci-Fi,3.7
+882,Cocoon: The Return,Comedy|Sci-Fi,2.603448275862069
+883,Tora! Tora! Tora!,War,3.674757281553398
+884,Indecent Proposal,Drama,2.4805825242718447
+885,"Star Is Born, A",Drama,3.382978723404255
+886,Stand and Deliver,Drama,3.9239766081871346
+887,In & Out,Comedy,3.2852233676975944
+888,Jungle2Jungle (a.k.a. Jungle 2 Jungle),Children's|Comedy,2.4149659863945576
+889,Mansfield Park,Drama,3.794642857142857
+890,Scrooged,Comedy,3.5690789473684212
+891,Liar Liar,Comedy,3.3541666666666665
+892,Patch Adams,Comedy|Drama,3.159090909090909
+893,B*A*P*S,Comedy,1.676056338028169
+894,Antz,Animation|Children's,3.490084985835694
+895,Anna Karenina,Drama|Romance,3.1923076923076925
+896,Encino Man,Comedy,2.488262910798122
+897,At First Sight,Drama,2.4380952380952383
+898,Sister Act 2: Back in the Habit,Comedy,2.7094972067039107
+899,FairyTale: A True Story,Children's|Drama|Fantasy,3.7412587412587412
+900,Far and Away,Drama|Romance,3.2785714285714285
+901,Buffy the Vampire Slayer,Comedy|Horror,3.391025641025641
+902,Eve's Bayou,Drama,3.6332046332046333
+903,Ruthless People,Comedy,3.6358543417366946
+904,Bean,Comedy,2.6894736842105265
+905,Crocodile Dundee II,Adventure|Comedy,2.6636636636636637
+906,Soul Man,Comedy,2.209039548022599
+907,Three Wishes,Drama,2.5714285714285716
+908,"To Wong Foo, Thanks for Everything! Julie Newmar",Comedy,3.235294117647059
+909,Starship Troopers,Action|Adventure|Sci-Fi|War,2.994350282485876
+910,"Walk in the Clouds, A",Drama|Romance,3.090909090909091
+911,Waterworld,Action|Adventure,2.662857142857143
+912,White Man's Burden,Drama,2.24
+913,"Midsummer Night's Dream, A",Comedy|Fantasy,3.4338028169014083
+914,Dying Young,Drama|Romance,2.6878980891719744
+915,Teenage Mutant Ninja Turtles,Action|Children's|Fantasy,2.4172413793103447
+916,Payback,Action|Thriller,3.516616314199396
+917,City of Angels,Romance,3.273026315789474
+918,To Sir with Love,Drama,3.9047619047619047
+919,Amistad,Drama,3.6758620689655173
+920,Message in a Bottle,Romance,2.746192893401015
+921,Dolores Claiborne,Drama|Thriller,3.5288753799392096
+922,Dumb & Dumber,Comedy,2.8157894736842106
+923,Forget Paris,Comedy|Romance,3.0
+924,"Goofy Movie, A",Animation|Children's|Comedy|Romance,2.7225806451612904
+925,Grumpy Old Men,Comedy,3.30835734870317
+926,Guess Who's Coming to Dinner,Comedy|Drama,4.015527950310559
+927,Immortal Beloved,Drama|Romance,3.543973941368078
+928,Lord of the Flies,Adventure|Drama|Thriller,3.909090909090909
+929,"Misérables, Les",Drama|Musical,3.6997084548104957
+930,"Misérables, Les",Drama,3.6997084548104957
+931,"Bamba, La",Drama,3.408759124087591
+932,Deep Impact,Action|Drama|Sci-Fi|Thriller,3.0450928381962865
+933,Little Women,Drama,3.6007067137809186
+934,Medicine Man,Adventure|Romance,3.1194690265486726
+935,Godzilla,Action|Sci-Fi,2.4644194756554305
+936,Love Affair,Drama|Romance,3.1769911504424777
+937,Losing Isaiah,Drama,3.0085470085470085
+938,Hope Floats,Comedy|Drama|Romance,2.6996466431095407
+939,Milk Money,Comedy|Romance,2.7
+940,Black Beauty,Adventure|Children's,3.2653061224489797
+941,Six Days Seven Nights,Adventure|Comedy|Romance,2.9071207430340555
+942,Boxing Helena,Mystery|Romance|Thriller,2.2796610169491527
+943,Nell,Drama,3.1434977578475336
+944,Natural Born Killers,Action|Thriller,2.787878787878788
+945,City Slickers II: The Legend of Curly's Gold,Comedy|Western,2.602836879432624
+946,"Soldier's Story, A",Drama,3.853061224489796
+947,Drop Dead Fred,Comedy|Fantasy,2.2270742358078603
+948,Free Willy,Adventure|Children's|Drama,2.8068181818181817
+949,Geronimo: An American Legend,Drama|Western,3.3161290322580643
+950,Thumbelina,Animation|Children's,2.5245901639344264
+951,Getting Even with Dad,Comedy,2.5416666666666665
+952,Homeward Bound II: Lost in San Francisco,Adventure|Children's,2.524390243902439
+953,Flatliners,Thriller,3.223826714801444
+954,Jane Eyre,Drama|Romance,3.302197802197802
+955,What's Love Got to Do with It?,Drama,3.4393939393939394
+956,Last Action Hero,Action|Comedy,2.467432950191571
+957,Executive Decision,Action|Thriller,3.338235294117647
+958,All Dogs Go to Heaven,Animation|Children's,2.7443181818181817
+959,Snake Eyes,Action|Crime|Mystery|Thriller,2.7557755775577557
+960,Moll Flanders,Drama,3.44
+961,Dragonheart,Action|Adventure|Fantasy,3.3639240506329116
+962,Supergirl,Action|Adventure|Fantasy,2.0532544378698225
+963,"Time to Kill, A",Drama,3.487364620938628
+964,Alaska,Adventure|Children's,3.4745762711864407
+965,"American Tail: Fievel Goes West, An",Animation|Children's|Comedy,2.849514563106796
+966,Kazaam,Children's|Comedy|Fantasy,1.6777777777777778
+967,Larger Than Life,Comedy,2.4827586206896552
+968,How Stella Got Her Groove Back,Drama|Romance,2.6310160427807485
+969,Jingle All the Way,Adventure|Children's|Comedy,2.397590361445783
+970,Operation Dumbo Drop,Action|Adventure|Comedy|War,2.2076502732240435
+971,Ransom,Drama|Thriller,3.3164556962025316
+972,Dance with Me,Drama|Romance,2.9858156028368796
+973,Foxfire,Drama,3.302013422818792
+974,Matilda,Children's|Comedy,3.4047619047619047
+975,Beloved,Drama,3.2925531914893615
+976,Practical Magic,Drama|Romance,2.9698275862068964
+977,My Fellow Americans,Comedy,3.4790419161676644
+978,Mars Attacks!,Action|Comedy|Sci-Fi|War,3.0742705570291777
+979,Anna and the King,Drama|Romance,3.509493670886076
+980,Enemy of the State,Action|Thriller,3.6295336787564767
+981,Bicentennial Man,Comedy|Drama|Sci-Fi,3.0416666666666665
+982,Speed 2: Cruise Control,Action|Romance|Thriller,1.8424657534246576
+983,Jawbreaker,Comedy,2.103448275862069
+984,For Richer or Poorer,Comedy,2.6936936936936937
+985,For Whom the Bell Tolls,Adventure|War,3.904109589041096
+986,Muppet Treasure Island,Adventure|Children's|Comedy|Musical,3.1333333333333333
+987,Westworld,Action|Sci-Fi|Thriller|Western,3.3538873994638068
+988,Babe: Pig in the City,Children's|Comedy,3.1176470588235294
+989,Wild America,Adventure|Children's,3.1
+990,Before and After,Drama|Mystery,2.9928057553956835
+991,George of the Jungle,Children's|Comedy,2.931451612903226
+992,Splendor in the Grass,Drama,3.602409638554217
+993,Conquest of the Planet of the Apes,Action|Sci-Fi,2.921135646687697
+994,Kundun,Drama,3.9473684210526314
+995,Great Expectations,Drama|Romance,3.2024291497975708
+996,Air Bud,Children's|Comedy,2.753846153846154
+997,Santa Claus: The Movie,Adventure|Children's|Fantasy,2.8391304347826085
+998,"Raisin in the Sun, A",Drama,3.9109311740890687
+999,Forces of Nature,Comedy|Romance,2.3617021276595747
+1000,Up Close and Personal,Drama|Romance,2.9675675675675675
+1001,My Life,Drama,3.3284671532846715
+1002,Casper,Adventure|Children's,3.0121457489878543
+1003,10 Things I Hate About You,Comedy|Romance,3.2857142857142856
+1004,Armageddon,Action|Adventure|Sci-Fi|Thriller,3.192105263157895
+1005,First Knight,Action|Adventure|Drama|Romance,2.8379446640316206
+1006,Never Been Kissed,Comedy|Romance,3.1476510067114094
+1007,Spartacus,Drama,3.8474114441416893
+1008,Harry and the Hendersons,Comedy,2.7083333333333335
+1009,Sesame Street Presents Follow That Bird,Children's|Comedy,3.0833333333333335
+1010,Mighty Morphin Power Rangers: The Movie,Action|Children's,1.330935251798561
+1011,Nine Months,Comedy,2.6990291262135924
+1012,Native Son,Drama,3.23728813559322
+1013,Nixon,Drama,3.789237668161435
+1014,Ace Ventura: When Nature Calls,Comedy,2.224264705882353
+1015,Old Yeller,Children's|Drama,3.7445482866043616
+1016,Pollyanna,Children's|Comedy|Drama,3.458128078817734
+1017,Homeward Bound: The Incredible Journey,Adventure|Children's,3.4953703703703702
+1018,Swiss Family Robinson,Adventure|Children's,3.7045454545454546
+1019,"20,000 Leagues Under the Sea",Adventure|Children's|Fantasy|Sci-Fi,3.7766749379652604
+1020,Terms of Endearment,Comedy|Drama,3.6724137931034484
+1021,Cool Runnings,Comedy,3.2098360655737705
+1022,Angels in the Outfield,Children's|Comedy,2.7393364928909953
+1023,Robin Hood: Prince of Thieves,Drama,3.162629757785467
+1024,Labyrinth,Adventure|Children's|Fantasy,3.693290734824281
+1025,Dangerous Minds,Drama,3.1699029126213594
+1026,Clara's Heart,Drama,2.8796992481203008
+1027,Pete's Dragon,Adventure|Animation|Children's|Musical,3.055776892430279
+1028,Mrs. Doubtfire,Comedy,3.376237623762376
+1029,North,Comedy,2.4361702127659575
+1030,Orlando,Drama,3.449438202247191
+1031,Heaven Can Wait,Comedy,3.670926517571885
+1032,It Could Happen to You,Drama|Romance,3.4638297872340424
+1033,Little Buddha,Drama,2.8714285714285714
+1034,How to Make an American Quilt,Drama|Romance,3.207373271889401
+1035,Maverick,Action|Comedy|Western,3.5597826086956523
+1036,That Thing You Do!,Comedy,3.6554054054054053
+1037,To Gillian on Her 37th Birthday,Drama|Romance,2.7747252747252746
+1038,Poetic Justice,Drama,2.288135593220339
+1039,Reds,Drama,3.5627376425855513
+1040,Renaissance Man,Comedy|Drama|War,2.9367088607594938
+1041,Richie Rich,Children's|Comedy,2.0454545454545454
+1042,Timecop,Action|Sci-Fi,3.0942028985507246
+1043,Mr. Mom,Comedy|Drama,3.3859649122807016
+1044,Robin Hood: Men in Tights,Comedy,2.724907063197026
+1045,Child's Play,Horror,2.384180790960452
+1046,Rudy,Drama,3.4468085106382977
+1047,When a Man Loves a Woman,Drama,3.185483870967742
+1048,Mr. Holland's Opus,Drama,3.5702479338842976
+1049,Gremlins,Comedy|Horror,3.0115942028985505
+1050,Gremlins 2: The New Batch,Comedy|Horror,2.2304347826086954
+1051,12 Angry Men,Drama,4.133333333333334
+1052,Shadowlands,Drama|Romance,3.92090395480226
+1053,Sirens,Comedy|Drama,3.3066666666666666
+1054,Back to the Future Part II,Comedy|Sci-Fi,3.349282296650718
+1055,Back to the Future Part III,Comedy|Sci-Fi|Western,3.2018779342723005
+1056,Home Alone 2: Lost in New York,Children's|Comedy,2.225
+1057,Son in Law,Comedy,2.430167597765363
+1058,Super Mario Bros.,Action|Adventure|Children's|Sci-Fi,1.9782608695652173
+1059,Mary Reilly,Drama|Thriller,2.475177304964539
+1060,Broken Arrow,Action|Thriller,2.754777070063694
+1061,Blank Check,Children's|Comedy,2.242424242424242
+1062,Oliver & Company,Animation|Children's,2.8222222222222224
+1063,Little Big League,Children's|Comedy,3.0095238095238095
+1064,Flight of the Navigator,Adventure|Children's|Sci-Fi,3.5912162162162162
+1065,Flipper,Adventure|Children's,2.6206896551724137
+1066,"Princess Mononoke, The (Mononoke Hime)",Action|Adventure|Animation,3.9849056603773585
+1067,Saboteur,Thriller,3.9050632911392404
+1068,Cemetery Man (Dellamorte Dellamore),Comedy|Horror,3.3313953488372094
+1069,Walkabout,Drama,3.9290780141843973
+1070,Akira,Adventure|Animation|Sci-Fi|Thriller,3.6776556776556775
+1071,Ghost in the Shell (Kokaku kidotai),Animation|Sci-Fi,4.026905829596412
+1072,One Magic Christmas,Drama|Fantasy,3.831168831168831
+1073,Foreign Correspondent,Thriller,3.4915254237288136
+1074,Matewan,Drama,3.9890909090909092
+1075,Under Siege 2: Dark Territory,Action,2.7116564417177913
+1076,Creature Comforts,Animation|Comedy,4.362264150943396
+1077,Live Flesh,Drama,3.857142857142857
+1078,Free Enterprise,Comedy|Romance|Sci-Fi,3.136986301369863
+1079,Quatermass and the Pit,Sci-Fi,3.1363636363636362
+1080,Fearless,Drama,3.620567375886525
+1081,Until the End of the World (Bis ans Ende der Welt),Drama|Sci-Fi,3.4477611940298507
+1082,Delicatessen,Comedy|Sci-Fi,3.7392996108949417
+1083,'Night Mother,Drama,3.394160583941606
+1084,Marvin's Room,Drama,3.0779220779220777
+1085,Children of the Damned,Horror|Sci-Fi|Thriller,2.875
+1086,Tango,Drama,3.5555555555555554
+1087,Three Colors: Blue,Drama,3.962406015037594
+1088,Predator,Action|Sci-Fi|Thriller,3.4193548387096775
+1089,Moonlight and Valentino,Drama|Romance,2.9565217391304346
+1090,"Nightmare on Elm Street 4: The Dream Master, A",Horror,1.9278350515463918
+1091,Titan A.E.,Adventure|Animation|Sci-Fi,3.527075812274368
+1092,To Kill a Mockingbird,Drama,4.243801652892562
+1093,Army of Darkness,Action|Adventure|Comedy|Horror|Sci-Fi,3.6276276276276276
+1094,24 7: Twenty Four Seven,Comedy|Drama,5.0
+1095,Hideaway,Thriller,2.5172413793103448
+1096,Loser,Comedy,2.3484848484848486
+1097,Loser,Comedy|Romance,2.3484848484848486
+1098,Sinbad and the Eye of the Tiger,Action|Adventure,3.0625
+1099,Puppet Master 5: The Final Chapter,Horror|Sci-Fi|Thriller,1.7613636363636365
+1100,Everything You Always Wanted to Know About Sex,Comedy,3.676737160120846
+1101,Kelly's Heroes,Action|Comedy|War,3.9748953974895396
+1102,Steel Magnolias,Drama,3.6054794520547944
+1103,Sunset Strip,Comedy,4.076923076923077
+1104,8 Heads in a Duffel Bag,Comedy,2.522167487684729
+1105,2010,Mystery|Sci-Fi,3.6517571884984026
+1106,Addicted to Love,Comedy|Romance,3.1576763485477177
+1107,Spawn,Action|Adventure|Sci-Fi|Thriller,2.7330960854092528
+1108,3 Ninjas: High Noon On Mega Mountain,Action|Children's,1.6363636363636365
+1109,28 Days,Comedy,3.0730337078651684
+1110,"Me, Myself and Irene",Comedy,2.528125
+1111,"Ciao, Professore! (Io speriamo che me la cavo )",Drama,3.875
+1112,Fear and Loathing in Las Vegas,Comedy|Drama,3.416326530612245
+1113,Up in Smoke,Comedy,3.421875
+1114,Some Folks Call It a Sling Blade,Drama|Thriller,4.221311475409836
+1115,Night Shift,Comedy,3.5655737704918034
+1116,"Girl, Interrupted",Drama,3.592948717948718
+1117,Analyze This,Comedy,3.44141689373297
+1118,EDtv,Comedy,3.33596837944664
+1119,Naked Gun 33 1/3: The Final Insult,Comedy,3.039525691699605
+1120,Wings of Desire (Der Himmel über Berlin),Comedy|Drama|Romance,3.9025974025974026
+1121,Death Becomes Her,Comedy,2.925925925925926
+1122,Singles,Comedy|Drama|Romance,3.7032967032967035
+1123,Coneheads,Comedy|Sci-Fi,2.8323863636363638
+1124,Swingers,Comedy|Drama,3.5838926174496644
+1125,Welcome to the Dollhouse,Comedy|Drama,3.650326797385621
+1126,Topsy-Turvy,Drama,3.6865284974093266
+1127,Gossip,Drama|Thriller,2.84375
+1128,Drowning Mona,Comedy,3.033707865168539
+1129,"Face in the Crowd, A",Drama,3.902173913043478
+1130,Burnt By the Sun (Utomlyonnye solntsem),Drama,4.138248847926267
+1131,Tumbleweeds,Drama,3.43312101910828
+1132,In the Company of Men,Drama,3.597444089456869
+1133,Kaspar Hauser,Drama,3.8493150684931505
+1134,Nobody Loves Me (Keiner liebt mich),Comedy|Drama,3.8285714285714287
+1135,Inherit the Wind,Drama,4.151419558359621
+1136,Needful Things,Drama|Horror,2.683982683982684
+1137,Children of the Corn,Horror|Thriller,2.2487562189054726
+1138,House on Haunted Hill,Horror,3.1278195488721803
+1139,Village of the Damned,Horror|Sci-Fi,2.9356060606060606
+1140,Village of the Damned,Horror|Sci-Fi|Thriller,2.9356060606060606
+1141,Psycho II,Horror|Thriller,2.4120603015075375
+1142,Exorcist II: The Heretic,Horror,1.6708860759493671
+1143,Wolf,Drama|Horror,2.9110169491525424
+1144,In the Mouth of Madness,Horror|Thriller,2.4761904761904763
+1145,American Gigolo,Drama,3.210526315789474
+1146,Candyman,Horror,2.729591836734694
+1147,Cat's Eye,Horror,2.624242424242424
+1148,"This World, Then the Fireworks",Crime|Drama|Film-Noir,2.525
+1149,Rambo: First Blood Part II,Action|War,2.5863309352517985
+1150,Virus,Horror|Sci-Fi,2.2485207100591715
+1151,Lost in Space,Action|Sci-Fi|Thriller,2.6151315789473686
+1152,My Favorite Martian,Comedy|Sci-Fi,2.5
+1153,Universal Soldier: The Return,Action|Sci-Fi,1.7850467289719627
+1154,Universal Soldier,Action|Sci-Fi,2.5020408163265304
+1155,Mary Shelley's Frankenstein,Drama|Horror,3.058333333333333
+1156,Outside Providence,Comedy,3.432926829268293
+1157,Best Laid Plans,Crime|Drama,3.3398058252427183
+1158,Blue Streak,Comedy,3.144
+1159,Halloween: H20,Horror|Thriller,2.5545023696682465
+1160,Blade,Action|Adventure|Horror,3.211699164345404
+1161,Pet Sematary II,Horror,1.784
+1162,Children of the Corn II: The Final Sacrifice,Horror,1.613861386138614
+1163,Ravenous,Drama|Horror,3.0751445086705202
+1164,Star Trek: Generations,Action|Adventure|Sci-Fi,3.450980392156863
+1165,Powder,Drama|Sci-Fi,3.287709497206704
+1166,Superstar,Comedy,2.082802547770701
+1167,Freddy's Dead: The Final Nightmare,Horror,1.9536082474226804
+1168,Wes Craven's New Nightmare,Horror,2.8260869565217392
+1169,Battlefield Earth,Action|Sci-Fi,1.749090909090909
+1170,Full Metal Jacket,Action|Drama|War,3.9160671462829737
+1171,Crazy in Alabama,Comedy|Drama,3.0625
+1172,Urban Legend,Horror|Thriller,2.8082901554404147
+1173,I Know What You Did Last Summer,Horror|Mystery|Thriller,2.799342105263158
+1174,Alien: Resurrection,Action|Horror|Sci-Fi,3.0901639344262297
+1175,King Creole,Drama|Musical,3.0984848484848486
+1176,Highlander III: The Sorcerer,Action|Sci-Fi,2.310126582278481
+1177,Bad Girls,Western,2.627450980392157
+1178,Get Bruce,Documentary,3.3628318584070795
+1179,Carlito's Way,Crime|Drama,3.6780821917808217
+1180,Amityville 1992: It's About Time,Horror,1.8928571428571428
+1181,Amityville: Dollhouse,Horror,1.5833333333333333
+1182,Escape from L.A.,Action|Adventure|Sci-Fi|Thriller,2.510204081632653
+1183,Vampires,Horror,2.4887640449438204
+1184,American History X,Drama,3.9852507374631267
+1185,I Still Know What You Did Last Summer,Horror|Mystery|Thriller,2.243027888446215
+1186,Halloween: The Curse of Michael Myers,Horror|Thriller,2.3273809523809526
+1187,Scream 2,Horror|Thriller,3.0418410041841004
+1188,Mission to Mars,Sci-Fi,2.6578947368421053
+1189,Deep Rising,Action|Horror|Sci-Fi,2.8157894736842106
+1190,Sphere,Adventure|Sci-Fi|Thriller,2.6371951219512195
+1191,Who's Harry Crumb?,Comedy,2.7735849056603774
+1192,Strange Days,Action|Crime|Sci-Fi,3.25
+1193,Mad Max 2 (a.k.a. The Road Warrior),Action|Sci-Fi,3.59367396593674
+1194,Brokedown Palace,Drama,3.044776119402985
+1195,Blackbeard's Ghost,Children's|Comedy,3.072289156626506
+1196,Repossessed,Comedy,2.138888888888889
+1197,Spaceballs,Comedy|Sci-Fi,3.071625344352617
+1198,Meatballs,Comedy,3.538181818181818
+1199,Meatballs Part II,Comedy,1.910569105691057
+1200,Meatballs III,Comedy,1.5299145299145298
+1201,Amos & Andrew,Comedy,2.7279411764705883
+1202,Vegas Vacation,Comedy,2.6538461538461537
+1203,That Old Feeling,Comedy|Romance,3.2916666666666665
+1204,Christmas Vacation,Comedy,3.5473684210526315
+1205,Around the World in 80 Days,Adventure|Comedy,3.5620915032679736
+1206,Armed and Dangerous,Comedy|Crime,2.3194444444444446
+1207,Krippendorf's Tribe,Comedy,2.2777777777777777
+1208,Junior,Comedy|Sci-Fi,2.7395833333333335
+1209,Major Payne,Comedy,2.6416666666666666
+1210,True Grit,Adventure|Western,3.8506493506493507
+1211,Barefoot in the Park,Comedy,3.7613636363636362
+1212,Tron,Action|Adventure|Fantasy|Sci-Fi,3.2603092783505154
+1213,Weird Science,Comedy,3.250814332247557
+1214,Fathers' Day,Comedy,2.5035971223021583
+1215,Bonfire of the Vanities,Comedy,2.4375
+1216,Conan the Barbarian,Action|Adventure,3.2444444444444445
+1217,Picture Perfect,Comedy|Romance,3.047945205479452
+1218,Auntie Mame,Comedy|Drama,3.712676056338028
+1219,Dracula: Dead and Loving It,Comedy|Horror,2.467455621301775
+1220,"Corrina, Corrina",Comedy|Drama|Romance,3.3344827586206898
+1221,Speechless,Comedy|Romance,2.860103626943005
+1222,Bio-Dome,Comedy,2.037037037037037
+1223,Three to Tango,Comedy|Romance,2.772357723577236
+1224,Multiplicity,Comedy,2.668032786885246
+1225,Spy Hard,Comedy,2.4962962962962965
+1226,Heathers,Comedy,3.7095890410958905
+1227,Real Genius,Comedy,3.689922480620155
+1228,My Blue Heaven,Comedy,3.3486238532110093
+1229,Loaded Weapon 1,Action|Comedy,2.5622119815668203
+1230,Wayne's World 2,Comedy,2.8981132075471696
+1231,Stop! Or My Mom Will Shoot,Action|Comedy,2.010989010989011
+1232,Superman III,Action|Adventure|Sci-Fi,2.2541899441340782
+1233,Another Stakeout,Comedy|Thriller,2.4565217391304346
+1234,Fatal Instinct,Comedy,2.5271317829457365
+1235,Hot Shots! Part Deux,Action|Comedy|War,2.7232472324723247
+1236,"Very Brady Sequel, A",Comedy,2.5542857142857143
+1237,Young Guns,Action|Comedy|Western,3.324921135646688
+1238,Grease 2,Comedy|Musical|Romance,2.073469387755102
+1239,Fletch,Comedy,3.3955696202531644
+1240,Fletch Lives,Comedy,2.9045454545454548
+1241,Police Academy 2: Their First Assignment,Comedy,2.4285714285714284
+1242,Police Academy 3: Back in Training,Comedy,2.061224489795918
+1243,Police Academy 4: Citizens on Patrol,Comedy,2.0809248554913293
+1244,Police Academy 5: Assignment: Miami Beach,Comedy,2.0736196319018405
+1245,Police Academy 6: City Under Siege,Comedy,1.7195121951219512
+1246,Ghostbusters II,Comedy|Horror,2.9819277108433737
+1247,Blues Brothers 2000,Action|Comedy|Musical,2.475806451612903
+1248,Herbie Rides Again,Adventure|Children's|Comedy,2.731707317073171
+1249,Outrageous Fortune,Comedy|Mystery,3.0307692307692307
+1250,Airplane II: The Sequel,Comedy,2.674922600619195
+1251,European Vacation,Comedy,2.8767605633802815
+1252,Problem Child,Comedy,1.68
+1253,Mafia!,Comedy|Crime,2.403669724770642
+1254,"$1,000,000 Duck",Children's|Comedy,2.859154929577465
+1255,Beavis and Butt-head Do America,Animation|Comedy,2.4904214559386975
+1256,Cujo,Horror|Thriller,2.502202643171806
+1257,Attack of the Killer Tomatoes!,Comedy|Horror,2.5605381165919283
+1258,Children of the Corn III,Horror,1.6933333333333334
+1259,Beneath the Planet of the Apes,Action|Sci-Fi,2.9583333333333335
+1260,Escape from the Planet of the Apes,Action|Sci-Fi,3.2666666666666666
+1261,"Nightmare on Elm Street Part 2: Freddy's Revenge, A",Horror,2.1473214285714284
+1262,Friday the 13th,Horror,2.8716814159292037
+1263,Friday the 13th Part 2,Horror,2.1184210526315788
+1264,House of Dracula,Horror,3.272727272727273
+1265,Frankenstein Meets the Wolf Man,Horror,3.028169014084507
+1266,Earth Vs. the Flying Saucers,Sci-Fi,3.443548387096774
+1267,Swamp Thing,Horror|Sci-Fi,2.5180722891566263
+1268,Body Snatchers,Horror|Sci-Fi|Thriller,3.1646090534979425
+1269,Bride of Chucky,Horror|Thriller,2.3986928104575163
+1270,Godzilla (Gojira),Action|Sci-Fi,3.0495626822157433
+1271,Godzilla (Gojira),Action|Sci-Fi,3.0495626822157433
+1272,King Kong vs. Godzilla (Kingukongu tai Gojira),Action|Sci-Fi,2.625
+1273,Muppets From Space,Children's|Comedy,3.0748663101604277
+1274,Species,Horror|Sci-Fi,2.5617529880478087
+1275,Soylent Green,Sci-Fi|Thriller,3.482315112540193
+1276,Dune,Fantasy|Sci-Fi,3.288607594936709
+1277,Yojimbo,Comedy|Drama|Western,4.369565217391305
+1278,Solaris (Solyaris),Drama|Sci-Fi,3.2777777777777777
+1279,Everest,Documentary,3.990049751243781
+1280,Herbie Goes Bananas,Adventure|Children's|Comedy,2.5352941176470587
+1281,Cat Ballou,Comedy|Western,3.5657894736842106
+1282,Irma la Douce,Comedy,3.8465608465608465
+1283,My Science Project,Adventure|Sci-Fi,2.9714285714285715
+1284,Tough Guys,Comedy,2.923076923076923
+1285,Three Amigos!,Comedy|Western,3.046875
+1286,Hud,Drama|Western,3.977707006369427
+1287,"Fistful of Dollars, A",Action|Western,3.971608832807571
+1288,For a Few Dollars More,Western,3.8735177865612647
+1289,Beach Party,Comedy,2.4375
+1290,Condorman,Action|Adventure|Children's|Comedy,2.9623655913978495
+1291,Runaway,Sci-Fi|Thriller,2.798882681564246
+1292,Unforgiven,Western,3.8465608465608465
+1293,Young Guns II,Action|Comedy|Western,2.853881278538813
+1294,Wild Bill,Western,3.4696969696969697
+1295,Vacation,Comedy,3.725988700564972
+1296,Wyatt Earp,Western,3.388646288209607
+1297,Predator 2,Action|Sci-Fi|Thriller,2.608540925266904
+1298,Tombstone,Western,3.7335766423357666
+1299,"Boat, The (Das Boot)",Action|Drama|War,4.029598308668076
+1300,Fantastic Voyage,Adventure|Sci-Fi,3.7098765432098766
+1301,Abbott and Costello Meet Frankenstein,Comedy|Horror,3.1991525423728815
+1302,Jeremiah Johnson,Western,3.6872427983539096
+1303,Murder at 1600,Mystery|Thriller,3.125
+1304,Cube,Sci-Fi|Thriller,3.558139534883721
+1305,Supernova,Adventure|Sci-Fi,1.9414893617021276
+1306,Destination Moon,Sci-Fi,3.4076923076923076
+1307,Melvin and Howard,Drama,3.7025641025641027
+1308,Fanny and Alexander,Drama,3.92
+1309,My Man Godfrey,Comedy,3.9768976897689767
+1310,My Man Godfrey,Comedy,3.9768976897689767
+1311,Blue Hawaii,Comedy|Musical,2.7236180904522613
+1312,Things Change,Comedy,3.855614973262032
+1313,Manhattan Murder Mystery,Comedy|Mystery,3.791304347826087
+1314,Enchanted April,Drama,3.970779220779221
+1315,Desert Bloom,Drama,3.4878048780487805
+1316,Papillon,Drama,3.9673202614379086
+1317,Pal Joey,Comedy|Musical|Romance,3.141843971631206
+1318,Strawberry and Chocolate (Fresa y chocolate),Drama,3.6721311475409837
+1319,Gentleman's Agreement,Drama,4.005025125628141
+1320,"Man for All Seasons, A",Drama,4.217687074829932
+1321,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",Drama|Musical,3.575
+1322,Richard III,Drama|War,3.8972602739726026
+1323,Sunshine,Drama,3.957317073170732
+1324,Get on the Bus,Drama,3.419642857142857
+1325,Apocalypse Now,Drama|War,3.8329411764705883
+1326,Ran,Drama|War,4.287425149700598
+1327,Once Upon a Time in America,Crime|Drama|Thriller,3.800751879699248
+1328,Robin Hood,Animation|Children's,3.713675213675214
+1329,Watership Down,Animation|Children's|Drama|Fantasy,3.8483870967741933
+1330,Cimarron,Western,3.0579710144927534
+1331,So Dear to My Heart,Children's|Drama,2.4166666666666665
+1332,Make Mine Music,Animation|Children's|Musical,2.76
+1333,Melody Time,Animation|Children's|Musical,3.056603773584906
+1334,Voyage to the Bottom of the Sea,Adventure|Sci-Fi,3.3734439834024896
+1335,American Flyers,Drama,3.5947712418300655
+1336,Mumford,Comedy,3.6280701754385967
+1337,"Next Stop, Wonderland",Comedy|Drama|Romance,3.7470355731225298
+1338,Wings,Drama|Romance|War,3.8
+1339,Duets,Comedy|Drama,2.3795620437956204
+1340,Seven Days in May,Thriller,3.973684210526316
+1341,Pork Chop Hill,War,3.5098039215686274
+1342,For Love of the Game,Comedy|Drama,3.017123287671233
+1343,Hear My Song,Comedy,3.696969696969697
+1344,Snow Falling on Cedars,Drama,3.5217391304347827
+1345,We're No Angels,Drama,2.6666666666666665
+1346,Gun Shy,Comedy,2.3552631578947367
+1347,Reindeer Games,Action|Thriller,2.6556016597510372
+1348,Fallen,Action|Mystery|Thriller,3.4548494983277593
+1349,Sliver,Thriller,2.0
+1350,Woman on Top,Comedy|Romance,2.7737226277372264
+1351,Mimic,Sci-Fi|Thriller,2.8421052631578947
+1352,Superman IV: The Quest for Peace,Action|Adventure|Sci-Fi,1.8729096989966556
+1353,Barcelona,Comedy|Romance,3.545098039215686
+1354,Johnny Mnemonic,Action|Sci-Fi|Thriller,2.5316901408450705
+1355,Smoke,Drama,3.953846153846154
+1356,Mad Max Beyond Thunderdome,Action|Sci-Fi,3.278894472361809
+1357,Short Cuts,Drama,3.7423728813559323
+1358,Baby... Secret of the Lost Legend,Adventure|Sci-Fi,2.5286624203821657
+1359,Chill Factor,Action|Thriller,2.8552631578947367
+1360,Dreamscape,Adventure|Crime|Sci-Fi|Thriller,3.5058823529411764
+1361,French Kiss,Comedy|Romance,3.320945945945946
+1362,Airport '77,Drama,2.376923076923077
+1363,Pot O' Gold,Comedy|Musical,3.1515151515151514
+1364,Nutty Professor II: The Klumps,Comedy,2.557077625570776
+1365,And God Created Woman (Et Dieu&#8230;Créa la Femme),Drama,3.36231884057971
+1366,What Lies Beneath,Thriller,3.2026143790849675
+1367,For Your Eyes Only,Action,3.6245954692556634
+1368,Foreign Student,Drama,3.1538461538461537
+1369,Spanking the Monkey,Comedy|Drama,3.4358974358974357
+1370,Music of the Heart,Drama,3.4223107569721116
+1371,Last Dance,Drama,3.0
+1372,Princess Caraboo,Drama,2.7681159420289854
+1373,American Movie,Documentary,3.880434782608696
+1374,Night Falls on Manhattan,Crime|Drama,3.3739837398373984
+1375,Evil Dead II (Dead By Dawn),Action|Adventure|Comedy|Horror,3.505791505791506
+1376,Diva,Action|Drama|Mystery|Romance|Thriller,4.017964071856287
+1377,Heaven's Prisoners,Mystery|Thriller,2.7333333333333334
+1378,Coma,Thriller,3.2794117647058822
+1379,And the Band Played On,Drama,3.8646288209606987
+1380,Thinner,Horror|Thriller,2.606936416184971
+1381,Rough Night in Jericho,Western,2.7857142857142856
+1382,Turbulence,Thriller,2.323943661971831
+1383,Newsies,Children's|Musical,2.9932432432432434
+1384,Rounders,Crime|Drama,3.5358649789029535
+1385,Beverly Hills Ninja,Action|Comedy,2.3028169014084505
+1386,Without Limits,Drama,3.292929292929293
+1387,Return to Oz,Adventure|Children's|Fantasy|Sci-Fi,2.5981308411214954
+1388,Jack,Comedy|Drama,2.478468899521531
+1389,Peter's Friends,Comedy|Drama,3.099476439790576
+1390,Prefontaine,Drama,2.927536231884058
+1391,Gridlock'd,Crime,3.2674418604651163
+1392,Men Don't Leave,Drama,3.5203252032520327
+1393,Hero,Comedy|Drama,3.0091743119266057
+1394,Eraser,Action|Thriller,3.2642140468227425
+1395,Pale Rider,Western,3.8814229249011856
+1396,Hoodlum,Crime|Drama|Film-Noir,2.7107438016528924
+1397,Rambo III,Action|War,2.2610837438423643
+1398,Money Talks,Action|Comedy,2.7
+1399,Poison Ivy,Thriller,2.454081632653061
+1400,Rocky II,Action|Drama,2.969811320754717
+1401,Nothing But Trouble,Adventure|Comedy,2.2450980392156863
+1402,187,Drama,2.75
+1403,Lost Highway,Mystery,3.108695652173913
+1404,Daylight,Action|Adventure|Thriller,2.4486486486486485
+1405,Rocky III,Action|Drama,2.725
+1406,Rocky IV,Action|Drama,2.5625
+1407,Rocky V,Action|Drama,2.1724137931034484
+1408,Young Sherlock Holmes,Action|Adventure|Mystery,3.5290697674418605
+1409,Violets Are Blue...,Drama|Romance,2.883720930232558
+1410,Heartburn,Comedy|Drama,2.943548387096774
+1411,Repulsion,Thriller,3.7573529411764706
+1412,Extremities,Drama|Thriller,3.3388429752066116
+1413,City of Industry,Crime|Thriller,3.263157894736842
+1414,Liberty Heights,Drama,3.5397489539748954
+1415,Private Parts,Comedy|Drama,3.081272084805654
+1416,Lost Horizon,Drama,3.8961748633879782
+1417,Soul Food,Drama,3.3448275862068964
+1418,Wishmaster,Horror,1.9731543624161074
+1419,"Thousand Acres, A",Drama,2.6315789473684212
+1420,Fire Down Below,Action|Drama|Thriller,2.3434343434343434
+1421,U Turn,Action|Crime|Mystery,3.1137440758293837
+1422,If....,Drama,3.7563025210084033
+1423,Stepmom,Drama,3.0384615384615383
+1424,Down in the Delta,Drama,3.27007299270073
+1425,Affliction,Drama,3.73
+1426,Anaconda,Action|Adventure|Thriller,2.1025641025641026
+1427,Indian Summer (a.k.a. Alive & Kicking),Comedy|Drama,3.0078740157480315
+1428,In Dreams,Thriller,2.1237113402061856
+1429,Playing God,Crime|Thriller,2.9193548387096775
+1430,Alive,Drama,3.3079584775086506
+1431,"Life Less Ordinary, A",Romance|Thriller,3.219178082191781
+1432,Picnic,Drama,3.7098765432098766
+1433,Bliss,Drama|Romance,2.7850467289719627
+1434,Turtle Diary,Drama,3.1785714285714284
+1435,Twin Peaks: Fire Walk with Me,Drama|Mystery,2.7906976744186047
+1436,Switchback,Thriller,3.156716417910448
+1437,Belizaire the Cajun,Drama,3.8055555555555554
+1438,Mad City,Action|Drama,2.681159420289855
+1439,One Night Stand,Drama,2.4693877551020407
+1440,Maximum Risk,Action|Adventure|Thriller,2.5853658536585367
+1441,Last Man Standing,Action|Drama|Western,3.096069868995633
+1442,Set It Off,Action|Crime,2.8156028368794326
+1443,Night of the Comet,Action|Horror|Sci-Fi,3.1228070175438596
+1444,Of Mice and Men,Drama,3.8263665594855305
+1445,Bad Lieutenant,Crime|Drama,3.01
+1446,Dick Tracy,Action|Crime,2.620178041543027
+1447,Single White Female,Action,3.1868512110726646
+1448,Two Girls and a Guy,Comedy|Drama,3.125
+1449,Welcome To Sarajevo,Drama|War,3.484375
+1450,52 Pick-Up,Action|Mystery|Thriller,3.311688311688312
+1451,Heartbreak Ridge,Action|War,3.1176470588235294
+1452,Unstrung Heroes,Comedy|Drama,3.6951219512195124
+1453,Gloria,Drama|Thriller,2.475
+1454,School Daze,Drama,3.4027777777777777
+1455,Xiu Xiu: The Sent-Down Girl (Tian yu),Drama|Romance,3.453125
+1456,Mo' Better Blues,Drama,3.6226415094339623
+1457,Coogan's Bluff,Crime,3.3157894736842106
+1458,My Name Is Joe,Drama|Romance,3.610526315789474
+1459,She's All That,Comedy|Romance,2.9393939393939394
+1460,Chinese Box,Drama|Romance,2.98
+1461,Red Corner,Crime|Thriller,3.2934131736526946
+1462,Death Wish,Action|Drama,3.3657142857142857
+1463,Death Wish 3,Action|Drama,2.123809523809524
+1464,Death Wish 4: The Crackdown,Action|Drama,1.8
+1465,Death Wish V: The Face of Death,Action|Drama,2.3205128205128207
+1466,Mercury Rising,Action|Drama|Thriller,2.898550724637681
+1467,Disclosure,Drama|Thriller,3.2661596958174903
+1468,Drop Zone,Action,2.3863636363636362
+1469,Death and the Maiden,Drama|Thriller,3.609271523178808
+1470,Red Dawn,Action|War,3.204081632653061
+1471,Born American,Action|Drama|Thriller,3.263157894736842
+1472,Bloodsport,Action,2.6230366492146597
+1473,He Got Game,Drama,3.34375
+1474,Gothic,Drama|Horror,2.5801526717557253
+1475,It Came from Hollywood,Comedy|Documentary,2.9204545454545454
+1476,G. I. Blues,Musical,2.936936936936937
+1477,Teaching Mrs. Tingle,Comedy|Thriller,2.7010309278350517
+1478,Solar Crisis,Sci-Fi|Thriller,2.4615384615384617
+1479,That's Life!,Drama,3.156862745098039
+1480,Black Dog,Action|Thriller,2.3846153846153846
+1481,Just Cause,Mystery|Thriller,3.2837837837837838
+1482,Kiss of Death,Crime|Drama|Thriller,2.7891156462585034
+1483,Roustabout,Musical,2.5555555555555554
+1484,In Too Deep,Action|Thriller,2.8363636363636364
+1485,Instinct,Drama|Thriller,3.034749034749035
+1486,Desert Blue,Drama,2.376470588235294
+1487,My Crazy Life (Mi vida loca),Drama,3.3909774436090228
+1488,Carnival of Souls,Horror|Thriller,3.1256544502617802
+1489,"Dorado, El",Western,3.6373626373626373
+1490,Being Human,Drama,2.8518518518518516
+1491,On Her Majesty's Secret Service,Action,3.6633663366336635
+1492,Blink,Thriller,3.2625
+1493,Blown Away,Action|Thriller,3.1483516483516483
+1494,Midnight Express,Drama,4.003215434083601
+1495,Blue Chips,Drama,2.3645833333333335
+1496,Blue Sky,Drama|Romance,3.8585365853658535
+1497,Murder in the First,Drama|Thriller,3.6515837104072397
+1498,"Bronx Tale, A",Drama,3.840816326530612
+1499,Days of Thunder,Action|Romance,2.68
+1500,Calendar Girl,Drama,2.5964912280701755
+1501,Queens Logic,Comedy|Drama,3.188888888888889
+1502,Cliffhanger,Action|Adventure|Crime,2.9174311926605503
+1503,Color of Night,Drama|Thriller,2.7621951219512195
+1504,Saturn 3,Adventure|Sci-Fi|Thriller,2.544776119402985
+1505,I Saw What You Did,Thriller,2.6346153846153846
+1506,Farewell My Concubine,Drama|Romance,3.990990990990991
+1507,Knightriders,Action|Adventure|Drama,2.72
+1508,Puppet Master,Horror|Sci-Fi|Thriller,2.48
+1509,Sugar Town,Comedy,2.8656716417910446
+1510,Fright Night,Comedy|Horror,3.1146245059288535
+1511,With Honors,Comedy|Drama,3.0728155339805827
+1512,Fresh,Drama,3.872340425531915
+1513,Interiors,Drama,3.2596685082872927
+1514,"Official Story, The (La Historia Oficial)",Drama,3.2233009708737863
+1515,Guilty as Sin,Crime|Drama|Thriller,2.4123711340206184
+1516,Heaven & Earth,Action|Drama|War,3.39010989010989
+1517,Hollow Man,Horror|Sci-Fi|Thriller,2.498220640569395
+1518,Magnum Force,Western,3.5560538116591927
+1519,When We Were Kings,Documentary,4.143939393939394
+1520,I'll Do Anything,Comedy|Drama,2.792682926829268
+1521,Jimmy Hollywood,Comedy,2.293103448275862
+1522,Judgment Night,Action,2.838709677419355
+1523,He Walked by Night,Crime|Film-Noir|Thriller,3.2465753424657535
+1524,My Favorite Season,Drama,3.5841584158415842
+1525,Kalifornia,Drama|Thriller,3.4725738396624473
+1526,Killing Zoe,Thriller,3.086705202312139
+1527,King of the Hill,Drama,3.801242236024845
+1528,M. Butterfly,Drama,3.520661157024793
+1529,Tall Tale,Adventure|Children's,3.0606060606060606
+1530,Tex,Drama,3.3658536585365852
+1531,Swing Kids,Drama|War,3.602870813397129
+1532,"Paris, Texas",Drama,3.685279187817259
+1533,Silent Fall,Drama|Thriller,2.764705882352941
+1534,"Tin Drum, The (Blechtrommel, Die)",Drama,3.9367088607594938
+1535,American Dream,Documentary,3.9504950495049505
+1536,Malice,Thriller,3.091703056768559
+1537,Menace II Society,Action|Crime|Drama,3.5401785714285716
+1538,Mr. Jones,Drama|Romance,2.945945945945946
+1539,Nineteen Eighty-Four,Drama|Sci-Fi,3.6503759398496243
+1540,I'm Not Rappaport,Comedy,3.4367816091954024
+1541,Diabolique,Drama|Thriller,2.623931623931624
+1542,Purple Noon,Crime|Thriller,3.2542372881355934
+1543,Atlantic City,Crime|Drama|Romance,3.8391812865497075
+1544,Our Town,Drama,3.69672131147541
+1545,Autumn Sonata (Höstsonaten ),Drama,3.4146341463414633
+1546,Madonna: Truth or Dare,Documentary,3.200854700854701
+1547,Fear,Thriller,2.6639344262295084
+1548,Fled,Action|Adventure,2.6097560975609757
+1549,Stanley & Iris,Drama|Romance,3.0985915492957745
+1550,Keys to Tulsa,Crime,2.5964912280701755
+1551,Come See the Paradise,Drama|Romance,3.186046511627907
+1552,One Tough Cop,Action|Drama,2.9125
+1553,Paradise Road,Drama|War,3.1951219512195124
+1554,Return to Paradise,Drama|Romance,3.5526315789473686
+1555,Chain Reaction,Action|Adventure|Thriller,2.5454545454545454
+1556,Wrongfully Accused,Action|Comedy,2.4388489208633093
+1557,Happiness,Comedy,3.612403100775194
+1558,Rope,Thriller,3.79467680608365
+1559,Topaz,Thriller,3.102803738317757
+1560,Apt Pupil,Drama|Thriller,3.234042553191489
+1561,Soldier,Action|Adventure|Sci-Fi|Thriller|War,2.6540880503144653
+1562,Torn Curtain,Thriller,3.353982300884956
+1563,Under Siege,Action,3.2640845070422535
+1564,Why Do Fools Fall In Love?,Drama,2.8854166666666665
+1565,Tin Men,Comedy|Drama,3.34
+1566,Kansas City,Crime,3.04
+1567,Dancing at Lughnasa,Drama,3.217391304347826
+1568,Runaway Train,Action|Adventure|Drama|Thriller,3.407563025210084
+1569,Rough Magic,Drama|Romance,2.6779661016949152
+1570,Bulletproof,Action,2.924731182795699
+1571,Deconstructing Harry,Comedy|Drama,3.243542435424354
+1572,8MM,Thriller,2.978181818181818
+1573,Boiling Point,Action|Drama,2.8173076923076925
+1574,Carnal Knowledge,Drama,3.6547619047619047
+1575,Easy Rider,Adventure|Drama,3.7493261455525606
+1576,Mother Night,Drama,3.282828282828283
+1577,City Hall,Drama|Thriller,2.923076923076923
+1578,Gung Ho,Comedy|Drama,2.875598086124402
+1579,"View to a Kill, A",Action,3.445578231292517
+1580,Airport 1975,Drama,2.7103448275862068
+1581,Rollercoaster,Drama|Thriller,2.5
+1582,Play it to the Bone,Comedy|Drama,2.1578947368421053
+1583,Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.,Documentary,3.762376237623762
+1584,Very Bad Things,Comedy|Crime,2.6444444444444444
+1585,G.I. Jane,Action|Drama|War,3.0673400673400675
+1586,Battle for the Planet of the Apes,Action|Sci-Fi,2.76
+1587,Afterglow,Drama|Romance,3.1948051948051948
+1588,Beyond the Poseidon Adventure,Adventure,1.7976190476190477
+1589,Jack Frost,Comedy|Drama,2.236180904522613
+1590,Mass Appeal,Drama,3.1770833333333335
+1591,Desperate Measures,Crime|Drama|Thriller,2.568
+1592,Cruel Intentions,Drama,2.969283276450512
+1593,Firestorm,Action|Adventure|Thriller,2.75
+1594,Frankie Starlight,Drama|Romance,2.69811320754717
+1595,Jade,Thriller,2.3781512605042017
+1596,Dead Ringers,Drama|Thriller,3.1266968325791855
+1597,Hard Rain,Action|Thriller,2.219298245614035
+1598,Dangerous Beauty,Drama,3.694267515923567
+1599,Bad Boys,Action,3.2311827956989245
+1600,Mr. Saturday Night,Comedy|Drama,2.8423236514522823
+1601,Summer of Sam,Drama,3.232258064516129
+1602,No Way Out,Thriller,3.8368055555555554
+1603,Where Eagles Dare,Action|Adventure|War,3.8701923076923075
+1604,Music From Another Room,Drama|Romance,2.9625
+1605,Belle de jour,Drama,3.6184738955823295
+1606,Rules of Engagement,Drama|Thriller,3.25177304964539
+1607,Betrayed,Drama|Thriller,3.3557046979865772
+1608,Daughters of the Dust,Drama,2.8536585365853657
+1609,Roommates,Comedy|Drama,3.1375
+1610,Metroland,Comedy|Drama,3.4155844155844157
+1611,Congo,Action|Adventure|Mystery|Sci-Fi,2.4754601226993866
+1612,Feast of July,Drama,3.413793103448276
+1613,Relative Fear,Horror|Thriller,3.0
+1614,Palmetto,Film-Noir|Mystery|Thriller,2.8814814814814813
+1615,Let's Get Harry,Action|Adventure,2.5783132530120483
+1616,Shallow Grave,Thriller,3.862962962962963
+1617,Judge Dredd,Action|Adventure|Sci-Fi,2.4512635379061374
+1618,Kids,Drama,3.562130177514793
+1619,"400 Blows, The (Les Quatre cents coups)",Drama,4.0359712230215825
+1620,Jules and Jim (Jules et Jim),Drama,3.8582375478927204
+1621,Assassination,Action,3.015151515151515
+1622,Twilight,Crime|Drama,2.8947368421052633
+1623,U.S. Marshalls,Action|Thriller,3.193308550185874
+1624,Swimming with Sharks,Comedy|Drama,3.5450236966824646
+1625,Tank Girl,Action|Comedy|Musical|Sci-Fi,2.6549295774647885
+1626,Hush,Thriller,2.760869565217391
+1627,Suicide Kings,Crime|Drama,3.088397790055249
+1628,No Mercy,Action|Thriller,2.7542372881355934
+1629,Extreme Measures,Drama|Thriller,2.7816901408450705
+1630,What Ever Happened to Baby Jane?,Drama|Thriller,3.746212121212121
+1631,All the King's Men,Drama,4.013274336283186
+1632,Prick Up Your Ears,Drama,3.8808290155440415
+1633,Allan Quartermain and the Lost City of Gold,Action|Adventure,2.1176470588235294
+1634,Cutthroat Island,Action|Adventure|Romance,2.823529411764706
+1635,In the Heat of the Night,Drama|Mystery,4.024324324324325
+1636,Jennifer 8,Thriller,2.7025316455696204
+1637,Plenty,Drama,2.4623655913978495
+1638,Money Train,Action,2.5664335664335662
+1639,Copycat,Crime|Drama|Thriller,3.3204633204633205
+1640,Bitter Moon,Drama,3.2527472527472527
+1641,Monkey Shines,Horror|Sci-Fi,2.5095541401273884
+1642,Phantasm,Horror|Sci-Fi,3.01271186440678
+1643,Bird on a Wire,Action|Adventure|Romance|Thriller,2.4568690095846644
+1644,Rain,Drama,3.5849056603773586
+1645,Firestarter,Horror|Thriller,2.938388625592417
+1646,Klute,Drama|Mystery,3.8722044728434506
+1647,Cobb,Drama,3.0357142857142856
+1648,I Like It Like That,Comedy|Drama|Romance,3.1794871794871793
+1649,Fatal Beauty,Action|Crime,2.3451327433628317
+1650,Molly,Comedy|Drama,2.4615384615384617
+1651,Naked,Drama,3.4935897435897436
+1652,Two Moon Juction,Drama,2.4583333333333335
+1653,Never Talk to Strangers,Thriller,2.836734693877551
+1654,I Love Trouble,Action|Comedy,2.7325581395348837
+1655,"Perfect World, A",Action|Drama,3.4163090128755367
+1656,Dead Presidents,Action|Crime|Drama,2.9791666666666665
+1657,Seven (Se7en),Crime|Thriller,3.904639175257732
+1658,High Plains Drifter,Western,3.756521739130435
+1659,Hang 'em High,Western,3.75
+1660,Assault on Precinct 13,Action|Thriller,3.40625
+1661,Near Dark,Comedy|Horror,3.481707317073171
+1662,Radioland Murders,Comedy|Mystery|Romance,3.4508196721311477
+1663,Rising Sun,Action|Drama|Mystery,3.1338582677165356
+1664,Reality Bites,Comedy|Drama,3.176678445229682
+1665,Red Rock West,Thriller,4.028169014084507
+1666,Home for the Holidays,Drama,3.3536585365853657
+1667,Cutter's Way,Drama|Thriller,3.2653061224489797
+1668,Prince of the City,Drama,3.467741935483871
+1669,Days of Heaven,Drama,4.115942028985507
+1670,Ruby in Paradise,Drama,3.6666666666666665
+1671,Eye for an Eye,Drama|Thriller,2.6923076923076925
+1672,Bad Company,Action,2.9
+1673,"Low Down Dirty Shame, A",Action|Comedy,2.608695652173913
+1674,Boys Life,Drama,3.56353591160221
+1675,Mike's Murder,Mystery,2.7777777777777777
+1676,Sleepers,Crime|Drama,3.3537906137184117
+1677,Once Upon a Time in the West,Western,3.9545454545454546
+1678,Serial Mom,Comedy|Crime|Horror,3.2057877813504825
+1679,"Simple Twist of Fate, A",Drama,3.0103092783505154
+1680,Jason's Lyric,Crime|Drama,3.0972222222222223
+1681,Bed of Roses,Drama|Romance,2.915492957746479
+1682,Screamers,Sci-Fi|Thriller,2.7777777777777777
+1683,Communion,Drama|Sci-Fi|Thriller,2.6894736842105265
+1684,Someone to Watch Over Me,Action|Crime|Thriller,3.1607142857142856
+1685,Striking Distance,Action,2.558139534883721
+1686,Terminal Velocity,Action,2.5126050420168067
+1687,Things to Do in Denver when You're Dead,Crime|Drama|Romance,3.339080459770115
+1688,Antonia's Line (Antonia),Drama,3.765432098765432
+1689,Nick of Time,Action|Thriller,2.763440860215054
+1690,F/X 2,Action|Crime|Thriller,2.7219917012448134
+1691,Disturbing Behavior,Horror|Thriller,2.7248322147651005
+1692,Missing in Action,Action|War,2.561224489795918
+1693,Trial by Jury,Thriller,2.7413793103448274
+1694,True Romance,Action|Crime|Romance,3.640117994100295
+1695,Fitzcarraldo,Adventure|Drama,3.8679245283018866
+1696,Bats,Horror|Thriller,1.7980769230769231
+1697,Cronos,Horror,2.9279279279279278
+1698,Braindead,Comedy|Horror,3.15
+1699,Paths of Glory,Drama|War,4.175572519083969
+1700,Five Easy Pieces,Drama,4.030555555555556
+1701,Sarafina!,Drama,3.3653846153846154
+1702,Stage Fright,Mystery|Thriller,3.8870967741935485
+1703,Damien: Omen II,Horror,2.8789473684210525
+1704,Lonely Are the Brave,Drama|Western,4.076923076923077
+1705,Trouble in Paradise,Comedy|Romance,4.009615384615385
+1706,"Place in the Sun, A",Drama|Romance,3.882591093117409
+1707,From Here to Eternity,Drama|Romance|War,4.125340599455041
+1708,Flying Tigers,Action|Drama|War,3.519230769230769
+1709,On the Beach,Drama,3.823232323232323
+1710,Brighton Beach Memoirs,Comedy,3.441696113074205
+1711,On Our Merry Way,Comedy|Drama,3.2142857142857144
+1712,Thunderbolt and Lightfoot,Action,3.533707865168539
+1713,Last Night,Thriller,3.62
+1714,Guinevere,Drama|Romance,3.253731343283582
+1715,Plunkett & MaCleane,Action|Drama,3.315068493150685
+1716,B. Monkey,Romance|Thriller,3.3095238095238093
+1717,Blood on the Sun,Drama|War,3.6315789473684212
+1718,Booty Call,Comedy|Romance,2.5406976744186047
+1719,Kagemusha,Drama|War,4.301507537688442
+1720,Captain Horatio Hornblower,Action|Adventure|War,3.898876404494382
+1721,Love Is a Many-Splendored Thing,Romance,3.3454545454545452
+1722,Artemisia,Drama,3.5454545454545454
+1723,Bread and Chocolate (Pane e cioccolata),Drama,4.048951048951049
+1724,Barbarella,Adventure|Sci-Fi,3.0434782608695654
+1725,Clean Slate (Coup de Torchon),Crime,3.9166666666666665
+1726,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il)",Drama,3.8883720930232557
+1727,"Love Bewitched, A (El Amor Brujo)",Musical,2.8
+1728,"Battleship Potemkin, The (Bronenosets Potyomkin)",Drama|War,3.774410774410774
+1729,"Brother, Can You Spare a Dime?",Documentary,3.903225806451613
+1730,Seven Beauties (Pasqualino Settebellezze),Comedy|Drama,3.759259259259259
+1731,To Be or Not to Be,Comedy|Drama|War,3.735191637630662
+1732,Gulliver's Travels,Adventure|Animation|Children's,3.721518987341772
+1733,Holy Smoke,Drama,3.307142857142857
+1734,American Pop,Animation|Musical,3.497041420118343
+1735,Wilde,Drama,3.6863905325443787
+1736,Small Time Crooks,Comedy,3.331081081081081
+1737,Saving Grace,Comedy,3.622047244094488
+1738,East is East,Comedy,3.684014869888476
+1739,Dancer in the Dark,Drama|Musical,3.518828451882845
+1740,'Til There Was You,Drama|Romance,2.973913043478261
+1741,24-hour Woman,Drama,1.1666666666666667
+1742,20 Dates,Comedy,2.6952380952380954
+1743,8 Seconds,Drama,3.568
+1744,Above the Rim,Drama,3.3333333333333335
+1745,8 1/2 Women,Comedy,2.485981308411215
+1746,Little Boy Blue,Drama,3.1538461538461537
+1747,A Chef in Love,Comedy,3.183673469387755
+1748,54,Drama,2.688995215311005
+1749,1-900,Romance,2.6666666666666665
+1750,East-West (Est-ouest),Drama|Romance,3.625615763546798
+1751,"Run Silent, Run Deep",War,3.996031746031746
+1752,Anatomy of a Murder,Drama|Mystery,4.0242914979757085
+1753,Two Women (La Ciociara),Drama|War,3.6853932584269664
+1754,"Suddenly, Last Summer",Drama,3.748792270531401
+1755,Under the Rainbow,Comedy,2.212962962962963
+1756,Room at the Top,Drama,3.9545454545454546
+1757,Freejack,Action|Sci-Fi,2.4718614718614718
+1758,MacKenna's Gold,Western,3.259259259259259
+1759,"Blood In, Blood Out (a.k.a. Bound by Honor)",Crime|Drama,2.6153846153846154
+1760,BASEketball,Comedy,2.5602409638554215
+1761,Fandango,Comedy,3.72
+1762,Quest for Fire,Adventure,3.0466321243523318
+1763,Wisdom,Action|Crime,2.679611650485437
+1764,One Crazy Summer,Comedy,3.363013698630137
+1765,Back to School,Comedy,3.129032258064516
+1766,Trick or Treat,Horror,2.9375
+1767,Iron Eagle,Action|War,2.8950276243093924
+1768,Iron Eagle II,Action|War,2.054263565891473
+1769,Maximum Overdrive,Horror,2.0303030303030303
+1770,House II: The Second Story,Comedy|Horror,2.2626262626262625
+1771,Red Sonja,Action|Adventure,2.459016393442623
+1772,Never Cry Wolf,Drama,4.01948051948052
+1773,Volunteers,Comedy,2.4789473684210526
+1774,Who's That Girl?,Comedy,2.0757575757575757
+1775,She-Devil,Comedy,1.893048128342246
+1776,Nadine,Comedy,2.7482517482517483
+1777,Light of Day,Drama,2.6582278481012658
+1778,Haunted Honeymoon,Comedy,2.3615384615384616
+1779,Funny Farm,Comedy,2.9726027397260273
+1780,Poltergeist II: The Other Side,Horror|Thriller,2.3372093023255816
+1781,Poltergeist III,Horror|Thriller,1.7841726618705036
+1782,Missing in Action 2: The Beginning,Action|War,1.6842105263157894
+1783,Better Off Dead...,Comedy,3.8623853211009176
+1784,"Soldier's Daughter Never Cries, A",Drama,3.61744966442953
+1785,"Couch in New York, A",Comedy|Romance,2.8285714285714287
+1786,Walking and Talking,Romance,3.614678899082569
+1787,Grand Hotel,Drama,3.8461538461538463
+1788,Hard-Boiled (Lashou shentan),Action|Crime,3.979253112033195
+1789,"Nosferatu (Nosferatu, eine Symphonie des Grauens)",Horror,3.7338709677419355
+1790,Nights of Cabiria (Le Notti di Cabiria),Drama,4.176470588235294
+1791,Rawhead Rex,Horror|Thriller,2.2911392405063293
+1792,Barb Wire,Action|Sci-Fi,2.139344262295082
+1793,Bride of Re-Animator,Comedy|Horror,2.3444444444444446
+1794,Creepshow 2,Horror,2.2108843537414966
+1795,Return from Witch Mountain,Children's|Sci-Fi,2.8415841584158414
+1796,Something Wicked This Way Comes,Children's|Horror,3.6877828054298645
+1797,Double Team,Action,2.0
+1798,Phantoms,Horror,2.2395833333333335
+1799,Idle Hands,Comedy|Horror,2.8125
+1800,Deadly Friend,Horror,1.5921052631578947
+1801,Scream 3,Horror|Mystery|Thriller,2.742857142857143
+1802,Mortal Kombat: Annihilation,Action|Adventure,2.125
+1803,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Action|Children's|Fantasy,2.021390374331551
+1804,Teenage Mutant Ninja Turtles III,Action|Children's|Fantasy,1.7309941520467835
+1805,Band of the Hand,Action,2.4
+1806,Howling II: Your Sister Is a Werewolf,Horror,1.5308641975308641
+1807,Mr. Nice Guy,Action|Comedy,3.4031413612565444
+1808,Little Nemo: Adventures in Slumberland,Animation|Children's,3.051282051282051
+1809,It Came from Outer Space,Sci-Fi,3.1437908496732025
+1810,Species II,Horror|Sci-Fi,2.2789115646258504
+1811,Aces: Iron Eagle III,Action|War,1.9772727272727273
+1812,Iron Eagle IV,Action|War,1.683673469387755
+1813,Quest for Camelot,Adventure|Animation|Children's|Fantasy,3.062015503875969
+1814,Children of the Corn IV: The Gathering,Horror,1.375
+1815,"Communion (a.k.a. Alice, Sweet Alice/Holy Terror)",Horror,3.0
+1816,Demolition Man,Action|Sci-Fi,3.003787878787879
+1817,Fright Night Part II,Horror,2.0642201834862384
+1818,Candyman: Farewell to the Flesh,Horror,2.1862745098039214
+1819,Heavy Metal,Action|Adventure|Animation|Horror|Sci-Fi,3.3961661341853033
+1820,Hellraiser: Bloodline,Action|Horror|Sci-Fi,2.3105263157894735
+1821,Phantasm II,Horror,2.5647058823529414
+1822,Phantasm III: Lord of the Dead,Horror,2.3492063492063493
+1823,Phantasm IV: Oblivion,Horror,2.3692307692307693
+1824,Pumpkinhead,Horror,2.3391304347826085
+1825,Graveyard Shift,Horror|Thriller,1.898989898989899
+1826,Amityville 3-D,Horror,1.4404761904761905
+1827,Amityville II: The Possession,Horror,1.7142857142857142
+1828,Body Parts,Horror,2.4050632911392404
+1829,Solo,Action|Sci-Fi|Thriller,1.9545454545454546
+1830,Tales from the Crypt Presents: Bordello of Blood,Horror,2.07185628742515
+1831,Tales from the Darkside: The Movie,Horror,2.7758620689655173
+1832,Marked for Death,Action|Drama,2.688888888888889
+1833,Pet Sematary,Horror,2.7880184331797233
+1834,Lifeforce,Horror|Sci-Fi,2.5180722891566263
+1835,Rumble in the Bronx,Action|Adventure|Crime,3.3935018050541514
+1836,Steel,Action,1.8
+1837,Lord of Illusions,Horror,2.6793893129770994
+1838,American Psycho,Comedy|Horror|Thriller,3.0946372239747633
+1839,Tales From the Crypt Presents: Demon Knight,Horror,2.6551724137931036
+1840,Escape to Witch Mountain,Adventure|Children's|Fantasy,3.02834008097166
+1841,Balto,Animation|Children's,3.26890756302521
+1842,Sleepwalkers,Horror,2.533333333333333
+1843,"Nightmare on Elm Street 3: Dream Warriors, A",Horror,2.1243523316062176
+1844,"Nightmare on Elm Street 5: The Dream Child, A",Horror,1.8218390804597702
+1845,Mortal Kombat,Action|Adventure,2.634920634920635
+1846,Shaft,Action|Crime,3.129230769230769
+1847,Shaft,Action|Crime,3.129230769230769
+1848,Robert A. Heinlein's The Puppet Masters,Horror|Sci-Fi,2.651315789473684
+1849,Tales of Terror,Horror,2.186046511627907
+1850,Halloween III: Season of the Witch,Horror,1.880952380952381
+1851,Prom Night,Horror,1.9065420560747663
+1852,Hello Mary Lou: Prom Night II,Horror,1.8793103448275863
+1853,Prom Night III: The Last Kiss,Horror,1.4583333333333333
+1854,Robocop 3,Sci-Fi|Thriller,2.211267605633803
+1855,"Final Conflict, The (a.k.a. Omen III: The Final Conflict)",Horror,2.447058823529412
+1856,Prom Night IV: Deliver Us From Evil,Horror,1.6578947368421053
+1857,Child's Play 2,Horror,1.8153846153846154
+1858,Child's Play 3,Horror,1.4728682170542635
+1859,Lawnmower Man 2: Beyond Cyberspace,Sci-Fi|Thriller,1.44
+1860,Street Fighter,Action,1.6049382716049383
+1861,Braddock: Missing in Action III,Action|War,1.9886363636363635
+1862,Hellbound: Hellraiser II,Horror,2.7975460122699385
+1863,Hellraiser III: Hell on Earth,Horror,2.080808080808081
+1864,Darby O'Gill and the Little People,Adventure|Children's|Fantasy,3.220833333333333
+1865,"Visitors, The (Les Visiteurs)",Comedy|Sci-Fi,2.6491228070175437
+1866,Kronos,Sci-Fi,2.7752808988764044
+1867,Kronos,Horror,2.7752808988764044
+1868,Piranha,Horror|Sci-Fi,2.267515923566879
+1869,Parasite,Horror|Sci-Fi,1.9615384615384615
+1870,Six-String Samurai,Action|Adventure|Sci-Fi,3.351063829787234
+1871,Chopping Mall (a.k.a. Killbots),Action|Horror|Sci-Fi,1.875
+1872,"Fantastic Planet, The (La Planète sauvage)",Animation|Sci-Fi,3.0869565217391304
+1873,Tarantula,Horror|Sci-Fi,2.4018691588785046
+1874,It Came from Beneath the Sea,Sci-Fi,2.7191011235955056
+1875,It Conquered the World,Sci-Fi,2.641509433962264
+1876,"Kid in King Arthur's Court, A",Adventure|Children's|Comedy|Fantasy|Romance,2.5316455696202533
+1877,Retroactive,Sci-Fi|Thriller,3.40625
+1878,Devil Girl From Mars,Sci-Fi,2.7096774193548385
+1879,Quatermass II,Sci-Fi|Thriller,2.453333333333333
+1880,Puppet Master II,Horror|Sci-Fi|Thriller,2.2966101694915255
+1881,Puppet Master III: Toulon's Revenge,Horror|Sci-Fi|Thriller,2.1470588235294117
+1882,Puppet Master 4,Horror|Sci-Fi|Thriller,2.2990654205607477
+1883,Curse of the Puppet Master,Horror|Sci-Fi|Thriller,1.9384615384615385
+1884,Godzilla 2000 (Gojira ni-sen mireniamu),Action|Adventure|Sci-Fi,2.361842105263158
+1885,X: The Unknown,Sci-Fi,1.6
+1886,Alphaville,Sci-Fi,3.0833333333333335
+1887,Adrenalin: Fear the Rush,Action|Sci-Fi,2.25
+1888,Tetsuo II: Body Hammer,Sci-Fi,2.851063829787234
+1889,Time Tracers,Action|Adventure|Sci-Fi,1.3636363636363635
+1890,What Planet Are You From?,Comedy|Sci-Fi,2.921658986175115
+1891,Alligator,Action|Horror|Sci-Fi,2.2054054054054055
+1892,Meteor,Sci-Fi,2.308139534883721
+1893,Bride of the Monster,Horror|Sci-Fi,2.87248322147651
+1894,Wing Commander,Action|Sci-Fi,2.3395061728395063
+1895,Star Kid,Adventure|Children's|Fantasy|Sci-Fi,1.8777777777777778
+1896,Virtuosity,Sci-Fi|Thriller,2.9170731707317072
+1897,Carnosaur,Horror|Sci-Fi,1.6756756756756757
+1898,Carnosaur 2,Horror|Sci-Fi,1.608695652173913
+1899,Carnosaur 3: Primal Species,Horror|Sci-Fi,1.0454545454545454
+1900,No Escape,Action|Sci-Fi,2.654135338345865
+1901,Time Masters (Les Maîtres du Temps),Animation|Sci-Fi,1.1764705882352942
+1902,Return of the Fly,Horror|Sci-Fi,2.601063829787234
+1903,Rocketship X-M,Sci-Fi,2.9565217391304346
+1904,Passion in the Desert,Adventure|Drama,3.586206896551724
+1905,I Dreamed of Africa,Drama,2.328767123287671
+1906,Snow Day,Comedy,2.0604026845637584
+1907,Only You,Comedy|Romance,3.3435897435897437
+1908,Where the Heart Is,Comedy|Drama,3.258687258687259
+1909,Threesome,Comedy|Romance,2.8988095238095237
+1910,Autumn in New York,Drama|Romance,2.513333333333333
+1911,Meet Joe Black,Romance,3.235074626865672
+1912,Three Seasons,Drama,3.616279069767442
+1913,Wonderland,Documentary,3.857142857142857
+1914,Wonderland,Drama,3.857142857142857
+1915,Coyote Ugly,Drama,2.36875
+1916,Nothing to Lose,Drama,3.2051282051282053
+1917,"Children of Heaven, The (Bacheha-Ye Aseman)",Drama,4.160493827160494
+1918,Pecker,Comedy|Drama,3.7054794520547945
+1919,"Night at the Roxbury, A",Comedy,2.2624113475177303
+1920,Beautiful Girls,Drama,3.901554404145078
+1921,Metro,Action,2.474747474747475
+1922,Class,Comedy,2.403314917127072
+1923,Blame It on Rio,Comedy|Romance,2.5317073170731708
+1924,Nothing in Common,Comedy,3.096296296296296
+1925,Down to You,Comedy|Romance,2.4193548387096775
+1926,Inventing the Abbotts,Drama|Romance,3.012987012987013
+1927,Playing by Heart,Drama|Romance,3.3714285714285714
+1928,Simply Irresistible,Comedy|Romance,2.741496598639456
+1929,Exit to Eden,Comedy,2.2531645569620253
+1930,Here on Earth,Drama|Romance,1.9115044247787611
+1931,Major League: Back to the Minors,Comedy,2.2312925170068025
+1932,Road Trip,Comedy,3.1120689655172415
+1933,Max Dugan Returns,Comedy,2.9361702127659575
+1934,Cabin Boy,Comedy,2.076923076923077
+1935,Nina Takes a Lover,Comedy|Romance,3.2448979591836733
+1936,April Fool's Day,Comedy|Horror,2.923076923076923
+1937,Love & Sex,Comedy|Romance,3.5428571428571427
+1938,House,Comedy|Horror,2.6865671641791047
+1939,Stealing Home,Drama,2.951219512195122
+1940,Onegin,Drama,3.9019607843137254
+1941,If Lucy Fell,Comedy|Romance,3.193877551020408
+1942,Boomerang,Comedy|Romance,2.7314285714285713
+1943,And God Created Woman,Comedy|Drama|Romance,2.343137254901961
+1944,Shooting Fish,Romance,3.2386363636363638
+1945,Ready to Wear (Pret-A-Porter),Comedy,2.6684491978609626
+1946,Bachelor Party,Comedy,3.0
+1947,Vibes,Adventure|Comedy,2.131868131868132
+1948,Blind Date,Comedy|Romance,2.583732057416268
+1949,SLC Punk!,Comedy|Drama,3.3358208955223883
+1950,Love and Basketball,Drama|Romance,3.409937888198758
+1951,Now and Then,Drama,2.3411764705882354
+1952,Smiling Fish and Goat on Fire,Drama,3.225806451612903
+1953,Action Jackson,Action|Comedy,1.9580838323353293
+1954,Burglar,Comedy,2.0576923076923075
+1955,Friday the 13th Part VIII: Jason Takes Manhattan,Horror,1.6161616161616161
+1956,Center Stage,Drama,3.1847826086956523
+1957,Shadow Conspiracy,Thriller,2.5
+1958,Romper Stomper,Action|Drama,3.716417910447761
+1959,Whipped,Comedy,2.1041666666666665
+1960,Friday,Comedy,3.1470588235294117
+1961,Boys and Girls,Comedy|Romance,2.5257731958762886
+1962,Girlfight,Drama,3.535885167464115
+1963,House Party,Comedy,2.9935483870967743
+1964,Body Shots,Drama,1.9390243902439024
+1965,But I'm a Cheerleader,Comedy,3.186602870813397
+1966,Andre,Adventure|Children's,2.8641975308641974
+1967,Requiem for a Dream,Drama,3.879166666666667
+1968,SubUrbia,Comedy,2.6911764705882355
+1969,Kull the Conqueror,Action|Adventure,2.657142857142857
+1970,My Own Private Idaho,Drama,3.4705882352941178
+1971,Varsity Blues,Comedy|Drama,2.8360655737704916
+1972,Billy Madison,Comedy,2.991111111111111
+1973,Boys on the Side,Comedy|Drama,3.080568720379147
+1974,Hanging Up,Comedy|Drama,2.087962962962963
+1975,Romeo Must Die,Action|Romance,2.95
+1976,Whatever It Takes,Comedy|Romance,2.775
+1977,Houseguest,Comedy,2.7875
+1978,"Dancer, Texas Pop. 81",Comedy|Drama,3.3088235294117645
+1979,Empire Records,Comedy|Drama,3.103896103896104
+1980,Airheads,Comedy,2.4814814814814814
+1981,"Bye Bye, Love",Comedy,3.3012048192771086
+1982,Drive Me Crazy,Comedy|Romance,3.0086206896551726
+1983,Dear God,Comedy,3.006802721088435
+1984,Bless the Child,Thriller,2.676470588235294
+1985,Dead Man on Campus,Comedy,2.324786324786325
+1986,Orgazmo,Comedy,3.0813008130081303
+1987,"Truth or Consequences, N.M.",Action|Crime|Romance,2.566265060240964
+1988,U2: Rattle and Hum,Documentary|Musical,3.5211267605633805
+1989,Deuce Bigalow: Male Gigolo,Comedy,2.449760765550239
+1990,Titus,Drama,3.4075829383886256
+1991,Jerry Springer: Ringmaster,Drama,2.16
+1992,Half Baked,Comedy,2.9763313609467454
+1993,Dream for an Insomniac,Drama|Romance,3.4655172413793105
+1994,Doug's 1st Movie,Animation|Children's,2.1343283582089554
+1995,Ready to Rumble,Comedy,2.287671232876712
+1996,Whatever,Drama,3.276595744680851
+1997,Tommy Boy,Comedy,3.204761904761905
+1998,Showgirls,Drama,2.2872340425531914
+1999,Detroit Rock City,Comedy,2.76
+2000,Halloween II,Horror,2.393617021276596
+2001,Halloween 4: The Return of Michael Myers,Horror,1.9189189189189189
+2002,Two if by Sea,Comedy|Romance,2.306451612903226
+2003,Crime and Punishment in Suburbia,Comedy|Drama,2.6226415094339623
+2004,D2: The Mighty Ducks,Children's|Comedy,2.460674157303371
+2005,Can't Hardly Wait,Comedy|Drama|Romance,2.96
+2006,Hideous Kinky,Drama,3.0288461538461537
+2007,Excess Baggage,Adventure|Romance,2.7355371900826446
+2008,Audrey Rose,Horror,3.0481927710843375
+2009,Blood & Wine,Drama,3.3636363636363638
+2010,Chungking Express,Drama|Mystery|Romance,3.8372093023255816
+2011,Life,Comedy,3.0390625
+2012,Higher Learning,Drama,3.4201680672268906
+2013,Stealing Beauty,Drama,3.2054794520547945
+2014,Velvet Goldmine,Drama,3.187878787878788
+2015,Batman: Mask of the Phantasm,Animation|Children's,3.088082901554404
+2016,Love's Labour's Lost,Comedy|Romance,3.1724137931034484
+2017,My Giant,Comedy,2.1140350877192984
+2018,Dirty Work,Comedy,2.990740740740741
+2019,Buddy,Adventure|Children's|Drama,2.8823529411764706
+2020,Out to Sea,Comedy,2.9156626506024095
+2021,Safe Passage,Drama,3.130434782608696
+2022,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Comedy,2.739130434782609
+2023,Clean Slate,Comedy,2.347826086956522
+2024,For Love or Money,Comedy,2.933333333333333
+2025,House Party 3,Comedy,1.6595744680851063
+2026,In the Army Now,Comedy|War,2.3311258278145695
+2027,Bastard Out of Carolina,Drama,3.7383177570093458
+2028,In Love and War,Romance|War,2.933333333333333
+2029,Spice World,Comedy|Musical,1.967914438502674
+2030,Jude,Drama,3.6546762589928057
+2031,Kama Sutra: A Tale of Love,Romance,3.167741935483871
+2032,Far From Home: The Adventures of Yellow Dog,Adventure|Children's,2.732394366197183
+2033,How to Be a Player,Comedy,2.1333333333333333
+2034,Kids in the Hall: Brain Candy,Comedy,3.412087912087912
+2035,Stuart Saves His Family,Comedy,2.2745098039215685
+2036,Fierce Creatures,Comedy,3.3552631578947367
+2037,Jackie Chan's First Strike,Action,3.253012048192771
+2038,High School High,Comedy,1.7272727272727273
+2039,Tales from the Hood,Comedy|Horror,2.543046357615894
+2040,"Vie est belle, La (Life is Rosey)",Comedy|Drama,3.6226415094339623
+2041,I Married A Strange Person,Animation,3.871794871794872
+2042,Freeway,Crime,3.388888888888889
+2043,Me Myself I,Comedy,3.013392857142857
+2044,"Single Girl, A (La Fille Seule)",Drama,3.6808510638297873
+2045,Bad Taste,Comedy|Horror,3.603448275862069
+2046,Operation Condor (Feiying gaiwak),Action|Adventure|Comedy,3.51875
+2047,Hard Target,Action|Adventure|Crime|Thriller,2.7333333333333334
+2048,Operation Condor 2 (Longxiong hudi),Action|Adventure|Comedy,3.606060606060606
+2049,Police Story 4: Project S (Chao ji ji hua),Action,2.5789473684210527
+2050,Twin Dragons (Shuang long hui),Action|Comedy,2.9885057471264367
+2051,"Killer, The (Die xue shuang xiong)",Action|Thriller,4.08235294117647
+2052,Cold Comfort Farm,Comedy,3.818867924528302
+2053,Man Bites Dog (C'est arrivé près de chez vous),Action|Comedy|Crime|Drama,3.5099337748344372
+2054,My Family,Drama,3.978021978021978
+2055,Big Momma's House,Comedy,2.212121212121212
+2056,Live Nude Girls,Comedy,3.0
+2057,Savior,Drama,4.0
+2058,Glen or Glenda,Drama,3.475609756097561
+2059,Bottle Rocket,Comedy,3.515151515151515
+2060,Beyond Rangoon,Drama|War,3.4261363636363638
+2061,Three Colors: White,Drama,3.9087301587301586
+2062,Jeffrey,Comedy,3.6223776223776225
+2063,Jury Duty,Comedy,1.7294117647058824
+2064,Mutiny on the Bounty,Adventure,3.9757785467128026
+2065,Pit and the Pendulum,Horror,3.423076923076923
+2066,S.F.W.,Drama,3.130952380952381
+2067,"Big Blue, The (Le Grand Bleu)",Adventure|Romance,3.7567567567567566
+2068,Surviving the Game,Action|Adventure|Thriller,2.6597938144329896
+2069,Turbo: A Power Rangers Movie,Action|Adventure|Children's,1.0
+2070,Lightning Jack,Comedy|Western,2.36144578313253
+2071,Bloodsport 2,Action,1.4714285714285715
+2072,Next Friday,Comedy,2.234375
+2073,Bogus,Children's|Drama|Fantasy,2.5538461538461537
+2074,Night Flier,Horror,2.7291666666666665
+2075,Albino Alligator,Crime|Thriller,3.015873015873016
+2076,Stonewall,Drama,3.8518518518518516
+2077,Where the Buffalo Roam,Comedy,3.2755102040816326
+2078,Friday the 13th Part VII: The New Blood,Horror,1.6324786324786325
+2079,"Thin Line Between Love and Hate, A",Comedy,1.7333333333333334
+2080,Highlander: Endgame,Action|Adventure|Fantasy,2.515151515151515
+2081,Beyond the Mat,Documentary,3.719178082191781
+2082,Ghost Dog: The Way of the Samurai,Crime|Drama,3.744
+2083,Sanjuro,Action|Adventure,4.557377049180328
+2084,Still Breathing,Comedy|Romance,3.6379310344827585
+2085,Bamboozled,Comedy,3.315068493150685
+2086,"Cup, The (Phörpa)",Comedy,3.557142857142857
+2087,Catfish in Black Bean Sauce,Comedy|Drama,2.72
+2088,Agnes Browne,Comedy|Drama,3.5405405405405403
+2089,Deterrence,Thriller,2.868131868131868
+2090,Black and White,Drama,2.717948717948718
+2091,Joe Gould's Secret,Drama,3.19327731092437
+2092,Homegrown,Comedy|Thriller,3.265734265734266
+2093,Dog Park,Comedy|Romance,2.575
+2094,Barenaked in America,Documentary,3.549019607843137
+2095,Poison Ivy: New Seduction,Thriller,2.0555555555555554
+2096,Senseless,Comedy,2.7083333333333335
+2097,Urban Legends: Final Cut,Horror,2.106382978723404
+2098,Black Mask (Hak hap),Action,3.4193548387096775
+2099,Angel and the Badman,Western,3.588235294117647
+2100,Peeping Tom,Drama|Horror|Thriller,3.392523364485981
+2101,Son of Dracula,Horror,2.712871287128713
+2102,Saludos Amigos,Animation|Children's|Comedy,2.576923076923077
+2103,Lassie,Adventure|Children's,2.731707317073171
+2104,All Dogs Go to Heaven 2,Animation|Children's|Musical,1.8333333333333333
+2105,Eyes Without a Face,Horror,2.6904761904761907
+2106,Benji the Hunted,Adventure|Children's,1.8970588235294117
+2107,Chairman of the Board,Comedy,1.9069767441860466
+2108,Miami Rhapsody,Comedy,2.9649122807017543
+2109,Black Sheep,Comedy,2.779310344827586
+2110,"Cérémonie, La",Drama,3.25974025974026
+2111,Stalingrad,War,3.74
+2112,Son of Flubber,Children's|Comedy,3.0
+2113,Hilary and Jackie,Drama,3.780269058295964
+2114,"Farewell to Arms, A",Romance|War,3.205357142857143
+2115,After Life,Drama,4.090909090909091
+2116,Perfect Blue,Animation|Mystery,3.558139534883721
+2117,Dersu Uzala,Adventure|Drama,4.117647058823529
+2118,Lucie Aubrac,Romance|War,3.3333333333333335
+2119,"Other Side of Sunday, The (Søndagsengler)",Comedy|Drama,3.036363636363636
+2120,Mina Tannenbaum,Drama,2.72
+2121,Sgt. Bilko,Comedy,2.364406779661017
+2122,Queen Margot (La Reine Margot),Drama|Romance,3.8518518518518516
+2123,Friends & Lovers,Comedy|Drama|Romance,3.1147540983606556
+2124,D3: The Mighty Ducks,Children's|Comedy,2.3333333333333335
+2125,Sudden Death,Action,2.798076923076923
+2126,Poison Ivy II,Thriller,2.1636363636363636
+2127,Angus,Comedy,3.3076923076923075
+2128,Stay Tuned,Comedy,2.3943661971830985
+2129,Shaft in Africa,Action|Crime,1.68
+2130,Shaft's Big Score!,Action|Crime,2.180722891566265
+2131,Clockwatchers,Comedy,3.760204081632653
+2132,Denise Calls Up,Comedy,3.9591836734693877
+2133,Human Traffic,Drama,3.2
+2134,Rocket Man,Comedy,2.330275229357798
+2135,Mr. Magoo,Comedy,1.5188679245283019
+2136,Crash,Drama|Thriller,2.7642857142857142
+2137,Tommy,Drama|Musical,3.109090909090909
+2138,Strangeland,Thriller,1.8620689655172413
+2139,Warriors of Virtue,Action|Adventure|Children's|Fantasy,2.242424242424242
+2140,Tea with Mussolini,Comedy,3.3805309734513274
+2141,Party Girl,Comedy,3.1146496815286624
+2142,New Jersey Drive,Crime|Drama,2.772727272727273
+2143,Sprung,Comedy,1.7692307692307692
+2144,Assassins,Thriller,2.6372549019607843
+2145,Original Gangstas,Crime,3.8461538461538463
+2146,Get Real,Drama,4.1265822784810124
+2147,Gang Related,Crime,2.933333333333333
+2148,Holy Man,Comedy,2.4454545454545453
+2149,King of New York,Action|Crime,3.3757225433526012
+2150,Cecil B. Demented,Comedy,3.586206896551724
+2151,Tigerland,Drama,3.8645833333333335
+2152,Deceiver,Crime,2.6486486486486487
+2153,Urbania,Drama,3.5555555555555554
+2154,Stop Making Sense,Documentary,4.171206225680934
+2155,Eight Days a Week,Comedy,3.0
+2156,Koyaanisqatsi,Documentary|War,3.7130434782608694
+2157,Female Perversions,Drama,3.4918032786885247
+2158,Two Family House,Drama,3.978723404255319
+2159,Jesus' Son,Drama,3.8687782805429864
+2160,Meatballs 4,Comedy,1.515625
+2161,McHale's Navy,Comedy|War,2.08125
+2162,Young Doctors in Love,Comedy,2.66412213740458
+2163,No Small Affair,Comedy|Romance,2.9791666666666665
+2164,Leave It to Beaver,Comedy,1.5483870967741935
+2165,Critical Care,Comedy,2.3085106382978724
+2166,Heavyweights,Children's|Comedy,1.6764705882352942
+2167,Mixed Nuts,Comedy,2.635514018691589
+2168,Porky's II: The Next Day,Comedy,1.9493670886075949
+2169,Porky's Revenge,Comedy,1.896551724137931
+2170,Made in America,Comedy,2.27027027027027
+2171,Heart Condition,Comedy,2.5
+2172,Down Periscope,Comedy,2.8
+2173,Canadian Bacon,Comedy|War,2.8105263157894735
+2174,How to Stuff a Wild Bikini,Comedy,2.526315789473684
+2175,Otello,Drama,3.563106796116505
+2176,Problem Child 2,Comedy,1.5673076923076923
+2177,"Murder, My Sweet",Film-Noir|Thriller,3.7429718875502007
+2178,Vampire in Brooklyn,Comedy|Romance,2.4545454545454546
+2179,"Slingshot, The (Kådisbellan )",Comedy|Drama,2.86046511627907
+2180,Herbie Goes to Monte Carlo,Adventure|Children's|Comedy,2.44
+2181,Seventh Heaven (Le Septième ciel),Drama|Romance,2.0
+2182,Battling Butler,Comedy,3.4523809523809526
+2183,"Thieves (Voleurs, Les)",Crime|Drama|Romance,3.263888888888889
+2184,Blackmail,Thriller,2.6857142857142855
+2185,Chushingura,Drama,3.58
+2186,Love and Other Catastrophes,Romance,3.314814814814815
+2187,Santitos,Comedy,3.3
+2188,Something for Everyone,Comedy|Crime,3.5714285714285716
+2189,Still Crazy,Comedy|Romance,3.3854166666666665
+2190,Not One Less (Yi ge dou bu neng shao),Drama,3.939655172413793
+2191,Death Wish II,Action|Drama,2.4838709677419355
+2192,"Saragossa Manuscript, The (Rekopis znaleziony w Saragossie)",Drama,2.6129032258064515
+2193,House of Frankenstein,Horror,2.775
+2194,Son of Frankenstein,Horror,3.318681318681319
+2195,Gordy,Comedy,2.53125
+2196,"Spiders, The (Die Spinnen, 1. Teil: Der Goldene See)",Action|Drama,2.75
+2197,White Sands,Drama|Thriller,3.2018348623853212
+2198,Easy Money,Comedy,2.8413793103448275
+2199,Solas,Drama,2.5217391304347827
+2200,Go West,Comedy,3.0694444444444446
+2201,Tarzan the Fearless,Action|Adventure,2.6097560975609757
+2202,"Dog's Life, A",Comedy,3.2745098039215685
+2203,Fall,Romance,2.5319148936170213
+2204,"Lovers on the Bridge, The (Les Amants du Pont-Neuf)",Drama|Romance,2.710280373831776
+2205,Force 10 from Navarone,Action|War,3.4193548387096775
+2206,"Actor's Revenge, An (Yukinojo Henge)",Drama,2.814814814814815
+2207,"Damsel in Distress, A",Comedy|Musical|Romance,3.634920634920635
+2208,Fever Pitch,Comedy|Romance,2.857142857142857
+2209,Bikini Beach,Comedy,1.8644067796610169
+2210,Killer's Kiss,Film-Noir,3.4516129032258065
+2211,Crossfire,Crime|Film-Noir,3.513888888888889
+2212,"Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight)",Crime|Thriller,3.8870967741935485
+2213,Raw Deal,Film-Noir,3.0
+2214,Withnail and I,Comedy,3.586206896551724
+2215,Two or Three Things I Know About Her,Drama,3.5357142857142856
+2216,Hearts and Minds,Drama,4.555555555555555
+2217,She's So Lovely,Drama|Romance,2.6666666666666665
+2218,Shiloh,Children's|Drama,3.737704918032787
+2219,Horror Express,Horror,2.4782608695652173
+2220,"Emperor and the Assassin, The (Jing ke ci qin wang)",Drama,3.696629213483146
+2221,Red Sorghum (Hong Gao Liang),Drama|War,3.889705882352941
+2222,Beautiful People,Comedy,3.2583333333333333
+2223,Mephisto,Drama|War,3.7413793103448274
+2224,"Trial, The (Le Procès)",Drama,3.7037037037037037
+2225,How Green Was My Valley,Drama,3.9473684210526314
+2226,Santa with Muscles,Comedy,1.0
+2227,Friday the 13th Part V: A New Beginning,Horror,1.6923076923076923
+2228,Shower (Xizhao),Comedy,4.014285714285714
+2229,Joe's Apartment,Comedy|Musical,2.6666666666666665
+2230,Home Alone 3,Children's|Comedy,1.8101265822784811
+2231,Mifune (Mifunes sidste sang),Comedy|Romance,3.6739130434782608
+2232,Besieged (L' Assedio),Drama,3.6506024096385543
+2233,Blue in the Face,Comedy,3.8189655172413794
+2234,National Lampoon's Senior Trip,Comedy,2.066666666666667
+2235,Shakes the Clown,Comedy,2.5
+2236,Insomnia,Thriller,3.782051282051282
+2237,Friday the 13th Part 3: 3D,Horror,1.7515151515151515
+2238,Friday the 13th: The Final Chapter,Horror,1.7852760736196318
+2239,Fear of a Black Hat,Comedy,3.675438596491228
+2240,Benji,Adventure|Children's,3.111111111111111
+2241,It's My Party,Drama,3.025
+2242,Sorority House Massacre,Horror,1.6545454545454545
+2243,Sorority House Massacre II,Horror,1.425531914893617
+2244,Firewalker,Adventure,2.1041666666666665
+2245,Halloween 5: The Revenge of Michael Myers,Horror,1.6758620689655173
+2246,Switchblade Sisters,Crime,2.6153846153846154
+2247,I Shot Andy Warhol,Drama,3.317241379310345
+2248,Algiers,Drama|Romance,4.102564102564102
+2249,Even Cowgirls Get the Blues,Comedy|Romance,2.4761904761904763
+2250,"Great Day in Harlem, A",Documentary,4.013698630136986
+2251,Your Friends and Neighbors,Drama,3.3893129770992365
+2252,I'll Be Home For Christmas,Comedy|Romance,2.9859154929577465
+2253,Twin Town,Comedy|Crime,3.4166666666666665
+2254,Steam: The Turkish Bath (Hamam),Drama|Romance,3.2857142857142856
+2255,Free Willy 3: The Rescue,Adventure|Children's|Drama,1.8823529411764706
+2256,Free Willy 2: The Adventure Home,Adventure|Children's|Drama,1.7923076923076924
+2257,"Goodbye, Lover",Comedy|Crime|Thriller,3.1714285714285713
+2258,Barry Lyndon,Drama,3.748031496062992
+2259,Billy's Hollywood Screen Kiss,Comedy|Romance,3.6
+2260,Heidi Fleiss: Hollywood Madam,Documentary,3.2783505154639174
+2261,"Kiss Me, Guido",Comedy,3.1616161616161618
+2262,Bedrooms & Hallways,Comedy|Romance,3.8076923076923075
+2263,"Dinner Game, The (Le Dîner de cons)",Comedy,3.6052631578947367
+2264,"Bewegte Mann, Der",Comedy,3.8529411764705883
+2265,Stalker,Mystery|Sci-Fi,3.6491228070175437
+2266,Castle Freak,Horror,2.1346153846153846
+2267,"Ilsa, She Wolf of the SS",Horror,2.283333333333333
+2268,Faster Pussycat! Kill! Kill!,Action|Comedy|Drama,3.5753424657534247
+2269,New Rose Hotel,Action|Drama,2.3333333333333335
+2270,Blue Collar,Crime|Drama,3.5675675675675675
+2271,"Steal Big, Steal Little",Comedy,1.8857142857142857
+2272,From the Hip,Comedy,2.6219512195121952
+2273,"Henry: Portrait of a Serial Killer, Part 2",Crime|Horror,2.5
+2274,"Conformist, The (Il Conformista)",Drama,4.390909090909091
+2275,Tarzan and the Lost City,Action|Adventure,2.090909090909091
+2276,Best of the Best 3: No Turning Back,Action,1.1851851851851851
+2277,King Kong Lives,Action|Adventure|Horror,1.6333333333333333
+2278,Dear Diary (Caro Diario),Comedy|Drama,3.776470588235294
+2279,My Best Fiend (Mein liebster Feind),Documentary,3.984848484848485
+2280,Rosetta,Drama,3.712121212121212
+2281,Poison,Drama,3.4025974025974026
+2282,Cats Don't Dance,Animation|Children's|Musical,2.4823529411764707
+2283,Of Human Bondage,Drama,3.6879432624113475
+2284,Raining Stones,Drama,4.0
+2285,Taste of Cherry,Drama,3.558139534883721
+2286,Jonah Who Will Be 25 in the Year 2000,Comedy,3.3958333333333335
+2287,Ladybird Ladybird,Drama,3.4375
+2288,Vagabond (Sans toit ni loi),Drama,4.0227272727272725
+2289,My Son the Fanatic,Comedy|Drama|Romance,3.6818181818181817
+2290,Cleo From 5 to 7 (Cléo de 5 à 7),Drama,3.6052631578947367
+2291,"Girl on the Bridge, The (La Fille sur le Pont)",Drama|Romance,2.9894736842105263
+2292,In the Realm of the Senses (Ai no corrida),Drama,3.5765765765765765
+2293,Nelly & Monsieur Arnaud,Drama,3.438202247191011
+2294,Blood For Dracula (Andy Warhol's Dracula),Horror,2.465909090909091
+2295,Underground,War,3.824561403508772
+2296,"Bonheur, Le",Drama,3.9166666666666665
+2297,Wild Reeds,Drama,3.375
+2298,When the Cats Away (Chacun cherche son chat),Comedy|Romance,4.0701754385964914
+2299,Contempt (Le Mépris),Drama,4.06
+2300,Hangmen Also Die,Drama|War,3.0
+2301,Time Code,Drama,3.1942857142857144
+2302,Time of the Gypsies (Dom za vesanje),Drama,3.7333333333333334
+2303,Butterfly (La Lengua de las Mariposas),Drama|War,3.7471264367816093
+2304,Time Regained (Le Temps Retrouvé),Drama,2.9375
+2305,Julien Donkey-Boy,Drama,3.466666666666667
+2306,"Man and a Woman, A (Un Homme et une Femme)",Drama|Romance,4.035087719298246
+2307,Mamma Roma,Drama,5.0
+2308,Faces,Drama,3.792452830188679
+2309,Normal Life,Crime|Drama,2.6721311475409837
+2310,Heavy,Drama|Romance,3.317757009345794
+2311,Touch,Romance,2.4680851063829787
+2312,Overnight Delivery,Romance,2.189189189189189
+2313,Another Day in Paradise,Drama,3.287671232876712
+2314,Caught,Drama|Thriller,2.95
+2315,Minnie and Moskowitz,Action,3.4651162790697674
+2316,Before the Rain (Pred dozhdot),Drama,4.196428571428571
+2317,My Chauffeur,Comedy,2.813953488372093
+2318,Private School,Comedy,2.338709677419355
+2319,Class of Nuke 'Em High,Comedy|Horror,2.1884057971014492
+2320,Hype!,Documentary,3.8870967741935485
+2321,Slam,Drama,3.6025641025641026
+2322,Ridicule,Drama,3.763779527559055
+2323,Basquiat,Drama,3.580357142857143
+2324,Schizopolis,Comedy,3.7
+2325,All the Vermeers in New York,Comedy|Drama|Romance,2.8227848101265822
+2326,Suture,Film-Noir|Thriller,3.352112676056338
+2327,Vanya on 42nd Street,Drama,3.9095238095238094
+2328,Unhook the Stars,Drama,3.25
+2329,"Hate (Haine, La)",Drama,3.7083333333333335
+2330,Celebrity,Comedy,2.8852459016393444
+2331,Amateur,Crime|Drama|Thriller,3.7058823529411766
+2332,Mrs. Parker and the Vicious Circle,Drama,3.3333333333333335
+2333,Kicking and Screaming,Comedy|Drama,3.425675675675676
+2334,"White Balloon, The (Badkonake Sefid )",Drama,3.857142857142857
+2335,Chasers,Comedy,1.8125
+2336,Kika,Drama,3.8095238095238093
+2337,First Kid,Children's|Comedy,2.906779661016949
+2338,Men With Guns,Action|Drama,3.7763975155279503
+2339,Ashes of Time,Drama,3.8461538461538463
+2340,Kissed,Romance,3.268292682926829
+2341,Cross of Iron,War,3.776315789473684
+2342,Alien Escape,Horror|Sci-Fi,3.176470588235294
+2343,Love and a .45,Thriller,2.8947368421052633
+2344,Nightwatch,Horror|Thriller,2.6611570247933884
+2345,Unforgettable,Thriller,2.7246376811594204
+2346,Faust,Animation|Comedy|Thriller,3.75
+2347,How I Won the War,Comedy|War,3.4210526315789473
+2348,Wild Man Blues,Documentary,3.877551020408163
+2349,Picnic at Hanging Rock,Drama|Mystery,3.8018018018018016
+2350,Othello,Drama,3.7213930348258706
+2351,Othello,Drama,3.7213930348258706
+2352,T-Men,Film-Noir,4.133333333333334
+2353,Illuminata,Comedy,2.4444444444444446
+2354,Kurt & Courtney,Documentary|Musical,3.016260162601626
+2355,Psycho III,Horror|Thriller,2.0567375886524824
+2356,Friday the 13th Part VI: Jason Lives,Horror,1.641025641025641
+2357,West Beirut (West Beyrouth),Drama,3.95
+2358,Cyclo,Crime|Drama,3.5942028985507246
+2359,Nekromantik,Comedy|Horror,1.4666666666666666
+2360,Chuck & Buck,Comedy|Drama,3.329113924050633
+2361,Country,Drama,3.3375
+2362,Looking for Richard,Documentary|Drama,3.7884615384615383
+2363,Eddie,Comedy,2.4074074074074074
+2364,Gone Fishin',Comedy,1.9491525423728813
+2365,H.O.T.S.,Comedy,2.6266666666666665
+2366,Psycho Beach Party,Comedy|Horror|Thriller,2.76
+2367,Steal This Movie!,Drama,3.1363636363636362
+2368,Roseanna's Grave (For Roseanna),Comedy|Romance,3.8
+2369,Permanent Midnight,Drama,3.35
+2370,American Buffalo,Drama,3.3255813953488373
+2371,Love & Human Remains,Comedy,3.5555555555555554
+2372,Mute Witness,Thriller,3.1206896551724137
+2373,Roadside Prophets,Comedy|Drama,3.45
+2374,Wanted: Dead or Alive,Action,3.5964912280701755
+2375,Beautiful Thing,Drama|Romance,3.5625
+2376,Meet Wally Sparks,Comedy,1.7708333333333333
+2377,Hotel de Love,Comedy|Romance,3.04
+2378,Barney's Great Adventure,Adventure|Children's,1.763157894736842
+2379,Trial and Error,Comedy|Romance,2.518867924528302
+2380,"Horseman on the Roof, The (Hussard sur le toit, Le)",Drama,3.603305785123967
+2381,Hugo Pool,Romance,2.488372093023256
+2382,Mad Dog Time,Crime,1.8125
+2383,Unzipped,Documentary,3.861635220125786
+2384,Girl 6,Comedy,2.792
+2385,I Went Down,Action|Comedy|Crime,3.72
+2386,My Tutor,Drama,2.5833333333333335
+2387,Character (Karakter),Drama,3.5060240963855422
+2388,Beyond Silence,Drama,3.59375
+2389,Hell in the Pacific,Drama|War,3.491228070175439
+2390,"Fire Within, The (Le Feu Follet)",Drama,3.392857142857143
+2391,Spirits of the Dead (Tre Passi nel Delirio),Horror,3.1875
+2392,Catwalk,Documentary,3.36
+2393,Four Days in September,Drama,4.096774193548387
+2394,For the Moment,Romance|War,2.8
+2395,"Far Off Place, A",Adventure|Children's|Drama|Romance,3.4634146341463414
+2396,Celestial Clockwork,Comedy,3.44
+2397,My Boyfriend's Back,Comedy,1.7083333333333333
+2398,Bent,Drama|War,3.6666666666666665
+2399,Mr. Wrong,Comedy,1.9242424242424243
+2400,Traveller,Drama,3.122448979591837
+2401,Finding North,Drama|Romance,2.5555555555555554
+2402,Felicia's Journey,Thriller,3.6363636363636362
+2403,Panther,Drama,2.5
+2404,Palookaville,Action|Drama,3.723684210526316
+2405,Pather Panchali,Drama,4.245098039215686
+2406,"World of Apu, The (Apur Sansar)",Drama,3.9537037037037037
+2407,Ponette,Drama,3.902173913043478
+2408,To Live (Huozhe),Drama,4.301587301587301
+2409,Shanghai Triad (Yao a yao yao dao waipo qiao),Drama,3.7301587301587302
+2410,Return with Honor,Documentary,4.411764705882353
+2411,"Colonel Chabert, Le",Drama|Romance|War,3.6818181818181817
+2412,Baraka,Documentary,3.845360824742268
+2413,American Strays,Action,1.5833333333333333
+2414,Carrington,Drama|Romance,3.296551724137931
+2415,In God's Hands,Action|Drama,3.4
+2416,"Pyromaniac's Love Story, A",Comedy|Romance,2.7941176470588234
+2417,Ripe,Drama,2.2857142857142856
+2418,"Red Firecracker, Green Firecracker",Drama,3.7403846153846154
+2419,Mad Love,Drama|Romance,1.8625
+2420,Lost & Found,Comedy|Romance,2.353846153846154
+2421,Nadja,Drama,3.1639344262295084
+2422,"Black Cat, White Cat (Crna macka, beli macor)",Comedy|Romance,4.025
+2423,Window to Paris,Comedy,3.5
+2424,Best Men,Action|Comedy|Crime|Drama,2.7625
+2425,Fun and Fancy Free,Animation|Children's|Musical,3.440677966101695
+2426,"Carriers Are Waiting, The (Les Convoyeurs Attendent)",Comedy|Drama,1.4
+2427,"Separation, The (La Séparation)",Drama,2.5
+2428,Century,Drama,1.0
+2429,Six of a Kind,Comedy,1.8888888888888888
+2430,Aparajito,Drama,3.0238095238095237
+2431,Spring Fever USA (a.k.a. Lauderdale),Comedy,1.0
+2432,"Map of the World, A",Drama,3.305084745762712
+2433,Jeanne and the Perfect Guy (Jeanne et le garçon formidable),Comedy|Romance,1.0
+2434,Brothers in Trouble,Drama,1.7727272727272727
+2435,Wirey Spindell,Comedy,1.0
+2436,Hurricane Streets,Drama,1.7058823529411764
+2437,Trippin',Comedy,2.5
+2438,"Blood Spattered Bride, The (La Novia Ensangrentada)",Horror,1.0
+2439,"Star Maker, The (Uomo delle stelle, L')",Drama,2.8285714285714287
+2440,Nueba Yol,Comedy|Drama,1.0
+2441,Shanghai Surprise,Adventure,1.4634146341463414
+2442,Welcome to Woop-Woop,Comedy,2.0416666666666665
+2443,Washington Square,Drama,3.3363636363636364
+2444,Cold Fever (Á köldum klaka),Comedy|Drama,4.211538461538462
+2445,Margaret's Museum,Drama,2.8823529411764706
+2446,Passion of Mind,Romance|Thriller,2.7088607594936707
+2447,Double Happiness,Drama,4.126315789473685
+2448,Committed,Comedy|Drama,2.8333333333333335
+2449,Star Maps,Drama,2.8
+2450,Jefferson in Paris,Drama,3.156862745098039
+2451,Miss Julie,Drama,3.032258064516129
+2452,Judy Berlin,Drama,3.411764705882353
+2453,"Charlie, the Lonesome Cougar",Adventure|Children's,2.978723404255319
+2454,Picture Bride,Drama|Romance,3.2795698924731185
+2455,Niagara,Drama|Thriller,3.5686274509803924
+2456,Groove,Drama,3.418918918918919
+2457,Isn't She Great?,Comedy,2.5217391304347827
+2458,Edge of Seventeen,Comedy|Drama|Romance,3.73972602739726
+2459,Blow-Out (La Grande Bouffe),Drama,3.6161616161616164
+2460,Trick,Romance,3.6178861788617884
+2461,Asylum,Horror,2.619047619047619
+2462,House Party 2,Comedy,1.6875
+2463,"Good Man in Africa, A",Action|Adventure,2.7183098591549295
+2464,You Can't Take It With You,Comedy,3.82312925170068
+2465,Cosi,Comedy,3.980392156862745
+2466,Mrs. Dalloway,Romance,3.669811320754717
+2467,"Awfully Big Adventure, An",Drama,2.6140350877192984
+2468,Ed's Next Move,Comedy,3.782608695652174
+2469,Candleshoe,Adventure|Children's|Comedy,3.59375
+2470,Man Facing Southeast (Hombre Mirando al Sudeste),Drama,3.945945945945946
+2471,Falling in Love Again,Comedy,2.4074074074074074
+2472,Dunston Checks In,Children's|Comedy,2.4555555555555557
+2473,All Over Me,Drama,4.2
+2474,Nowhere,Drama,3.2903225806451615
+2475,Aimée & Jaguar,Drama|Romance,3.25
+2476,About Adam,Comedy,3.4901960784313726
+2477,Following,Drama,3.8181818181818183
+2478,Big Bully,Comedy|Drama,1.9411764705882353
+2479,Beautiful,Comedy|Drama,2.328358208955224
+2480,Citizen's Band (a.k.a. Handle with Care),Comedy,3.5483870967741935
+2481,Zeus and Roxanne,Children's,3.204081632653061
+2482,Gold Diggers: The Secret of Bear Mountain,Adventure|Children's,2.0
+2483,Light It Up,Drama,1.894736842105263
+2484,Stag,Action|Thriller,2.5
+2485,Telling Lies in America,Drama,2.3448275862068964
+2486,No Looking Back,Comedy|Drama|Romance,3.1176470588235294
+2487,Bushwhacked,Comedy,1.5416666666666667
+2488,Kissing a Fool,Comedy|Romance,3.274193548387097
+2489,Little Men,Drama,2.8
+2490,Man of the House,Comedy,2.5
+2491,Cops and Robbersons,Comedy,2.2063492063492065
+2492,Mr. Wonderful,Comedy|Romance,2.803030303030303
+2493,House Arrest,Comedy,2.6904761904761907
+2494,Carpool,Comedy|Crime,1.3846153846153846
+2495,"Simple Wish, A",Children's|Fantasy,2.6341463414634148
+2496,Race the Sun,Drama,2.4285714285714284
+2497,Date with an Angel,Comedy|Fantasy,2.0476190476190474
+2498,It Takes Two,Comedy,2.3
+2499,Kids of the Round Table,Adventure|Children's|Fantasy,1.2666666666666666
+2500,Boys,Drama,1.44
+2501,Cheetah,Adventure|Children's,1.0
+2502,Fluke,Children's|Drama,3.3548387096774195
+2503,For the Love of Benji,Adventure|Children's,2.5051546391752577
+2504,Black Tar Heroin: The Dark End of the Street,Documentary,3.5833333333333335
+2505,Inferno,Horror,2.9242424242424243
+2506,Land Before Time III: The Time of the Great Giving,Animation|Children's,2.6842105263157894
+2507,Little Odessa,Drama,3.5942028985507246
+2508,Kidnapped,Children's|Drama,3.730769230769231
+2509,For All Mankind,Documentary,4.348837209302325
+2510,"Wisdom of Crocodiles, The (a.k.a. Immortality)",Romance|Thriller,3.4
+2511,Butterfly Kiss,Thriller,3.642857142857143
+2512,March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland),Comedy,3.654135338345865
+2513,Penny Serenade,Drama|Romance,3.411764705882353
+2514,"Davy Crockett, King of the Wild Frontier",Western,3.347517730496454
+2515,Infinity,Drama,2.7142857142857144
+2516,Bhaji on the Beach,Comedy|Drama,3.8117647058823527
+2517,In Old California,Western,2.7142857142857144
+2518,Dark Command,Western,3.6818181818181817
+2519,Santa Fe Trail,Drama|Romance|Western,3.5
+2520,Waking the Dead,Drama,2.82
+2521,Up at the Villa,Drama,3.06
+2522,Firelight,Drama,4.258064516129032
+2523,Boys Life 2,Drama,4.230769230769231
+2524,Carmen,Drama,4.208791208791209
+2525,Simpatico,Comedy|Drama,2.375
+2526,Head On,Drama,3.1666666666666665
+2527,And the Ship Sails On (E la nave va),Comedy|War,3.2058823529411766
+2528,They Might Be Giants,Comedy|Romance,3.7096774193548385
+2529,Under Capricorn,Drama,2.6451612903225805
+2530,Mr. & Mrs. Smith,Comedy,3.5517241379310347
+2531,Golden Earrings,Adventure|Romance,3.238095238095238
+2532,Lady of Burlesque,Comedy|Mystery,3.9047619047619047
+2533,"Walk in the Sun, A",Drama,4.4
+2534,Monsieur Verdoux,Comedy,3.669421487603306
+2535,Limelight,Drama,3.6530612244897958
+2536,Pajama Party,Comedy,2.9454545454545453
+2537,Avalanche,Action,2.575
+2538,Mrs. Miniver,Drama|War,3.528
+2539,Grateful Dead,Documentary,3.7209302325581395
+2540,Where the Money Is,Comedy|Drama,3.5625
+2541,Soft Fruit,Comedy|Drama,4.578947368421052
+2542,Coldblooded,Action,3.925925925925926
+2543,"Modern Affair, A",Romance,3.4
+2544,Déjà Vu,Drama|Romance,3.235294117647059
+2545,Tom & Viv,Drama,2.9375
+2546,Bossa Nova,Comedy,3.4683544303797467
+2547,Surviving Picasso,Drama,3.5
+2548,Pokémon the Movie 2000,Animation|Children's,1.4954128440366972
+2549,Dreaming of Joseph Lees,Romance,3.358490566037736
+2550,Ayn Rand: A Sense of Life,Documentary,3.4761904761904763
+2551,Total Eclipse,Drama|Romance,2.6206896551724137
+2552,Only Angels Have Wings,Drama,3.676470588235294
+2553,Beat the Devil,Comedy|Drama,3.3142857142857145
+2554,Air Bud: Golden Receiver,Children's|Comedy,2.375
+2555,Freedom for Us (À nous la liberté ),Comedy,3.6857142857142855
+2556,Careful,Comedy,3.4705882352941178
+2557,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud),Drama,3.5
+2558,Identification of a Woman (Identificazione di una donna),Drama,4.1
+2559,My Life So Far,Drama,3.465909090909091
+2560,Pushing Hands,Comedy,4.049382716049383
+2561,Amityville: A New Generation,Horror,1.3703703703703705
+2562,Once Upon a Time... When We Were Colored,Drama,3.6923076923076925
+2563,Guantanamera,Comedy,2.388888888888889
+2564,Raise the Titanic,Drama|Thriller,2.6588235294117646
+2565,Sabotage,Thriller,3.6203703703703702
+2566,Some Mother's Son,Drama,4.205128205128205
+2567,Bandit Queen,Drama,3.568421052631579
+2568,Love Is the Devil,Drama,3.975
+2569,"Promise, The (La Promesse)",Drama,3.9692307692307693
+2570,Nico Icon,Documentary,3.6721311475409837
+2571,Hot Lead and Cold Feet,Comedy|Western,2.891891891891892
+2572,Horror Hotel (a.k.a. The City of the Dead),Horror,2.4
+2573,You So Crazy,Comedy,3.2972972972972974
+2574,Glory Daze,Drama,3.789473684210526
+2575,Lulu on the Bridge,Drama|Mystery|Romance,2.9019607843137254
+2576,Jack and Sarah,Romance,3.2439024390243905
+2577,Safe Men,Comedy,3.459016393442623
+2578,Wedding Bell Blues,Comedy,4.0
+2579,Georgia,Drama,3.0309278350515463
+2580,Night of the Creeps,Comedy|Horror|Sci-Fi,1.8072289156626506
+2581,Brenda Starr,Adventure,1.6875
+2582,Slaughterhouse 2,Horror,1.0
+2583,Fair Game,Action,1.6891891891891893
+2584,Deadtime Stories,Horror,2.142857142857143
+2585,Small Wonders,Documentary,3.878787878787879
+2586,"Color of Paradise, The (Rang-e Khoda)",Drama,3.880952380952381
+2587,Loaded,Drama|Thriller,2.8461538461538463
+2588,Last Summer in the Hamptons,Comedy|Drama,2.9615384615384617
+2589,Swept from the Sea,Romance,2.8125
+2590,Heaven,Thriller,2.2222222222222223
+2591,Nénette et Boni,Drama,3.588235294117647
+2592,Manny & Lo,Drama,3.1052631578947367
+2593,Little City,Comedy|Romance,2.88
+2594,Condition Red,Action|Drama|Thriller,4.0
+2595,Outside Ozona,Drama|Thriller,4.0
+2596,Hana-bi,Comedy|Crime|Drama,3.588235294117647
+2597,Love in the Afternoon,Comedy|Romance,3.6470588235294117
+2598,Johns,Drama,2.739130434782609
+2599,Open Your Eyes (Abre los ojos),Drama|Romance|Sci-Fi,3.8508771929824563
+2600,Class Reunion,Comedy,2.1875
+2601,In Search of the Castaways,Adventure|Children's,3.4
+2602,Jamaica Inn,Drama,3.0588235294117645
+2603,Stars and Bars,Comedy,2.7450980392156863
+2604,Black Sunday (La Maschera Del Demonio),Horror,1.6
+2605,Meet the Deedles,Children's|Comedy,2.375
+2606,Lawn Dogs,Drama,2.793103448275862
+2607,Nightmares,Horror,2.0
+2608,Hell Night,Horror,1.9848484848484849
+2609,Squanto: A Warrior's Tale,Adventure|Drama,4.065217391304348
+2610,Sleepaway Camp,Horror,2.2
+2611,Whatever Happened to Aunt Alice?,Crime|Thriller,2.3684210526315788
+2612,Blood Beach,Action|Horror,1.8125
+2613,I Confess,Thriller,3.35
+2614,Knock Off,Action,2.1714285714285713
+2615,Relax... It's Just Sex,Comedy,2.2903225806451615
+2616,Love Jones,Romance,3.4482758620689653
+2617,Gabbeh,Drama,3.925
+2618,"Autumn Tale, An (Conte d'automne)",Romance,3.9
+2619,"Perfect Candidate, A",Documentary,3.9134615384615383
+2620,"Maybe, Maybe Not (Bewegte Mann, Der)",Comedy,3.9166666666666665
+2621,Sour Grapes,Comedy,1.6153846153846154
+2622,"Alan Smithee Film: Burn Hollywood Burn, An",Comedy,2.347826086956522
+2623,Last Resort,Comedy,2.0
+2624,Celtic Pride,Comedy,2.2641509433962264
+2625,Rent-A-Cop,Action|Comedy,1.6486486486486487
+2626,Germinal,Drama,3.462686567164179
+2627,I'll Never Forget What's 'is Name,Comedy|Drama,3.0
+2628,Surf Nazis Must Die,Drama,2.3703703703703702
+2629,Daughter of Dr. Jeckyll,Horror,1.8
+2630,Criminal Lovers (Les Amants Criminels),Drama|Romance,1.0
+2631,"Black Sabbath (Tre Volti Della Paura, I)",Horror,2.6
+2632,"Woman of Paris, A",Drama,1.2727272727272727
+2633,"Collectionneuse, La",Drama,1.0
+2634,"Price Above Rubies, A",Drama,2.923076923076923
+2635,Different for Girls,Comedy,3.6666666666666665
+2636,"Month by the Lake, A",Comedy|Drama,3.0
+2637,Marlene Dietrich: Shadow and Light,Documentary,3.8181818181818183
+2638,Kicked in the Head,Comedy|Drama,3.0
+2639,Angel on My Shoulder,Crime|Drama,2.7241379310344827
+2640,Incognito,Crime|Thriller,2.4705882352941178
+2641,Nil By Mouth,Drama,2.869565217391304
+2642,Go Now,Drama,2.59375
+2643,On the Ropes,Documentary,4.217391304347826
+2644,Hollow Reed,Drama,3.128205128205128
+2645,Delta of Venus,Drama,2.1578947368421053
+2646,Girls Town,Drama,2.980769230769231
+2647,Dream With the Fishes,Drama,3.8867924528301887
+2648,Pie in the Sky,Comedy|Romance,2.8
+2649,From the Journals of Jean Seberg,Documentary,3.391304347826087
+2650,"Love, etc.",Drama,2.125
+2651,Coming Apart,Drama,4.0
+2652,American Pimp,Documentary,3.3333333333333335
+2653,"Marcello Mastroianni: I Remember Yes, I Remember",Documentary,3.9473684210526314
+2654,Screwed,Comedy,1.830188679245283
+2655,"Man of No Importance, A",Drama,3.32
+2656,Madame Butterfly,Musical,3.382716049382716
+2657,Shopping,Action|Thriller,2.0
+2658,In the Bleak Midwinter,Comedy,3.7586206896551726
+2659,Stiff Upper Lips,Comedy,3.0
+2660,Bandits,Drama,5.0
+2661,"I Love You, Don't Touch Me!",Drama|Romance,2.5172413793103448
+2662,"Eighth Day, The (Le Huitième jour )",Drama,4.545454545454546
+2663,"First Love, Last Rites",Drama|Romance,2.25
+2664,Talk of Angels,Drama,2.3636363636363638
+2665,Alice and Martin (Alice et Martin),Drama,2.3783783783783785
+2666,Captives,Drama,4.0
+2667,Grosse Fatigue,Comedy,3.6
+2668,"Monster, The (Il Mostro)",Comedy,3.8181818181818183
+2669,Force of Evil,Film-Noir,4.228915662650603
+2670,Experience Preferred... But Not Essential,Drama,4.0
+2671,Dadetown,Documentary,4.818181818181818
+2672,Tigrero: A Film That Was Never Made,Documentary|Drama,4.454545454545454
+2673,I Stand Alone (Seul contre tous),Drama,3.652173913043478
+2674,Goya in Bordeaux (Goya en Bodeos),Drama,2.456140350877193
+2675,Naked in New York,Comedy|Romance,3.2285714285714286
+2676,Secret Agent,Thriller,3.159090909090909
+2677,Thomas and the Magic Railroad,Children's,1.8771929824561404
+2678,Curdled,Crime,3.5714285714285716
+2679,Slaughterhouse,Horror,1.0
+2680,"Day of the Beast, The (El Día de la bestia)",Comedy|Horror|Thriller,1.85
+2681,Frogs for Snakes,Comedy|Film-Noir|Thriller,1.8888888888888888
+2682,Retro Puppetmaster,Horror|Sci-Fi|Thriller,1.0
+2683,Nosferatu a Venezia,Horror,3.0
+2684,Blood Feast,Horror,2.026315789473684
+2685,I'm the One That I Want,Comedy,3.5303030303030303
+2686,"Legend of 1900, The (Leggenda del pianista sull'oceano)",Drama,3.370967741935484
+2687,"Savage Nights (Nuits fauves, Les)",Drama,2.909090909090909
+2688,"Family Thing, A",Comedy|Drama,3.5660377358490565
+2689,Losing Chase,Drama,3.4814814814814814
+2690,Beefcake,Drama,3.5
+2691,Shadrach,Drama,2.864864864864865
+2692,I Can't Sleep (J'ai pas sommeil),Drama|Thriller,4.0
+2693,Bluebeard,Film-Noir|Horror,4.0
+2694,On Any Sunday,Documentary,3.8666666666666667
+2695,"Cry, the Beloved Country",Drama,4.0
+2696,"Flower of My Secret, The (La Flor de Mi Secreto)",Drama,4.16
+2697,Don't Look in the Basement!,Horror,2.2903225806451615
+2698,"Grandview, U.S.A.",Drama,2.260869565217391
+2699,Bait,Action|Comedy,2.5
+2700,"Midaq Alley (Callejón de los milagros, El)",Drama,4.15
+2701,Oxygen,Thriller,3.7333333333333334
+2702,Love Stinks,Comedy,2.5357142857142856
+2703,Better Living Through Circuitry,Documentary,3.375
+2704,"Niagara, Niagara",Drama,3.1714285714285713
+2705,Power 98,Action|Mystery|Thriller,1.0
+2706,Joe the King,Crime|Drama,3.4871794871794872
+2707,Message to Love: The Isle of Wight Festival,Documentary,3.5
+2708,Federal Hill,Drama,2.9583333333333335
+2709,Arguing the World,Documentary,4.4
+2710,Dangerous Ground,Drama,1.588235294117647
+2711,Eternity and a Day (Mia eoniotita ke mia mera ),Drama,3.2
+2712,JLG/JLG - autoportrait de décembre,Documentary|Drama,2.923076923076923
+2713,We're Back! A Dinosaur's Story,Animation|Children's,1.7297297297297298
+2714,Trois,Thriller,2.0
+2715,Killer (Bulletproof Heart),Thriller,3.4482758620689653
+2716,Seven Chances,Comedy,2.7142857142857144
+2717,Digimon: The Movie,Adventure|Animation|Children's,1.3529411764705883
+2718,"Night Porter, The (Il Portiere di notte)",Drama,3.2325581395348837
+2719,"Mirror, The (Zerkalo)",Drama,3.725
+2720,Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train),Drama,3.4
+2721,"Rendezvous in Paris (Rendez-vous de Paris, Les)",Comedy|Romance,3.1
+2722,"Terrorist, The (Malli)",Drama,3.6923076923076925
+2723,"School of Flesh, The (L' École de la chair)",Drama,2.6739130434782608
+2724,"Late August, Early September (Fin août, début septembre)",Drama,3.3333333333333335
+2725,Bad Moon,Horror,1.875
+2726,"Apple, The (Sib)",Drama,4.5
+2727,"Ballad of Narayama, The (Narayama Bushiko)",Drama,3.847457627118644
+2728,"Ballad of Narayama, The (Narayama Bushiko)",Drama,3.847457627118644
+2729,Jail Bait,Crime|Drama,2.0714285714285716
+2730,Train of Life (Train De Vie),Comedy|Drama,3.526315789473684
+2731,Reckless,Comedy,3.1875
+2732,Just the Ticket,Comedy|Romance,4.0
+2733,"Grandfather, The (El Abuelo)",Drama,2.6363636363636362
+2734,Dry Cleaning (Nettoyage à sec),Drama,4.25
+2735,Man of the Year,Documentary,2.88
+2736,Under Suspicion,Crime,3.242857142857143
+2737,Cabaret Balkan (Bure Baruta),Drama,3.1666666666666665
+2738,Across the Sea of Time,Documentary,2.0
+2739,"Smile Like Yours, A",Comedy|Romance,2.6122448979591835
+2740,Price of Glory,Drama,2.6666666666666665
+2741,"Friend of the Deceased, A",Comedy|Drama,3.25
+2742,"Enfer, L'",Drama,3.4
+2743,Two Thousand Maniacs!,Horror,2.533333333333333
+2744,Hillbillys in a Haunted House,Comedy,1.0
+2745,"Ogre, The (Der Unhold)",Drama,3.1538461538461537
+2746,Rich and Strange,Comedy|Romance,3.871794871794872
+2747,Romance,Drama|Romance,2.5789473684210527
+2748,Tough and Deadly,Action|Drama|Thriller,1.6666666666666667
+2749,Talking About Sex,Comedy|Drama,1.6666666666666667
+2750,Shattered Image,Drama|Thriller,2.3448275862068964
+2751,Cobra,Drama,1.0
+2752,"Merry War, A",Comedy,2.55
+2753,Dear Jesse,Documentary,4.4
+2754,"Five Wives, Three Secretaries and Me",Documentary,4.0
+2755,Bootmen,Comedy|Drama,1.9047619047619047
+2756,Carmen Miranda: Bananas Is My Business,Documentary,2.75
+2757,Endurance,Documentary|Drama,3.303030303030303
+2758,Trixie,Comedy,3.217391304347826
+2759,Skipped Parts,Drama|Romance,5.0
+2760,Gumby: The Movie,Animation|Children's,1.894736842105263
+2761,All the Rage (a.k.a. It's the Rage),Drama,2.9130434782608696
+2762,Broken English,Drama,2.6
+2763,"Confessional, The (Le Confessionnal)",Drama|Mystery,2.1363636363636362
+2764,Turn It Up,Crime|Drama,1.7142857142857142
+2765,Anatomy (Anatomie),Horror,2.1333333333333333
+2766,Railroaded!,Film-Noir,2.2
+2767,Cool as Ice,Drama,2.5384615384615383
+2768,Young and Innocent,Crime|Thriller,3.0476190476190474
+2769,Prisoner of the Mountains (Kavkazsky Plennik),War,3.7
+2770,Cavalcade,Drama,3.0
+2771,Hard Core Logo,Comedy,4.125
+2772,Let's Talk About Sex,Drama,1.1111111111111112
+2773,Never Met Picasso,Romance,2.0
+2774,Brown's Requiem,Drama,2.5833333333333335
+2775,Montana,Action|Comedy|Crime|Drama,4.0
+2776,Marie Baie Des Anges,Drama,1.0
+2777,Stranger in the House,Thriller,2.0
+2778,Lamerica,Drama,4.846153846153846
+2779,Snowriders,Documentary,2.4
+2780,Little Lord Fauntleroy,Drama,3.3636363636363638
+2781,Temptress Moon (Feng Yue),Romance,2.0
+2782,"Dog of Flanders, A",Drama,3.230769230769231
+2783,Land and Freedom (Tierra y libertad),War,4.125
+2784,Office Killer,Thriller,2.2142857142857144
+2785,Johnny 100 Pesos,Action|Drama,3.0
+2786,Billy's Holiday,Drama,3.0
+2787,Fausto,Comedy,3.0
+2788,Sudden Manhattan,Comedy,1.4285714285714286
+2789,Head Above Water,Comedy|Thriller,2.1578947368421053
+2790,Bitter Sugar (Azucar Amargo),Drama,2.3529411764705883
+2791,"Jar, The (Khomreh)",Drama,4.0
+2792,Digging to China,Drama,1.25
+2793,Twice Upon a Yesterday,Comedy|Drama|Romance,2.8947368421052633
+2794,Rosie,Drama,2.3333333333333335
+2795,Public Access,Drama|Thriller,2.2
+2796,Tarantella,Drama,2.0
+2797,See the Sea (Regarde la mer),Drama,3.909090909090909
+2798,Venice/Venice,Drama,1.0
+2799,"Gambler, The (A Játékos)",Drama,4.052631578947368
+2800,Pandora and the Flying Dutchman,Drama,3.0
+2801,Dancemaker,Documentary,2.142857142857143
+2802,In the Line of Duty 2,Action,1.0
+2803,Full Tilt Boogie,Documentary,3.4545454545454546
+2804,Murder!,Mystery|Thriller,2.857142857142857
+2805,Light Years,Sci-Fi,2.0
+2806,Belly,Crime|Drama,2.9166666666666665
+2807,Among Giants,Drama|Romance,3.2
+2808,Diamonds,Mystery,2.0526315789473686
+2809,Sonic Outlaws,Documentary,4.0
+2810,Two Much,Comedy|Romance,1.6666666666666667
+2811,"301, 302",Mystery,2.7777777777777777
+2812,Eden,Drama,2.0
+2813,Commandments,Romance,1.9285714285714286
+2814,"Best Man, The (Il Testimone dello sposo)",Comedy|Drama,4.866666666666666
+2815,They Made Me a Criminal,Crime|Drama,2.5555555555555554
+2816,Happy Go Lovely,Musical,2.0
+2817,Possession,Drama|Horror,1.4
+2818,"Paris, France",Comedy,1.75
+2819,Bay of Blood (Reazione a catena),Horror,1.0
+2820,Color Me Blood Red,Horror,1.0
+2821,Destiny Turns on the Radio,Comedy,2.0384615384615383
+2822,Alvarez Kelly,Western,2.7058823529411766
+2823,Rent-a-Kid,Comedy,2.2
+2824,Get Over It,Drama,1.0
+2825,"King in New York, A",Comedy|Drama,3.953488372093023
+2826,Juno and Paycock,Drama,2.0
+2827,"Red Dwarf, The (Le Nain rouge)",Comedy|Drama,2.4705882352941178
+2828,Bittersweet Motel,Documentary,5.0
+2829,Six Ways to Sunday,Comedy,4.0
+2830,Schlafes Bruder (Brother of Sleep),Drama,5.0
+2831,Waltzes from Vienna,Comedy|Musical,1.0
+2832,Elstree Calling,Comedy|Musical,1.0
+2833,Even Dwarfs Started Small (Auch Zwerge haben klein angefangen),Drama,1.0
+2834,Something to Sing About,Comedy|Musical,1.0
+2835,"Fantastic Night, The (La Nuit Fantastique)",Romance,1.0
+2836,It's in the Water,Comedy,2.0
+2837,Smoking/No Smoking,Comedy,4.0
+2838,Greaser's Palace,Drama,4.0
+2839,Zachariah,Western,5.0
+2840,Broadway Damage,Comedy,3.2666666666666666
+2841,Mirage,Action|Thriller,2.8
+2842,Buck and the Preacher,Western,2.7142857142857144
+2843,Monument Ave.,Crime,4.0
+2844,Voyage of the Damned,Drama,3.6363636363636362
+2845,Yankee Zulu,Comedy|Drama,3.0
+2846,Two Bits,Drama,2.0
+2847,Chain of Fools,Comedy|Crime,3.0
+2848,"Silence of the Palace, The (Saimt el Qusur)",Drama,1.0
+2849,Song of Freedom,Drama,5.0
+2850,Peanuts - Die Bank zahlt alles,Comedy,2.6666666666666665
+2851,Taffin,Action|Thriller,2.142857142857143
+2852,Home Page,Documentary,3.0
+2853,Woo,Comedy|Romance,1.6111111111111112
+2854,Heaven's Burning,Action|Drama,4.0
+2855,Kim,Children's|Drama,3.4285714285714284
+2856,Smashing Time,Comedy,5.0
+2857,Dingo,Drama,4.0
+2858,Sacco and Vanzetti (Sacco e Vanzetti),Drama,4.0
+2859,I Am Cuba (Soy Cuba/Ya Kuba),Drama,5.0
+2860,Year of the Horse,Documentary,3.8181818181818183
+2861,Hav Plenty,Comedy,3.5714285714285716
+2862,"Blood, Guts, Bullets and Octane",Action|Comedy,3.0
+2863,3 Strikes,Comedy,3.5714285714285716
+2864,Death in Brunswick,Comedy,3.0
+2865,City of the Living Dead (Paura nella città dei morti viventi),Horror,4.294117647058823
+2866,Back Stage,Documentary,3.0
+2867,"Inheritors, The (Die Siebtelbauern)",Drama,4.5
+2868,Metisse (Café au Lait),Comedy,3.0
+2869,"Death in the Garden (Mort en ce jardin, La)",Drama,4.0
+2870,Where's Marlowe?,Comedy,4.0
+2871,Cotton Mary,Drama,1.75
+2872,Went to Coney Island on a Mission From God... Be Back by Five,Drama,2.375
+2873,Conceiving Ada,Drama|Sci-Fi,3.25
+2874,For Ever Mozart,Drama,3.0
+2875,All Things Fair,Drama,2.5
+2876,Zero Kelvin (Kjærlighetens kjøtere),Action,3.0
+2877,Everything Relative,Drama,4.0
+2878,Lotto Land,Drama,1.0
+2879,Carried Away,Drama|Romance,2.5
+2880,Paris Was a Woman,Documentary,2.5
+2881,Intimate Relations,Comedy,1.0
+2882,Prince Valiant,Adventure,3.4285714285714284
+2883,Wings of Courage,Adventure|Romance,2.5714285714285716
+2884,Impact,Crime|Drama,4.0
+2885,Anna,Drama,4.0
+2886,"Living Dead Girl, The (La Morte Vivante)",Horror,4.0
+2887,Killer: A Journal of Murder,Crime|Drama,3.0
+2888,Brother Minister: The Assassination of Malcolm X,Documentary,4.0
+2889,Small Faces,Drama,2.0
+2890,Tokyo Fist,Action|Drama,1.0
+2891,Getting Away With Murder,Comedy,2.0
+2892,"I, Worst of All (Yo, la peor de todas)",Drama,3.0
+2893,"Very Natural Thing, A",Drama,2.0
+2894,Born to Win,Drama,3.0
+2895,Vampyros Lesbos (Las Vampiras),Horror,1.0
+2896,Somewhere in the City,Drama,2.0
+2897,Night Tide,Drama,2.0
+2898,Tinseltown,Comedy,2.0
+2899,Eaten Alive,Horror,1.0
+2900,Love Walked In,Drama|Thriller,2.0
+2901,Sleepover,Comedy|Drama,1.0
+2902,Tashunga,Adventure|Western,2.0
+2903,"Wooden Man's Bride, The (Wu Kui)",Drama,3.0
+2904,Happy Weekend,Comedy,2.0
+2905,"Superweib, Das",Comedy,2.0
+2906,August,Drama,2.0
+2907,Circus,Comedy,1.0
+2908,"Brother's Kiss, A",Drama,2.0
+2909,Terror in a Texas Town,Western,1.0
+2910,Late Bloomers,Comedy,2.0
+2911,Shadows (Cienie),Drama,1.0
+2912,Resurrection Man,Drama|Thriller,3.0
+2913,Foolish,Comedy,3.0
+2914,"Paralyzing Fear: The Story of Polio in America, A",Documentary,2.0
+2915,Ménage (Tenue de soirée),Comedy|Drama,2.0
+2916,Defying Gravity,Drama,2.0
+2917,Hatchet For the Honeymoon (Rosso Segno Della Follia),Horror,1.0
+2918,Blood and Sand (Sangre y Arena),Drama|Romance,3.0
+2919,Sunset Park,Drama,4.0
+2920,Slaves to the Underground,Comedy|Drama,4.0
+2921,Dream Man,Thriller,2.0
+2922,Dangerous Game,Drama,5.0
+2923,Telling You,Comedy|Drama|Romance,3.0
