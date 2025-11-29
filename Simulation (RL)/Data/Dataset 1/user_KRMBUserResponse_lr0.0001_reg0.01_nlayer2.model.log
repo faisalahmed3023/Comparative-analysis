@@ -1,0 +1,2 @@
+Namespace(reader='KRMBSeqReader', model='KRMBUserResponse')
+Namespace(user_latent_dim=16, item_latent_dim=16, enc_dim=32, attn_n_head=4, transformer_d_forward=64, transformer_n_layer=2, state_hidden_dims=[128], scorer_hidden_dims=[128], dropout_rate=0.1, model_path='', loss='bce', l2_coef=0.0)
