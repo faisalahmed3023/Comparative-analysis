@@ -1,0 +1,17 @@
+TASTE: Emotional depth  
+REASON: I appreciate tracks that convey strong emotions and personal experiences.
+
+TASTE: Melodic richness  
+REASON: I enjoy music that features intricate melodies and harmonies.
+
+TASTE: Lyrical storytelling  
+REASON: I am drawn to songs that tell compelling stories through their lyrics.
+
+TASTE: Atmospheric soundscapes  
+REASON: I favor music that creates immersive and evocative sound environments.
+
+TASTE: Soulful vocals  
+REASON: I tend to enjoy tracks with powerful and expressive vocal performances.
+
+HIGH RATINGS: I tend to give high ratings to music that is emotionally resonant, melodically rich, and features strong lyrical content.  
+LOW RATINGS: I tend to give low ratings to music that lacks emotional depth, has simplistic melodies, or does not engage me lyrically.

@@ -1,0 +1,17 @@
+TASTE: Experimental and atmospheric music  
+REASON: I enjoy tracks that create unique soundscapes and evoke deep emotions.
+
+TASTE: Indie and alternative rock  
+REASON: I appreciate the creativity and authenticity found in indie and alternative rock genres.
+
+TASTE: Melodic and instrumental pieces  
+REASON: I am drawn to music that emphasizes melody and instrumental arrangements.
+
+TASTE: Energetic and upbeat tracks  
+REASON: I like music that has a lively tempo and can uplift my mood.
+
+TASTE: Complex and layered compositions  
+REASON: I favor songs that have intricate arrangements and multiple layers of sound.
+
+HIGH RATINGS: I tend to give high ratings to music that is experimental, atmospheric, and emotionally resonant.  
+LOW RATINGS: I tend to give low ratings to music that feels generic, overly commercial, or lacks depth.

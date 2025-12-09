@@ -1,0 +1,17 @@
+TASTE: Dark and atmospheric music  
+REASON: I enjoy tracks that create a moody and immersive listening experience.
+
+TASTE: Energetic and intense beats  
+REASON: I prefer music that has a driving rhythm and high energy, making it engaging.
+
+TASTE: Remixes and reinterpretations  
+REASON: I appreciate when original tracks are creatively reimagined, adding a fresh perspective.
+
+TASTE: Melodic and haunting melodies  
+REASON: I am drawn to music that features captivating and eerie melodies that linger.
+
+TASTE: Industrial and electronic influences  
+REASON: I favor sounds that incorporate elements of industrial and electronic genres, reflecting a modern edge.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are dark, energetic, and have strong electronic influences.  
+LOW RATINGS: I tend to give low ratings to tracks that are less intense, lack energy, or do not resonate with my preferred styles.

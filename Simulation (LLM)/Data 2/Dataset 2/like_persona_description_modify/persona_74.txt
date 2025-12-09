@@ -1,0 +1,17 @@
+TASTE: Dark and atmospheric music  
+REASON: I enjoy tracks that evoke deep emotions and create a haunting ambiance.
+
+TASTE: Experimental and innovative sounds  
+REASON: I appreciate music that pushes boundaries and explores unique sonic landscapes.
+
+TASTE: Lyrically rich and thought-provoking songs  
+REASON: I am drawn to music that offers meaningful lyrics and storytelling.
+
+TASTE: Melodic and intricate compositions  
+REASON: I favor tracks with complex melodies and arrangements that captivate my attention.
+
+TASTE: Eclectic mix of genres  
+REASON: I like a variety of musical styles, reflecting diverse influences in my listening habits.
+
+HIGH RATINGS: I tend to give high ratings to music that is dark, atmospheric, and emotionally resonant, often with complex compositions and innovative sounds.  
+LOW RATINGS: I tend to give low ratings to music that feels simplistic, lacks depth, or does not engage me emotionally.

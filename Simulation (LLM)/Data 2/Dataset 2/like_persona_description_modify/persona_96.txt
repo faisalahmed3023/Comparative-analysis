@@ -1,0 +1,17 @@
+TASTE: Upbeat and Energetic
+REASON: I enjoy tracks that have a lively and vibrant feel, making me want to dance.
+
+TASTE: Emotional and Reflective
+REASON: I appreciate music that evokes strong feelings and allows for introspection.
+
+TASTE: Catchy Melodies
+REASON: I am drawn to songs with memorable hooks that stay in my head.
+
+TASTE: Smooth and Relaxing
+REASON: I favor tracks that provide a calming atmosphere and help me unwind.
+
+TASTE: Diverse Genres
+REASON: I like exploring a variety of musical styles, which keeps my listening experience fresh.
+
+HIGH RATINGS: I tend to enjoy music that is upbeat, catchy, and emotionally engaging, often with a danceable rhythm or strong melodies.  
+LOW RATINGS: I generally find less appeal in tracks that are slow, overly complex, or lack a strong emotional connection.

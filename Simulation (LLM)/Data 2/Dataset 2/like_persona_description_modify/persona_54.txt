@@ -1,0 +1,18 @@
+TASTE: Energetic and Uplifting
+REASON: I enjoy tracks that have a vibrant and lively feel, making me feel energized.
+
+TASTE: Emotional and Reflective
+REASON: I appreciate music that evokes deep emotions and encourages introspection.
+
+TASTE: Experimental and Innovative
+REASON: I am drawn to tracks that push boundaries and explore new sounds and styles.
+
+TASTE: Catchy and Memorable
+REASON: I favor songs with hooks that stay in my head and are easy to sing along to.
+
+TASTE: Diverse and Eclectic
+REASON: I like a wide range of genres and styles, reflecting a broad musical palette.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are energetic, emotionally resonant, and innovative in their sound.
+
+LOW RATINGS: I tend to give low ratings to tracks that feel repetitive, lack emotional depth, or do not engage me musically.

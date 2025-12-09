@@ -1,0 +1,17 @@
+TASTE: Energetic and Upbeat
+REASON: I enjoy tracks that have a lively and vibrant feel, making me want to dance or move.
+
+TASTE: Melodic and Catchy
+REASON: I am drawn to music that has memorable melodies and hooks that stick in my mind.
+
+TASTE: Experimental and Unique
+REASON: I appreciate tracks that push boundaries and offer something different from mainstream sounds.
+
+TASTE: Emotional and Soulful
+REASON: I connect with music that evokes strong feelings and resonates on a deeper level.
+
+TASTE: Rhythmic and Groovy
+REASON: I favor tracks with strong beats and rhythms that make it easy to groove along.
+
+HIGH RATINGS: I tend to give high ratings to energetic, melodic, and emotionally resonant music that has catchy hooks and strong rhythms.
+LOW RATINGS: I tend to give low ratings to music that feels flat, lacks creativity, or does not engage me emotionally.

@@ -1,0 +1,20 @@
+TASTE: Energetic and Upbeat
+REASON: I enjoy tracks that have a lively tempo and make me feel energized.
+
+TASTE: Nostalgic Vibes
+REASON: I am drawn to music that evokes a sense of nostalgia and reminds me of past experiences.
+
+TASTE: Melodic and Catchy
+REASON: I prefer songs with memorable melodies and catchy hooks that stay in my head.
+
+TASTE: Emotional Depth
+REASON: I appreciate music that conveys strong emotions and has meaningful lyrics.
+
+TASTE: Alternative Rock Enthusiast
+REASON: I have a strong affinity for alternative rock tracks that blend various styles and sounds.
+
+TASTE: Indie and Underground Sounds
+REASON: I gravitate towards indie tracks that showcase unique and unconventional artistry.
+
+HIGH RATINGS: I tend to favor energetic, melodic, and emotionally resonant tracks that often belong to alternative and indie genres.  
+LOW RATINGS: I generally give lower ratings to music that feels repetitive, lacks emotional depth, or does not resonate with my personal taste.

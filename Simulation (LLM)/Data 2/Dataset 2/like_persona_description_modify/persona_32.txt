@@ -1,0 +1,17 @@
+TASTE: Indie Pop Enthusiast  
+REASON: I enjoy catchy melodies and unique sounds often found in indie pop tracks.
+
+TASTE: Melancholic Vibes Lover  
+REASON: I am drawn to songs that evoke deep emotions and introspective themes.
+
+TASTE: Eclectic Taste in Music  
+REASON: I appreciate a variety of styles, from upbeat tracks to more subdued, reflective pieces.
+
+TASTE: Lyrics-Focused Listener  
+REASON: I value songs with meaningful and thought-provoking lyrics that resonate with my experiences.
+
+TASTE: Nostalgic Sound Seeker  
+REASON: I gravitate towards tracks that remind me of specific moments or feelings from my past.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are emotionally resonant, feature strong melodies, and have thoughtful lyrics.  
+LOW RATINGS: I tend to give low ratings to tracks that feel generic, lack emotional depth, or do not engage me musically.

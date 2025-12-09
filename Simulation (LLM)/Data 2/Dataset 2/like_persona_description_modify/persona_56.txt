@@ -1,0 +1,18 @@
+TASTE: Melodic and Atmospheric
+REASON: I enjoy tracks that create a soothing and immersive listening experience.
+
+TASTE: Upbeat and Catchy
+REASON: I am drawn to songs with infectious rhythms and memorable hooks that make me want to move.
+
+TASTE: Emotional and Reflective
+REASON: I appreciate music that evokes strong feelings and encourages introspection.
+
+TASTE: Eclectic and Diverse
+REASON: I like a wide range of genres and styles, showcasing my varied musical interests.
+
+TASTE: Nostalgic and Timeless
+REASON: I favor tracks that remind me of past experiences or have a classic quality that resonates with me.
+
+HIGH RATINGS: I tend to give high ratings to melodic, atmospheric, and emotionally resonant music that creates a strong connection and evokes feelings.
+
+LOW RATINGS: I tend to give low ratings to tracks that lack depth, are overly simplistic, or do not engage me emotionally.

@@ -1,0 +1,17 @@
+TASTE: Energetic and Upbeat Tracks  
+REASON: I enjoy music that has a lively and engaging rhythm, which keeps me motivated.
+
+TASTE: Emotional and Reflective Songs  
+REASON: I appreciate tracks that evoke deep feelings and encourage introspection.
+
+TASTE: Diverse Musical Styles  
+REASON: I have a wide range of tastes, enjoying various genres and styles in my music selection.
+
+TASTE: Collaborations with Notable Artists  
+REASON: I tend to favor songs that feature collaborations with well-known artists, adding depth to the music.
+
+TASTE: Classic Rock Influences  
+REASON: I am drawn to tracks that have a classic rock vibe, showcasing strong instrumentation and memorable melodies.
+
+HIGH RATINGS: I tend to favor energetic, emotional, and diverse tracks with strong collaborations and classic rock influences.  
+LOW RATINGS: I generally give lower ratings to music that lacks energy, emotional depth, or variety in style.

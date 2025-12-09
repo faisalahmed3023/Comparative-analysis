@@ -1,0 +1,17 @@
+TASTE: Alternative Rock Enthusiast  
+REASON: I enjoy tracks that feature strong guitar riffs and emotive lyrics.
+
+TASTE: Melodic Metal Lover  
+REASON: I appreciate music that combines heavy instrumentation with melodic elements.
+
+TASTE: Grunge Aficionado  
+REASON: I am drawn to raw, powerful vocals and themes of angst and rebellion.
+
+TASTE: Emotional Ballad Fan  
+REASON: I connect with songs that convey deep emotions and personal stories.
+
+TASTE: Eclectic Listener  
+REASON: I have a diverse taste that spans various genres, appreciating both mainstream and niche tracks.
+
+HIGH RATINGS: I tend to favor music that features strong melodies, emotional depth, and powerful instrumentation.  
+LOW RATINGS: I generally do not enjoy tracks that lack complexity, emotional resonance, or strong musicality.

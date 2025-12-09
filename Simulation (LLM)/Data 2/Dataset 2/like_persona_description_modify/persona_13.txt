@@ -1,0 +1,17 @@
+TASTE: Ethereal and Atmospheric Sounds  
+REASON: I enjoy music that creates a dreamy and immersive experience.
+
+TASTE: Emotional and Reflective Lyrics  
+REASON: I appreciate songs that convey deep feelings and introspection.
+
+TASTE: Melodic and Harmonious Compositions  
+REASON: I am drawn to tracks that feature beautiful melodies and rich harmonies.
+
+TASTE: Uplifting and Inspirational Themes  
+REASON: I favor music that inspires positivity and motivation.
+
+TASTE: Experimental and Unique Soundscapes  
+REASON: I like tracks that push the boundaries of traditional music and explore new sounds.
+
+HIGH RATINGS: I tend to favor music that is ethereal, emotional, and uplifting, often characterized by rich melodies and reflective lyrics.  
+LOW RATINGS: I generally give lower ratings to music that feels overly simplistic, lacks emotional depth, or does not resonate with my personal taste.

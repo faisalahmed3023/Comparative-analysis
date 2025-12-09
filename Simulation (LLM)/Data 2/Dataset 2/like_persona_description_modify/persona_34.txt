@@ -1,0 +1,14 @@
+TASTE: Energetic and Upbeat Tracks  
+REASON: I enjoy music that has a lively and motivating vibe, which is reflected in my high ratings.
+
+TASTE: Dramatic and Intense Songs  
+REASON: I appreciate tracks that evoke strong emotions and have a powerful presence, as shown by my preferences.
+
+TASTE: Classic and Iconic Hits  
+REASON: I tend to favor well-known songs that have stood the test of time and resonate with many listeners.
+
+TASTE: Melodic and Catchy Tunes  
+REASON: I am drawn to music that has memorable melodies and hooks that stay with me.
+
+HIGH RATINGS: I tend to give high ratings to energetic, dramatic, and iconic tracks that evoke strong emotions and have a lively presence.  
+LOW RATINGS: I tend to give low ratings to music that lacks energy, emotional depth, or fails to resonate with me.

@@ -1,0 +1,17 @@
+TASTE: Heavy Metal Enthusiast  
+REASON: I enjoy aggressive and powerful sounds that evoke strong emotions.
+
+TASTE: Alternative Rock Lover  
+REASON: I appreciate innovative and unique musical styles that challenge the mainstream.
+
+TASTE: Emotionally Charged Listener  
+REASON: I connect deeply with tracks that convey intense feelings and personal experiences.
+
+TASTE: Energetic Vibes Seeker  
+REASON: I am drawn to music that has a high energy level and motivates me.
+
+TASTE: Lyrically Driven  
+REASON: I value songs with meaningful and thought-provoking lyrics that resonate with my experiences.
+
+HIGH RATINGS: I tend to enjoy music that is heavy, energetic, and emotionally intense, often characterized by powerful instrumentation and impactful lyrics.  
+LOW RATINGS: I generally do not favor softer, more melodic tracks that lack intensity or emotional depth.

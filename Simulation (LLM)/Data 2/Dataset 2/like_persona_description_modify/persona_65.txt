@@ -1,0 +1,17 @@
+TASTE: Emotional depth  
+REASON: I appreciate tracks that convey strong feelings and resonate with personal experiences.
+
+TASTE: Unique soundscapes  
+REASON: I enjoy music that offers innovative and distinct auditory experiences.
+
+TASTE: Catchy melodies  
+REASON: I am drawn to songs with memorable hooks that stay in my head.
+
+TASTE: Complex rhythms  
+REASON: I like tracks that challenge my sense of timing and groove with intricate beats.
+
+TASTE: Lyrical storytelling  
+REASON: I favor music that tells a compelling story or conveys meaningful messages.
+
+HIGH RATINGS: I tend to give high ratings to music that is emotionally engaging, innovative in sound, and has strong melodies or lyrics.  
+LOW RATINGS: I tend to give low ratings to music that feels generic, lacks emotional connection, or has simplistic structures.

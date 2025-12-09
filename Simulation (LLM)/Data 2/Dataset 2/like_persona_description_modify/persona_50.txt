@@ -1,0 +1,17 @@
+TASTE: Energetic and Uplifting
+REASON: I enjoy tracks that have a lively beat and positive vibes.
+
+TASTE: Emotional and Reflective
+REASON: I appreciate music that evokes deep feelings and introspection.
+
+TASTE: Melodic and Harmonious
+REASON: I am drawn to songs with beautiful melodies and rich harmonies.
+
+TASTE: Diverse Genres
+REASON: I like a variety of musical styles, from pop to classical influences.
+
+TASTE: Nostalgic and Timeless
+REASON: I favor tracks that remind me of past experiences or have a classic feel.
+
+HIGH RATINGS: I tend to give high ratings to music that is energetic, uplifting, and emotionally resonant, often with strong melodies and harmonies.
+LOW RATINGS: I tend to give low ratings to music that feels flat, lacks emotional depth, or does not engage me musically.

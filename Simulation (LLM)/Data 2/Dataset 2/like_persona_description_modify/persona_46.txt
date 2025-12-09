@@ -1,0 +1,17 @@
+TASTE: Uplifting and Energetic Tracks  
+REASON: I enjoy music that has a vibrant and lively feel, which makes me feel good.
+
+TASTE: Emotional and Passionate Songs  
+REASON: I am drawn to tracks that evoke strong feelings and connect with my emotions.
+
+TASTE: Dance and Electronic Music  
+REASON: I have a preference for upbeat and rhythmic songs that are great for dancing.
+
+TASTE: Remixes of Popular Songs  
+REASON: I appreciate fresh takes on familiar tracks, especially those that enhance their energy.
+
+TASTE: Melodic and Catchy Tunes  
+REASON: I favor songs that have memorable melodies and hooks that stay with me.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are upbeat, emotionally engaging, and have a strong danceable rhythm.  
+LOW RATINGS: I tend to give low ratings to tracks that are slow, lack energy, or do not resonate with my emotional state.

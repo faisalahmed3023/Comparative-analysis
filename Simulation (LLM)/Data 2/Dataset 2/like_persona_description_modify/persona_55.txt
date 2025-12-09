@@ -1,0 +1,17 @@
+TASTE: Eclectic and experimental sounds  
+REASON: I enjoy a variety of genres and styles, often gravitating towards tracks that blend different musical elements.
+
+TASTE: Melodic and atmospheric tracks  
+REASON: I appreciate music that creates an immersive experience, often featuring rich melodies and ambient soundscapes.
+
+TASTE: Upbeat and energetic tunes  
+REASON: I tend to favor tracks that have a lively tempo and positive vibes, making them great for uplifting my mood.
+
+TASTE: Thought-provoking lyrics  
+REASON: I am drawn to songs that offer deeper meanings or tell compelling stories, enhancing my listening experience.
+
+TASTE: Chill and relaxing music  
+REASON: I enjoy tracks that help me unwind and relax, often featuring soothing rhythms and gentle melodies.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are melodic, atmospheric, and have an eclectic mix of styles, often with uplifting or thought-provoking elements.  
+LOW RATINGS: I tend to give low ratings to tracks that are overly simplistic, lack depth, or do not resonate with my musical preferences.

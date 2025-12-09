@@ -1,0 +1,17 @@
+TASTE: Melodic and Lyrically Rich
+REASON: I enjoy songs that feature strong melodies and meaningful lyrics, which resonate with my emotions.
+
+TASTE: Indie and Alternative Vibes
+REASON: I am drawn to tracks that have an indie or alternative sound, reflecting a unique and creative musical style.
+
+TASTE: Nostalgic and Timeless Classics
+REASON: I appreciate music that has a classic feel, often evoking nostalgia and a sense of timelessness.
+
+TASTE: Upbeat and Catchy Tunes
+REASON: I tend to favor songs that are upbeat and catchy, making them enjoyable to listen to repeatedly.
+
+TASTE: Acoustic and Organic Sounds
+REASON: I have a preference for tracks that feature acoustic instruments and a more organic sound, which feels more authentic.
+
+HIGH RATINGS: I tend to give high ratings to melodic, lyrically rich, and upbeat songs that evoke positive emotions and have a timeless quality.  
+LOW RATINGS: I tend to give low ratings to tracks that lack strong melodies, have less engaging lyrics, or do not resonate with my personal taste in music.

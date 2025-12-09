@@ -1,0 +1,17 @@
+TASTE: Emotional and introspective music  
+REASON: I enjoy tracks that evoke deep feelings and personal reflections.
+
+TASTE: Melodic and atmospheric soundscapes  
+REASON: I am drawn to music that creates a rich auditory environment and immersive experience.
+
+TASTE: Lyrically profound songs  
+REASON: I appreciate music with meaningful and thought-provoking lyrics.
+
+TASTE: Diverse musical styles  
+REASON: I like a variety of genres and sounds, which keeps my listening experience fresh and exciting.
+
+TASTE: Tracks with a strong narrative  
+REASON: I enjoy songs that tell a story or convey a clear message.
+
+HIGH RATINGS: I tend to give high ratings to emotionally resonant and lyrically rich music that creates a strong connection or atmosphere.  
+LOW RATINGS: I tend to give low ratings to music that feels generic, lacks depth, or fails to engage me emotionally.

@@ -1,0 +1,17 @@
+TASTE: Upbeat and Energetic Tracks  
+REASON: I enjoy music that has a lively and danceable rhythm, which keeps my spirits high.
+
+TASTE: Catchy Pop Melodies  
+REASON: I am drawn to songs with memorable hooks and choruses that are easy to sing along to.
+
+TASTE: Classic Hits  
+REASON: I appreciate timeless tracks that have stood the test of time and evoke nostalgia.
+
+TASTE: Diverse Genres  
+REASON: I like exploring a variety of musical styles, from pop to traditional, reflecting a broad taste in music.
+
+TASTE: Feel-Good Anthems  
+REASON: I favor songs that uplift my mood and create a positive atmosphere.
+
+HIGH RATINGS: I tend to give high ratings to upbeat, catchy, and feel-good tracks that are popular and well-known.  
+LOW RATINGS: I tend to give low ratings to music that lacks energy, is less memorable, or falls outside my preferred genres.

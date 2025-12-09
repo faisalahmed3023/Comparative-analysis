@@ -1,0 +1,17 @@
+TASTE: Emotional and introspective tracks  
+REASON: I enjoy music that evokes deep feelings and personal reflections.
+
+TASTE: Uplifting and energetic songs  
+REASON: I am drawn to tracks that have a vibrant and positive vibe, making me feel good.
+
+TASTE: Melodic and harmonious compositions  
+REASON: I appreciate music with strong melodies and harmonies that resonate with me.
+
+TASTE: Indie and alternative sounds  
+REASON: I tend to favor music that has a unique and non-mainstream quality.
+
+TASTE: Thought-provoking lyrics  
+REASON: I like songs that tell a story or convey meaningful messages.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are emotionally resonant, uplifting, and melodic, often with thoughtful lyrics and an indie or alternative style.  
+LOW RATINGS: I tend to give low ratings to tracks that feel generic, lack emotional depth, or do not engage me musically.

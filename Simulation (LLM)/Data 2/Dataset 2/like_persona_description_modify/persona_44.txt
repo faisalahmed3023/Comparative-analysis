@@ -1,0 +1,17 @@
+TASTE: Nostalgic and upbeat tracks  
+REASON: I enjoy songs that evoke fond memories and have a lively rhythm.
+
+TASTE: Melodic and emotional ballads  
+REASON: I appreciate music that showcases strong melodies and emotional depth.
+
+TASTE: Alternative rock anthems  
+REASON: I am drawn to tracks that feature powerful instrumentation and relatable lyrics.
+
+TASTE: Classic hits with timeless appeal  
+REASON: I favor songs that have stood the test of time and continue to resonate with listeners.
+
+TASTE: Songs with introspective themes  
+REASON: I connect with music that explores deeper thoughts and feelings.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are nostalgic, melodic, and emotionally resonant, often with a lively or classic feel.  
+LOW RATINGS: I tend to give low ratings to tracks that lack depth, emotional connection, or fail to engage me musically.

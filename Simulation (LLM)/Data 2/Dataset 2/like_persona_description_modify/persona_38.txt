@@ -1,0 +1,17 @@
+TASTE: Emotional and introspective tracks  
+REASON: I tend to enjoy music that evokes deep feelings and personal reflections.
+
+TASTE: Upbeat and energetic songs  
+REASON: I appreciate tracks that have a lively tempo and make me feel motivated.
+
+TASTE: Melodic and harmonious compositions  
+REASON: I am drawn to music with pleasing melodies and rich harmonies.
+
+TASTE: Experimental and innovative sounds  
+REASON: I enjoy tracks that push the boundaries of traditional music and explore new styles.
+
+TASTE: Lyrically profound pieces  
+REASON: I value songs with meaningful lyrics that tell a story or convey a message.
+
+HIGH RATINGS: I tend to favor music that is emotionally resonant, melodic, and innovative, often with profound lyrics.  
+LOW RATINGS: I generally do not enjoy music that is overly simplistic, lacks depth, or feels generic.

@@ -1,0 +1,17 @@
+TASTE: Emotional and introspective music  
+REASON: I tend to enjoy tracks that evoke deep feelings and reflections.
+
+TASTE: Melodic and atmospheric sounds  
+REASON: I appreciate music that has a rich, immersive quality and melodic structure.
+
+TASTE: Thought-provoking lyrics  
+REASON: I favor songs that contain meaningful and contemplative lyrics.
+
+TASTE: Indie and alternative genres  
+REASON: I gravitate towards music that is less mainstream and has a unique sound.
+
+TASTE: Uplifting and positive vibes  
+REASON: I enjoy tracks that create a sense of hope and positivity.
+
+HIGH RATINGS: I tend to give high ratings to music that is emotional, melodic, and thought-provoking, often found in indie and alternative genres.  
+LOW RATINGS: I tend to give low ratings to music that feels generic, lacks depth, or does not resonate with my emotional state.

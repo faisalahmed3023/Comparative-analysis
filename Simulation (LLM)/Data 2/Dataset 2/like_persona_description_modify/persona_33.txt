@@ -1,0 +1,17 @@
+TASTE: Energetic and Upbeat Tracks  
+REASON: I enjoy music that has a lively tempo and makes me feel energized.
+
+TASTE: Emotional and Reflective Songs  
+REASON: I appreciate tracks that evoke strong emotions and encourage introspection.
+
+TASTE: Indie and Alternative Vibes  
+REASON: I am drawn to music that has a unique sound and often features unconventional melodies.
+
+TASTE: Catchy and Memorable Hooks  
+REASON: I favor songs that have catchy choruses that stick in my mind.
+
+TASTE: Melodic and Harmonious Tunes  
+REASON: I like music that is melodically rich and features harmonious arrangements.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are energetic, emotionally resonant, and have catchy melodies.  
+LOW RATINGS: I tend to give low ratings to tracks that feel monotonous, lack emotional depth, or do not engage me musically.

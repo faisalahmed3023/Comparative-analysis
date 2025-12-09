@@ -1,0 +1,17 @@
+TASTE: Emotional and atmospheric music  
+REASON: I enjoy tracks that evoke strong feelings and create a deep atmosphere.
+
+TASTE: Uplifting and positive melodies  
+REASON: I tend to favor music that brings joy and a sense of happiness.
+
+TASTE: Complex and layered compositions  
+REASON: I appreciate music that has intricate arrangements and multiple layers of sound.
+
+TASTE: Melancholic and introspective tunes  
+REASON: I am drawn to tracks that reflect deeper emotions and provoke thought.
+
+TASTE: Energetic and vibrant rhythms  
+REASON: I like music that has a lively beat and makes me want to move.
+
+HIGH RATINGS: I tend to give high ratings to music that is emotionally resonant, uplifting, and complex in composition.  
+LOW RATINGS: I tend to give low ratings to music that feels simplistic, lacks emotional depth, or does not engage me.

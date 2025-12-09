@@ -1,0 +1,17 @@
+TASTE: Energetic and Upbeat
+REASON: I enjoy tracks that have a lively and dynamic feel, which keeps me engaged and motivated.
+
+TASTE: Complex and Layered
+REASON: I appreciate music that features intricate arrangements and multiple layers, allowing for deeper listening experiences.
+
+TASTE: Nostalgic and Classic
+REASON: I am drawn to tracks that evoke a sense of nostalgia, often reminding me of past experiences or eras.
+
+TASTE: Experimental and Unique
+REASON: I like music that pushes boundaries and explores unconventional sounds and structures.
+
+TASTE: Intense and Powerful
+REASON: I favor tracks that convey strong emotions and have a powerful impact on my mood.
+
+HIGH RATINGS: I tend to give high ratings to energetic, complex, and emotionally intense music that resonates with my personal experiences and preferences.
+LOW RATINGS: I tend to give low ratings to simpler, less engaging music that fails to capture my interest or lacks depth.

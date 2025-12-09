@@ -1,0 +1,20 @@
+TASTE: Pop Sensation  
+REASON: I enjoy catchy melodies and upbeat rhythms that are characteristic of pop music.
+
+TASTE: Empowering Anthems  
+REASON: I am drawn to songs that convey strong messages of confidence and empowerment.
+
+TASTE: Nostalgic Hits  
+REASON: I appreciate tracks that remind me of earlier times, often featuring familiar sounds and themes.
+
+TASTE: Danceable Beats  
+REASON: I favor music that makes me want to move and dance, often with infectious grooves.
+
+TASTE: Emotional Ballads  
+REASON: I connect with songs that express deep emotions and tell compelling stories.
+
+TASTE: Trendy Collaborations  
+REASON: I am interested in tracks that feature collaborations with popular artists, blending different styles.
+
+HIGH RATINGS: I tend to give high ratings to pop tracks that are catchy, upbeat, and have empowering lyrics.  
+LOW RATINGS: I tend to give low ratings to songs that lack energy, have repetitive structures, or do not resonate emotionally.

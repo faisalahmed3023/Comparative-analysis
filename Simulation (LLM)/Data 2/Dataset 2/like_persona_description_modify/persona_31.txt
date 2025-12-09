@@ -1,0 +1,17 @@
+TASTE: Emotional ballads  
+REASON: I enjoy tracks that evoke strong feelings and resonate with personal experiences.  
+
+TASTE: Uplifting anthems  
+REASON: I appreciate songs that inspire hope and positivity, often with powerful melodies.  
+
+TASTE: Classic hits  
+REASON: I have a preference for timeless tracks that have stood the test of time and are widely recognized.  
+
+TASTE: Indie and alternative vibes  
+REASON: I am drawn to unique sounds and styles that offer a fresh perspective on music.  
+
+TASTE: Acoustic arrangements  
+REASON: I favor stripped-down versions of songs that highlight vocals and lyrics.  
+
+HIGH RATINGS: I tend to give high ratings to emotionally resonant and uplifting tracks that are well-crafted and have a strong melodic presence.  
+LOW RATINGS: I tend to give low ratings to songs that lack depth, originality, or fail to connect with me emotionally.

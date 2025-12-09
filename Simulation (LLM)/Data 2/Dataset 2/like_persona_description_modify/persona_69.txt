@@ -1,0 +1,17 @@
+TASTE: Upbeat and Catchy
+REASON: I enjoy tracks that have a lively and engaging rhythm.
+
+TASTE: Emotional and Relatable
+REASON: I appreciate music that resonates with my feelings and experiences.
+
+TASTE: Melodic and Harmonious
+REASON: I am drawn to songs that feature beautiful melodies and harmonies.
+
+TASTE: Danceable and Energetic
+REASON: I favor tracks that make me want to move and dance.
+
+TASTE: Contemporary Pop
+REASON: I tend to enjoy modern pop music that is popular and widely recognized.
+
+HIGH RATINGS: I tend to give high ratings to upbeat, catchy, and emotionally resonant tracks that are contemporary and danceable.
+LOW RATINGS: I tend to give low ratings to tracks that lack energy, are overly simplistic, or do not resonate with my personal taste.

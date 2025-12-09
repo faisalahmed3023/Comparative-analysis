@@ -1,0 +1,17 @@
+TASTE: Energetic and Upbeat
+REASON: I enjoy tracks that have a lively tempo and make me feel energized.
+
+TASTE: Alternative Rock Enthusiast
+REASON: I am drawn to alternative rock music that features strong guitar riffs and powerful vocals.
+
+TASTE: Emotionally Charged Lyrics
+REASON: I appreciate songs that convey deep emotions and tell compelling stories through their lyrics.
+
+TASTE: Nostalgic Vibes
+REASON: I have a fondness for tracks that evoke a sense of nostalgia, often from the late 90s and early 2000s.
+
+TASTE: Diverse Genres
+REASON: I like a mix of genres, including rock, pop, and even some electronic influences in my music.
+
+HIGH RATINGS: I tend to give high ratings to energetic and emotionally resonant tracks, particularly those in the alternative rock genre with strong melodies and engaging lyrics.  
+LOW RATINGS: I tend to give low ratings to tracks that lack energy, have repetitive structures, or do not resonate with me emotionally.

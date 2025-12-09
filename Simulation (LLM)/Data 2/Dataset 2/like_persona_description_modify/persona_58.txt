@@ -1,0 +1,17 @@
+TASTE: Alternative Rock Enthusiast  
+REASON: I enjoy the raw emotion and unique sound of alternative rock tracks.
+
+TASTE: Grunge Aficionado  
+REASON: I appreciate the gritty and powerful themes often found in grunge music.
+
+TASTE: Melodic and Lyrically Rich  
+REASON: I am drawn to songs with strong melodies and meaningful lyrics that resonate with me.
+
+TASTE: Preference for Intense Soundscapes  
+REASON: I favor music that creates a deep emotional impact through its instrumentation and vocal delivery.
+
+TASTE: Appreciation for Iconic 90s Tracks  
+REASON: I have a fondness for music that defined the 90s, reflecting a nostalgic connection.
+
+HIGH RATINGS: I tend to give high ratings to music that features strong emotional themes, powerful vocals, and a distinctive sound that resonates with my personal experiences.  
+LOW RATINGS: I tend to give low ratings to music that feels generic, lacks depth, or does not evoke a strong emotional response.

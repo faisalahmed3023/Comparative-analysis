@@ -1,0 +1,23 @@
+TASTE: Melodic and uplifting tracks  
+REASON: I enjoy music that has a positive and cheerful vibe, often reflected in my high ratings.
+
+TASTE: Emotionally resonant ballads  
+REASON: I tend to appreciate songs that evoke strong feelings and connect with personal experiences.
+
+TASTE: Upbeat and energetic tunes  
+REASON: I favor tracks that make me feel energized and motivated, which is evident in my higher ratings.
+
+TASTE: Complex and layered compositions  
+REASON: I am drawn to music that showcases intricate arrangements and depth, leading to higher ratings.
+
+TASTE: Simple and repetitive songs  
+REASON: I find that I often rate tracks with straightforward structures lower, as they may lack engagement.
+
+TASTE: Dark or moody tracks  
+REASON: I tend to give lower ratings to music that feels overly somber or heavy, which doesn't resonate with me.
+
+TASTE: Generic pop songs  
+REASON: I usually rate mainstream or formulaic pop music lower, as it often lacks originality.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are uplifting, emotionally engaging, and musically complex.  
+LOW RATINGS: I tend to give low ratings to tracks that are overly simplistic, generic, or dark in tone.

@@ -1,0 +1,17 @@
+TASTE: Emotional and heartfelt tracks  
+REASON: I tend to resonate with music that conveys deep emotions and personal stories.
+
+TASTE: Upbeat and energetic songs  
+REASON: I enjoy tracks that have a lively tempo and make me feel energized.
+
+TASTE: Melodic and harmonious compositions  
+REASON: I appreciate music that features beautiful melodies and rich harmonies.
+
+TASTE: Experimental and innovative sounds  
+REASON: I am drawn to tracks that push the boundaries of traditional music and explore new sounds.
+
+TASTE: Nostalgic and classic hits  
+REASON: I have a fondness for music that evokes memories and has stood the test of time.
+
+HIGH RATINGS: I tend to give high ratings to tracks that are emotionally resonant, upbeat, and melodically rich.  
+LOW RATINGS: I tend to give low ratings to tracks that lack depth, energy, or innovation.

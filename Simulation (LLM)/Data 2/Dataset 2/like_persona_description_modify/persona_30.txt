@@ -1,0 +1,17 @@
+TASTE: Energetic and Upbeat Tracks  
+REASON: I enjoy songs that have a lively tempo and make me feel energized.
+
+TASTE: Emotional and Introspective Lyrics  
+REASON: I am drawn to music that explores deep emotions and personal experiences.
+
+TASTE: Diverse Musical Styles  
+REASON: I appreciate a variety of genres and sounds, indicating an openness to different musical expressions.
+
+TASTE: Strong Vocals and Melodies  
+REASON: I favor tracks with powerful vocal performances and memorable melodies.
+
+TASTE: Songs with a Narrative  
+REASON: I like music that tells a story or conveys a message, enhancing my listening experience.
+
+HIGH RATINGS: I tend to favor tracks that are energetic, emotionally resonant, and feature strong vocals or melodies.  
+LOW RATINGS: I generally give lower ratings to songs that lack depth, have monotonous melodies, or do not resonate with my emotional state.

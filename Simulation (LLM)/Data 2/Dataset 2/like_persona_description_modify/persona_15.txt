@@ -1,0 +1,17 @@
+TASTE: Energetic and Upbeat Tracks  
+REASON: I tend to enjoy music that has a lively tempo and makes me feel energized.
+
+TASTE: Melodic and Catchy Tunes  
+REASON: I appreciate songs with memorable melodies that stick in my head.
+
+TASTE: Emotionally Resonant Ballads  
+REASON: I connect with tracks that evoke strong emotions and tell a story.
+
+TASTE: Experimental and Unique Sounds  
+REASON: I am drawn to music that pushes boundaries and offers something different.
+
+TASTE: Relaxing and Chill Vibes  
+REASON: I enjoy tracks that help me unwind and create a calm atmosphere.
+
+HIGH RATINGS: I tend to give high ratings to energetic and melodic tracks that evoke positive emotions and have catchy hooks.  
+LOW RATINGS: I tend to give low ratings to music that feels repetitive or lacks emotional depth.

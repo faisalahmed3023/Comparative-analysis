@@ -1,0 +1,17 @@
+TASTE: Emotional and introspective music  
+REASON: I tend to enjoy tracks that evoke strong feelings and personal reflections.
+
+TASTE: Upbeat and energetic tracks  
+REASON: I appreciate music that has a lively tempo and makes me feel energized.
+
+TASTE: Diverse musical styles  
+REASON: I have a varied taste, enjoying different genres and sounds in my playlist.
+
+TASTE: Well-produced and polished songs  
+REASON: I favor tracks that have high production quality and a professional sound.
+
+TASTE: Catchy melodies  
+REASON: I am drawn to songs with memorable hooks and engaging tunes.
+
+HIGH RATINGS: I tend to give high ratings to emotionally resonant and energetic tracks that are well-produced and catchy.  
+LOW RATINGS: I tend to give low ratings to music that feels flat, lacks energy, or does not resonate with me emotionally.

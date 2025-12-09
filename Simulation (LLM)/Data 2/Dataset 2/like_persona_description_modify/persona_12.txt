@@ -1,0 +1,17 @@
+TASTE: Emotional storytelling  
+REASON: I appreciate music that conveys deep emotions and personal narratives.
+
+TASTE: Upbeat and lively rhythms  
+REASON: I enjoy tracks that have an energetic and vibrant feel, making me want to move.
+
+TASTE: Melodic and harmonious compositions  
+REASON: I am drawn to music that features beautiful melodies and rich harmonies.
+
+TASTE: Reflective and introspective themes  
+REASON: I like songs that encourage contemplation and self-reflection.
+
+TASTE: Diverse musical styles  
+REASON: I have a taste for a variety of genres, appreciating different sounds and influences.
+
+HIGH RATINGS: I tend to give high ratings to music that is emotionally resonant, melodic, and has a lively or reflective quality.  
+LOW RATINGS: I tend to give low ratings to music that feels flat, lacks emotional depth, or does not engage me rhythmically.

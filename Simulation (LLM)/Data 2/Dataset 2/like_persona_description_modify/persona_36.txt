@@ -1,0 +1,23 @@
+TASTE: Melodic and uplifting tracks  
+REASON: I enjoy music that has a positive and cheerful vibe, which resonates with my high ratings.
+
+TASTE: Emotionally charged ballads  
+REASON: I appreciate songs that evoke strong feelings, as reflected in my higher ratings for these types of tracks.
+
+TASTE: Upbeat and energetic songs  
+REASON: I tend to favor tracks that make me feel energized and motivated, leading to my higher ratings.
+
+TASTE: Complex and intricate compositions  
+REASON: I am drawn to music that showcases artistic depth and creativity, which I reward with higher ratings.
+
+TASTE: Simple and repetitive tunes  
+REASON: I often find myself rating these tracks lower due to their lack of complexity and depth.
+
+TASTE: Overly commercial pop songs  
+REASON: I tend to give low ratings to tracks that feel formulaic and lack originality.
+
+TASTE: Dark or heavy themes in music  
+REASON: I usually rate these tracks lower because they don't resonate with my preferred listening experience.
+
+HIGH RATINGS: I tend to give high ratings to melodic, uplifting, and emotionally charged tracks that showcase creativity and energy.  
+LOW RATINGS: I tend to give low ratings to simple, repetitive, and overly commercial songs that lack originality and depth.
